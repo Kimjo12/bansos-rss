@@ -5,11 +5,41 @@ import xml.etree.ElementTree as ET
 from xml.dom import minidom
 import re
 import os
+import time
 
-SITE_URL = "https://bansos.medanaktual.com/"
-FEED_TITLE = "Bansos MedanAktual RSS Feed"
-FEED_DESCRIPTION = "RSS Feed untuk bansos.medanaktual.com - Informasi Bantuan Sosial Terkini"
-FEED_LINK = "https://bansos.medanaktual.com/"
+# =============================================
+# KONFIGURASI SEMUA SUMBER
+# =============================================
+SOURCES = [
+    # bansos.medanaktual.com
+    {"url": "https://bansos.medanaktual.com/category/bansos/", "category": "Bansos"},
+    {"url": "https://bansos.medanaktual.com/category/bantuan-pip/", "category": "Bantuan PIP"},
+    {"url": "https://bansos.medanaktual.com/category/cek-bansos/", "category": "Cek Bansos"},
+    # id.medanaktual.com
+    {"url": "https://id.medanaktual.com/category/bpjs-kesehatan/", "category": "BPJS Kesehatan"},
+    {"url": "https://id.medanaktual.com/category/bpjs-ketenagakerjaan/", "category": "BPJS Ketenagakerjaan"},
+    {"url": "https://id.medanaktual.com/category/cpns/", "category": "CPNS"},
+    {"url": "https://id.medanaktual.com/category/pppk/", "category": "PPPK"},
+    {"url": "https://id.medanaktual.com/category/ekonomi/", "category": "Ekonomi"},
+    {"url": "https://id.medanaktual.com/category/pendidikan/", "category": "Pendidikan"},
+    # disway.id
+    {"url": "https://disway.id/kategori/108/keuangan", "category": "Keuangan"},
+    # ihram.co.id
+    {"url": "https://ihram.co.id/olahraga", "category": "Olahraga"},
+    {"url": "https://ihram.co.id/finance", "category": "Finance"},
+    {"url": "https://ihram.co.id/teknologi", "category": "Teknologi"},
+    # bungkuselatan.id
+    {"url": "https://bungkuselatan.id/category/aplikasi/", "category": "Aplikasi"},
+    {"url": "https://bungkuselatan.id/category/game/", "category": "Game"},
+    {"url": "https://bungkuselatan.id/category/tutorial/", "category": "Tutorial"},
+    {"url": "https://bungkuselatan.id/category/ekonomi/", "category": "Ekonomi"},
+    # radarbogor.jawapos.com
+    {"url": "https://radarbogor.jawapos.com/bansos", "category": "Bansos"},
+]
+
+FEED_TITLE = "Multi-Source RSS Feed"
+FEED_DESCRIPTION = "RSS Feed gabungan dari berbagai sumber berita Indonesia"
+FEED_LINK = "https://github.com/Kimjo12/bansos-rss"
 OUTPUT_FILE = "feed.xml"
 
 HEADERS = {
@@ -18,45 +48,56 @@ HEADERS = {
     "Accept-Language": "id-ID,id;q=0.9,en-US;q=0.8,en;q=0.7",
 }
 
-# Halaman yang akan di-scrape (tambahkan lebih banyak jika perlu)
-PAGES_TO_SCRAPE = [
-    SITE_URL,
-    f"{SITE_URL}page/2/",
-    f"{SITE_URL}page/3/",
-]
-
 
 def fetch_page(url):
     """Ambil halaman HTML dari URL."""
     try:
-        resp = requests.get(url, headers=HEADERS, timeout=30, verify=True)
+        resp = requests.get(url, headers=HEADERS, timeout=30, verify=True, allow_redirects=True)
         resp.raise_for_status()
-        resp.encoding = "utf-8"
+        resp.encoding = resp.apparent_encoding or "utf-8"
         return resp.text
     except Exception as e:
-        print(f"[ERROR] Gagal mengambil {url}: {e}")
+        print(f"  [ERROR] Gagal mengambil {url}: {e}")
         return None
 
 
-def parse_articles(html):
-    """Parse artikel dari HTML halaman utama."""
+def get_domain(url):
+    """Ekstrak domain dari URL."""
+    from urllib.parse import urlparse
+    return urlparse(url).netloc
+
+
+def parse_articles_generic(html, source_url, category):
+    """Parse artikel dari HTML - generic untuk berbagai situs WordPress/CMS."""
     soup = BeautifulSoup(html, "html.parser")
     articles = []
     seen_urls = set()
+    domain = get_domain(source_url)
 
-    # Cari semua link artikel dari heading h2/h3 dengan class post-title
-    # JNews theme biasanya pakai class "jeg_post_title"
-    selectors = [
-        "h3.jeg_post_title a",
-        "h2.jeg_post_title a",
-        "h3 a[href*='bansos.medanaktual.com']",
-        "h2 a[href*='bansos.medanaktual.com']",
-        ".jeg_postblock a.jeg_post_title",
-    ]
-
+    # Strategi 1: Cari semua <a> dalam heading (h1-h4) - umum di WordPress
     links = []
-    for selector in selectors:
-        links.extend(soup.select(selector))
+    for tag in ["h1", "h2", "h3", "h4"]:
+        for heading in soup.find_all(tag):
+            for a in heading.find_all("a", href=True):
+                links.append(a)
+
+    # Strategi 2: Cari <a> dengan class yang umum di theme berita
+    common_title_classes = [
+        "post-title", "entry-title", "jeg_post_title", "article-title",
+        "news-title", "card-title", "title", "post__title"
+    ]
+    for cls in common_title_classes:
+        for a in soup.select(f"a.{cls}, .{cls} a"):
+            if a not in links:
+                links.append(a)
+
+    # Strategi 3: Cari article tag
+    for article in soup.find_all("article"):
+        for a in article.find_all("a", href=True):
+            title_text = a.get_text(strip=True)
+            if len(title_text) > 20:  # Kemungkinan judul artikel
+                if a not in links:
+                    links.append(a)
 
     for link in links:
         url = link.get("href", "").strip()
@@ -64,18 +105,30 @@ def parse_articles(html):
 
         if not url or not title:
             continue
+        if len(title) < 15:  # Terlalu pendek untuk jadi judul
+            continue
         if url in seen_urls:
             continue
-        if "/category/" in url or "/tag/" in url or "/page/" in url:
+
+        # Pastikan URL lengkap
+        if url.startswith("/"):
+            url = f"https://{domain}{url}"
+
+        # Filter: hanya ambil yang dari domain yang sama
+        if domain not in url:
             continue
-        if url == SITE_URL:
+        # Skip halaman kategori, tag, page
+        skip_patterns = ["/category/", "/tag/", "/page/", "/kategori/", "/author/",
+                         "#", "javascript:", "/search/"]
+        if any(p in url for p in skip_patterns):
             continue
-        if "bansos.medanaktual.com" not in url:
+        # Skip jika URL sama dengan source
+        if url.rstrip("/") == source_url.rstrip("/"):
             continue
 
         seen_urls.add(url)
 
-        # Cari excerpt - naik ke parent untuk cari <p>
+        # Cari excerpt
         excerpt = ""
         parent = link.parent
         for _ in range(8):
@@ -85,7 +138,7 @@ def parse_articles(html):
             if parent:
                 p_tag = parent.find("p")
                 if p_tag and len(p_tag.get_text(strip=True)) > 30:
-                    excerpt = p_tag.get_text(strip=True)
+                    excerpt = p_tag.get_text(strip=True)[:300]
                     break
 
         # Cari gambar
@@ -98,8 +151,10 @@ def parse_articles(html):
             if img_parent:
                 img = img_parent.find("img")
                 if img:
-                    src = img.get("data-src") or img.get("src") or ""
-                    if src and "jeg-empty" not in src and "data:image" not in src:
+                    src = img.get("data-src") or img.get("data-lazy-src") or img.get("src") or ""
+                    if src and "jeg-empty" not in src and "data:image" not in src and "placeholder" not in src:
+                        if src.startswith("/"):
+                            src = f"https://{domain}{src}"
                         image = src
                         break
 
@@ -108,69 +163,74 @@ def parse_articles(html):
             "url": url,
             "excerpt": excerpt,
             "image": image,
+            "category": category,
+            "source": domain,
         })
 
     return articles
 
 
-def fetch_article_content(url):
-    """Ambil konten lengkap dari halaman artikel individual."""
+def fetch_article_date(url):
+    """Ambil tanggal publikasi dari halaman artikel."""
     html = fetch_page(url)
     if not html:
-        return "", ""
+        return ""
 
     soup = BeautifulSoup(html, "html.parser")
 
-    # Cari tanggal publikasi
-    pub_date = ""
     # Cari dari meta tag
-    meta_date = soup.find("meta", {"property": "article:published_time"})
-    if meta_date:
-        pub_date = meta_date.get("content", "")
+    for meta_prop in ["article:published_time", "og:published_time", "datePublished"]:
+        meta = soup.find("meta", {"property": meta_prop}) or soup.find("meta", {"name": meta_prop})
+        if meta and meta.get("content"):
+            return meta["content"]
 
-    if not pub_date:
-        time_tag = soup.find("time", {"datetime": True})
-        if time_tag:
-            pub_date = time_tag.get("datetime", "")
+    # Cari dari tag <time>
+    time_tag = soup.find("time", {"datetime": True})
+    if time_tag:
+        return time_tag["datetime"]
 
-    # Cari konten artikel
-    content = ""
-    content_div = (
-        soup.select_one("div.entry-content")
-        or soup.select_one("div.content-inner")
-        or soup.select_one("div.post-content")
-        or soup.select_one("article .entry-content")
-    )
+    # Cari dari JSON-LD
+    for script in soup.find_all("script", {"type": "application/ld+json"}):
+        try:
+            import json
+            data = json.loads(script.string)
+            if isinstance(data, dict):
+                if "datePublished" in data:
+                    return data["datePublished"]
+            elif isinstance(data, list):
+                for item in data:
+                    if isinstance(item, dict) and "datePublished" in item:
+                        return item["datePublished"]
+        except Exception:
+            pass
 
-    if content_div:
-        # Hapus elemen yang tidak perlu
-        for tag in content_div.select(
-            ".jeg_share_button, .jnews_related, .jeg_ad, "
-            ".jp-relatedposts, .sharedaddy, script, style, "
-            ".jeg_post_tags, .jeg_authorbox, .jnews_comment, "
-            ".jeg_next_prev, ins, .adsbygoogle, .jeg_breadcrumbs, "
-            "iframe[src*='facebook'], .fb-comments"
-        ):
-            tag.decompose()
+    return ""
 
-        # Ambil teks bersih
-        paragraphs = content_div.find_all(["p", "h2", "h3", "h4", "ul", "ol", "table"])
-        content_parts = []
-        for p in paragraphs:
-            text = p.get_text(strip=True)
-            if text and len(text) > 5:
-                if p.name in ["h2", "h3", "h4"]:
-                    content_parts.append(f"<{p.name}>{text}</{p.name}>")
-                elif p.name in ["ul", "ol"]:
-                    content_parts.append(str(p))
-                elif p.name == "table":
-                    content_parts.append(str(p))
-                else:
-                    content_parts.append(f"<p>{text}</p>")
 
-        content = "\n".join(content_parts)
+def format_date_rfc822(date_str):
+    """Konversi berbagai format tanggal ke RFC 822."""
+    if not date_str:
+        return datetime.now(timezone.utc).strftime("%a, %d %b %Y %H:%M:%S +0000")
 
-    return content, pub_date
+    try:
+        # ISO format
+        dt = datetime.fromisoformat(date_str.replace("Z", "+00:00"))
+        return dt.strftime("%a, %d %b %Y %H:%M:%S +0000")
+    except Exception:
+        pass
+
+    try:
+        # Coba parse format umum lainnya
+        for fmt in ["%Y-%m-%d", "%d/%m/%Y", "%Y-%m-%dT%H:%M:%S"]:
+            try:
+                dt = datetime.strptime(date_str[:19], fmt)
+                return dt.strftime("%a, %d %b %Y %H:%M:%S +0000")
+            except Exception:
+                continue
+    except Exception:
+        pass
+
+    return datetime.now(timezone.utc).strftime("%a, %d %b %Y %H:%M:%S +0000")
 
 
 def generate_rss(articles):
@@ -190,7 +250,7 @@ def generate_rss(articles):
     )
 
     # Atom self link
-    github_user = os.environ.get("GITHUB_REPOSITORY_OWNER", "USERNAME")
+    github_user = os.environ.get("GITHUB_REPOSITORY_OWNER", "Kimjo12")
     repo_name = os.environ.get("GITHUB_REPOSITORY", "").split("/")[-1] if os.environ.get("GITHUB_REPOSITORY") else "bansos-rss"
     feed_url = f"https://{github_user}.github.io/{repo_name}/feed.xml"
 
@@ -199,44 +259,32 @@ def generate_rss(articles):
     atom_link.set("rel", "self")
     atom_link.set("type", "application/rss+xml")
 
-    print(f"\n[INFO] Memproses {len(articles)} artikel...")
+    print(f"\n{'='*60}")
+    print(f"Mengambil tanggal publikasi untuk {len(articles)} artikel...")
+    print(f"{'='*60}")
 
     for i, article in enumerate(articles):
-        print(f"  [{i+1}/{len(articles)}] {article['title'][:60]}...")
+        print(f"  [{i+1}/{len(articles)}] [{article['source']}] {article['title'][:50]}...")
 
-        # Ambil konten lengkap
-        content, pub_date = fetch_article_content(article["url"])
+        # Ambil tanggal dari halaman artikel (setiap 5 artikel, delay sedikit)
+        if i > 0 and i % 5 == 0:
+            time.sleep(1)
 
-        if not pub_date:
-            pub_date = datetime.now(timezone.utc).strftime("%a, %d %b %Y %H:%M:%S +0000")
-        else:
-            # Convert ISO date ke RFC 822
-            try:
-                dt = datetime.fromisoformat(pub_date.replace("Z", "+00:00"))
-                pub_date = dt.strftime("%a, %d %b %Y %H:%M:%S +0000")
-            except Exception:
-                pub_date = datetime.now(timezone.utc).strftime("%a, %d %b %Y %H:%M:%S +0000")
+        pub_date_raw = fetch_article_date(article["url"])
+        pub_date = format_date_rfc822(pub_date_raw)
 
         item = ET.SubElement(channel, "item")
         ET.SubElement(item, "title").text = article["title"]
         ET.SubElement(item, "link").text = article["url"]
         ET.SubElement(item, "guid").text = article["url"]
         ET.SubElement(item, "pubDate").text = pub_date
+        ET.SubElement(item, "category").text = article.get("category", "")
+        ET.SubElement(item, "source").text = article.get("source", "")
 
-        # Description (excerpt)
+        # Description
         description = article.get("excerpt", "")
-        if not description and content:
-            # Ambil 200 karakter pertama dari konten
-            soup = BeautifulSoup(content, "html.parser")
-            description = soup.get_text(strip=True)[:300] + "..."
-        ET.SubElement(item, "description").text = description
-
-        # Full content
-        if content:
-            content_encoded = ET.SubElement(
-                item, "{http://purl.org/rss/1.0/modules/content/}encoded"
-            )
-            content_encoded.text = content
+        if description:
+            ET.SubElement(item, "description").text = description
 
         # Media/image
         if article.get("image"):
@@ -253,7 +301,6 @@ def generate_rss(articles):
     try:
         dom = minidom.parseString(xml_string)
         pretty_xml = dom.toprettyxml(indent="  ", encoding=None)
-        # Remove extra xml declaration from minidom
         pretty_xml = "\n".join(pretty_xml.split("\n")[1:])
         xml_string = '<?xml version="1.0" encoding="UTF-8"?>\n' + pretty_xml
     except Exception:
@@ -264,29 +311,46 @@ def generate_rss(articles):
 
 def main():
     print("=" * 60)
-    print("Bansos MedanAktual RSS Feed Generator")
+    print("Multi-Source RSS Feed Generator")
+    print(f"Total sumber: {len(SOURCES)}")
     print("=" * 60)
 
     all_articles = []
     seen_urls = set()
 
-    for page_url in PAGES_TO_SCRAPE:
-        print(f"\n[INFO] Scraping: {page_url}")
-        html = fetch_page(page_url)
+    for idx, source in enumerate(SOURCES):
+        url = source["url"]
+        category = source["category"]
+        domain = get_domain(url)
+
+        print(f"\n[{idx+1}/{len(SOURCES)}] Scraping: {url}")
+        print(f"  Kategori: {category} | Domain: {domain}")
+
+        html = fetch_page(url)
         if not html:
+            print(f"  [SKIP] Gagal mengambil halaman")
             continue
 
-        articles = parse_articles(html)
+        articles = parse_articles_generic(html, url, category)
+
+        new_count = 0
         for article in articles:
             if article["url"] not in seen_urls:
                 seen_urls.add(article["url"])
                 all_articles.append(article)
+                new_count += 1
 
-        print(f"  Ditemukan {len(articles)} artikel (total unik: {len(all_articles)})")
+        print(f"  Ditemukan: {len(articles)} artikel, Baru: {new_count}")
+
+        # Delay antar sumber untuk tidak terlalu agresif
+        time.sleep(1)
+
+    print(f"\n{'='*60}")
+    print(f"Total artikel unik: {len(all_articles)}")
+    print(f"{'='*60}")
 
     if not all_articles:
         print("\n[WARNING] Tidak ada artikel ditemukan!")
-        # Buat feed kosong
         rss_content = '<?xml version="1.0" encoding="UTF-8"?>\n<rss version="2.0"><channel>'
         rss_content += f"<title>{FEED_TITLE}</title>"
         rss_content += f"<link>{FEED_LINK}</link>"
@@ -301,6 +365,7 @@ def main():
 
     print(f"\n[SUCCESS] Feed berhasil disimpan ke {OUTPUT_FILE}")
     print(f"[INFO] Total artikel: {len(all_articles)}")
+    print(f"[INFO] Sumber aktif: {len(set(a['source'] for a in all_articles))}")
 
 
 if __name__ == "__main__":
