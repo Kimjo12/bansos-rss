@@ -28,11 +28,6 @@ SOURCES = [
     {"url": "https://ihram.co.id/olahraga", "category": "Olahraga"},
     {"url": "https://ihram.co.id/finance", "category": "Finance"},
     {"url": "https://ihram.co.id/teknologi", "category": "Teknologi"},
-    # bungkuselatan.id
-    {"url": "https://bungkuselatan.id/category/aplikasi/", "category": "Aplikasi"},
-    {"url": "https://bungkuselatan.id/category/game/", "category": "Game"},
-    {"url": "https://bungkuselatan.id/category/tutorial/", "category": "Tutorial"},
-    {"url": "https://bungkuselatan.id/category/ekonomi/", "category": "Ekonomi"},
     # radarbogor.jawapos.com
     {"url": "https://radarbogor.jawapos.com/bansos", "category": "Bansos"},
 ]
