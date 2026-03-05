@@ -5,8 +5,16 @@
     <description>RSS Feed gabungan dari berbagai sumber berita Indonesia</description>
     <link>https://github.com/Kimjo12/bansos-rss</link>
     <language>id</language>
-    <lastBuildDate>Thu, 05 Mar 2026 12:00:47 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 05 Mar 2026 15:37:20 +0000</lastBuildDate>
     <ns0:link href="https://Kimjo12.github.io/bansos-rss/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>KJP Maret 2026 Kapan Cair? Simak Perkiraan Jadwal dan Cara Cek Status Penerima</title>
+      <link>https://bansos.medanaktual.com/kjp-maret-2026-kapan-cair-simak-perkiraan-jadwal-dan-cara-cek-status-penerima/</link>
+      <guid>https://bansos.medanaktual.com/kjp-maret-2026-kapan-cair-simak-perkiraan-jadwal-dan-cara-cek-status-penerima/</guid>
+      <pubDate>Thu, 05 Mar 2026 21:16:10 +0000</pubDate>
+      <category>Bansos</category>
+      <source>bansos.medanaktual.com</source>
+    </item>
     <item>
       <title>PKH &amp; BPNT Maret 2026 Cair! Cek Penerima Lewat DTSEN di Sini</title>
       <link>https://bansos.medanaktual.com/pkh-bpnt-maret-2026-cair-cek-penerima-lewat-dtsen-di-sini/</link>
@@ -22,6 +30,8 @@
       <pubDate>Thu, 05 Mar 2026 15:10:33 +0000</pubDate>
       <category>Bansos</category>
       <source>bansos.medanaktual.com</source>
+      <description>Memasuki bulan Maret 2026, banyak masyarakat mulai mencari informasi mengenai bantuan sosial (bansos) yang akan disalurkan pemerintah. Program bansos ini...</description>
+      <ns1:content url="https://bansos.medanaktual.com/wp-content/uploads/2026/03/daftar-bansos-maret-2026-lengkap-dengan-cara-cek-status-penerima-350x250.webp" medium="image"/>
     </item>
     <item>
       <title>Cek Bansos Kemensos! ATENSI YAPI 2026 Cair</title>
@@ -112,16 +122,6 @@
       <source>bansos.medanaktual.com</source>
       <description>Melalui Kementerian Sosial, program seperti Program Keluarga Harapan (PKH) dan Bantuan Pangan Non Tunai (BPNT) atau Program Sembako kembali disalurkan...</description>
       <ns1:content url="https://bansos.medanaktual.com/wp-content/uploads/2026/02/WhatsApp-Image-2026-02-24-at-01.15.57-1-350x250.jpeg" medium="image"/>
-    </item>
-    <item>
-      <title>Ini Cara Cek Bansos dan Kriteria Terbarunya, BPNT Maret 2026 Cair Rp600.000</title>
-      <link>https://bansos.medanaktual.com/ini-cara-cek-bansos-dan-kriteria-terbarunya-bpnt-maret-2026-cair-rp600-000/</link>
-      <guid>https://bansos.medanaktual.com/ini-cara-cek-bansos-dan-kriteria-terbarunya-bpnt-maret-2026-cair-rp600-000/</guid>
-      <pubDate>Thu, 05 Mar 2026 12:15:40 +0000</pubDate>
-      <category>Bansos</category>
-      <source>bansos.medanaktual.com</source>
-      <description>Penyaluran Bantuan Pangan Non Tunai (BPNT) periode Maret 2026 menjadi perhatian masyarakat. Pemerintah mulai mencairkan bantuan tahap pertama tahun anggaran...</description>
-      <ns1:content url="https://bansos.medanaktual.com/wp-content/uploads/2026/03/ini-cara-cek-bansos-dan-kriteria-terbarunya-bpnt-maret-2026-cair-rp600000-350x250.webp" medium="image"/>
     </item>
     <item>
       <title>Cek PIP SD SMP SMA Maret 2026: Sudah Cair atau Belum? Ini Cara Mudahnya</title>
@@ -238,6 +238,16 @@
       <source>bansos.medanaktual.com</source>
       <description>Bantuan sosial ATENSI YAPI 2026 kembali menjadi perhatian masyarakat, khususnya bagi anak yatim, piatu, dan yatim piatu yang terdaftar sebagai...</description>
       <ns1:content url="https://bansos.medanaktual.com/wp-content/uploads/2026/02/kapan-bansos-atensi-yapi-2026-cair-ini-syarat-dan-cara-mengeceknya-350x250.webp" medium="image"/>
+    </item>
+    <item>
+      <title>Ini Cara Cek Bansos dan Kriteria Terbarunya, BPNT Maret 2026 Cair Rp600.000</title>
+      <link>https://bansos.medanaktual.com/ini-cara-cek-bansos-dan-kriteria-terbarunya-bpnt-maret-2026-cair-rp600-000/</link>
+      <guid>https://bansos.medanaktual.com/ini-cara-cek-bansos-dan-kriteria-terbarunya-bpnt-maret-2026-cair-rp600-000/</guid>
+      <pubDate>Thu, 05 Mar 2026 12:15:40 +0000</pubDate>
+      <category>Cek Bansos</category>
+      <source>bansos.medanaktual.com</source>
+      <description>Penyaluran Bantuan Pangan Non Tunai (BPNT) periode Maret 2026 menjadi perhatian masyarakat. Pemerintah mulai mencairkan bantuan tahap pertama tahun anggaran...</description>
+      <ns1:content url="https://bansos.medanaktual.com/wp-content/uploads/2026/03/ini-cara-cek-bansos-dan-kriteria-terbarunya-bpnt-maret-2026-cair-rp600000-350x250.webp" medium="image"/>
     </item>
     <item>
       <title>Cek Bansos Kemensos 2026 Pakai NIK KTP, Status Desil Langsung Muncul di HP</title>
@@ -403,40 +413,48 @@
       <ns1:content url="https://id.medanaktual.com/wp-content/uploads/2026/03/Screenshot-2026-03-01-230929-120x86.png" medium="image"/>
     </item>
     <item>
-      <title>KPR 2026 Bunga Paling Rendah: Simulasi Angsuran &amp; Daftar Promo Bank</title>
-      <link>https://id.medanaktual.com/kpr-2026-bunga-paling-rendah-simulasi-angsuran-daftar-promo-bank/</link>
-      <guid>https://id.medanaktual.com/kpr-2026-bunga-paling-rendah-simulasi-angsuran-daftar-promo-bank/</guid>
-      <pubDate>Mon, 26 Jan 2026 13:44:05 +0000</pubDate>
+      <title>Informasi Mudik Gratis Pemprov DKI 2026 Kluster 3</title>
+      <link>https://id.medanaktual.com/informasi-mudik-gratis-pemprov-dki-2026-kluster-3/</link>
+      <guid>https://id.medanaktual.com/informasi-mudik-gratis-pemprov-dki-2026-kluster-3/</guid>
+      <pubDate>Mon, 02 Mar 2026 07:32:19 +0000</pubDate>
       <category>BPJS Kesehatan</category>
       <source>id.medanaktual.com</source>
-      <ns1:content url="https://id.medanaktual.com/wp-content/uploads/2026/01/kpr-2026-bunga-paling-rendah-simulasi-angsuran-daftar-promo-bank-350x250.webp" medium="image"/>
+      <ns1:content url="https://id.medanaktual.com/wp-content/uploads/2026/03/mudik-gratis-pemprov-dki-jakarta-2026-350x250.webp" medium="image"/>
     </item>
     <item>
-      <title>Tips Aktifkan Lazada PayLater 2026 Supaya Pengajuan Langsung Acc</title>
-      <link>https://id.medanaktual.com/tips-aktifkan-lazada-paylater-2026-supaya-pengajuan-langsung-acc/</link>
-      <guid>https://id.medanaktual.com/tips-aktifkan-lazada-paylater-2026-supaya-pengajuan-langsung-acc/</guid>
-      <pubDate>Tue, 03 Feb 2026 01:46:39 +0000</pubDate>
+      <title>Cara Membuat SIM Baru Secara Online 2026 , Syarat Dan Langkahnya</title>
+      <link>https://id.medanaktual.com/cara-membuat-sim-baru-secara-online-2026-syarat-dan-langkahnya/</link>
+      <guid>https://id.medanaktual.com/cara-membuat-sim-baru-secara-online-2026-syarat-dan-langkahnya/</guid>
+      <pubDate>Thu, 12 Feb 2026 22:12:30 +0000</pubDate>
       <category>BPJS Kesehatan</category>
       <source>id.medanaktual.com</source>
-      <ns1:content url="https://id.medanaktual.com/wp-content/uploads/2026/02/tips-aktifkan-lazada-paylater-2026-supaya-pengajuan-langsung-acc-120x86.webp" medium="image"/>
+      <ns1:content url="https://id.medanaktual.com/wp-content/uploads/2026/02/cara-membuat-sim-baru-secara-online-2026-syarat-dan-langkahnya-120x86.webp" medium="image"/>
     </item>
     <item>
-      <title>Cara Mengecek Info GTK Resmi Kemendikdasmen dengan Mudah</title>
-      <link>https://id.medanaktual.com/cara-mengecek-info-gtk-resmi-kemendikdasmen-dengan-mudah/</link>
-      <guid>https://id.medanaktual.com/cara-mengecek-info-gtk-resmi-kemendikdasmen-dengan-mudah/</guid>
-      <pubDate>Sat, 07 Feb 2026 11:30:33 +0000</pubDate>
+      <title>Cara Daftar Beasiswa LPDP 2026 Untuk Kuliah S2 dan S3</title>
+      <link>https://id.medanaktual.com/cara-daftar-beasiswa-lpdp-2026-untuk-kuliah-s2-dan-s3/</link>
+      <guid>https://id.medanaktual.com/cara-daftar-beasiswa-lpdp-2026-untuk-kuliah-s2-dan-s3/</guid>
+      <pubDate>Fri, 30 Jan 2026 21:26:47 +0000</pubDate>
       <category>BPJS Kesehatan</category>
       <source>id.medanaktual.com</source>
-      <ns1:content url="https://id.medanaktual.com/wp-content/uploads/2026/02/Screenshot-2026-02-06-210752-120x86.png" medium="image"/>
+      <ns1:content url="https://id.medanaktual.com/wp-content/uploads/2026/01/cara-daftar-beasiswa-lpdp-2026-untuk-kuliah-s2-dan-s3-120x86.webp" medium="image"/>
     </item>
     <item>
-      <title>500 Formasi PPPK 2026 Dibuka KemenHAM, Cek Ketentuan Dan Cara Mendaftar</title>
-      <link>https://id.medanaktual.com/500-formasi-pppk-2026-dibuka-kemenham-cek-ketentuan-dan-cara-mendaftar/</link>
-      <guid>https://id.medanaktual.com/500-formasi-pppk-2026-dibuka-kemenham-cek-ketentuan-dan-cara-mendaftar/</guid>
-      <pubDate>Fri, 23 Jan 2026 14:07:51 +0000</pubDate>
+      <title>Daftar 10 Universitas Terbaik di Tangerang Versi EduRank 2026</title>
+      <link>https://id.medanaktual.com/daftar-10-universitas-terbaik-di-tangerang-versi-edurank-2026/</link>
+      <guid>https://id.medanaktual.com/daftar-10-universitas-terbaik-di-tangerang-versi-edurank-2026/</guid>
+      <pubDate>Mon, 02 Mar 2026 15:30:30 +0000</pubDate>
       <category>BPJS Kesehatan</category>
       <source>id.medanaktual.com</source>
-      <ns1:content url="https://id.medanaktual.com/wp-content/uploads/2026/01/500-formasi-pppk-2026-dibuka-kemenham-cek-ketentuan-dan-cara-mendaftar-120x86.webp" medium="image"/>
+      <ns1:content url="https://id.medanaktual.com/wp-content/uploads/2026/03/Screenshot-2026-03-02-110431-120x86.png" medium="image"/>
+    </item>
+    <item>
+      <title>Cara Mengurus Klaim BPJS Ketenagakerjaan Secara Online Maupun Offline</title>
+      <link>https://id.medanaktual.com/cara-mengurus-klaim-bpjs-ketenagakerjaan-secara-online-maupun-offline/</link>
+      <guid>https://id.medanaktual.com/cara-mengurus-klaim-bpjs-ketenagakerjaan-secara-online-maupun-offline/</guid>
+      <pubDate>Thu, 05 Mar 2026 21:11:23 +0000</pubDate>
+      <category>BPJS Ketenagakerjaan</category>
+      <source>id.medanaktual.com</source>
     </item>
     <item>
       <title>Cara Cek Status Keaktifan BPJS Kesehatan Lewat Aplikasi Mobile JKN</title>
@@ -445,6 +463,8 @@
       <pubDate>Sun, 15 Feb 2026 21:16:30 +0000</pubDate>
       <category>BPJS Ketenagakerjaan</category>
       <source>id.medanaktual.com</source>
+      <description>Di era digital seperti sekarang, peserta BPJS Kesehatan tidak perlu lagi datang ke kantor cabang untuk mengetahui status kepesertaan mereka....</description>
+      <ns1:content url="https://id.medanaktual.com/wp-content/uploads/2026/02/cara-cek-status-keaktifan-bpjs-kesehatan-lewat-aplikasi-mobile-jkn-350x250.webp" medium="image"/>
     </item>
     <item>
       <title>Cara Daftar BPJS Kesehatan Online 2026, Lengkap dengan Syarat Terbarunya</title>
@@ -537,50 +557,40 @@
       <ns1:content url="https://id.medanaktual.com/wp-content/uploads/2026/01/JHT2026666-350x250.png" medium="image"/>
     </item>
     <item>
-      <title>Tak Perlu Paklaring! JHT BPJS 2026 Bisa Dicairkan, Ini Caranya</title>
-      <link>https://id.medanaktual.com/tak-perlu-paklaring-jht-bpjs-2026-bisa-dicairkan-ini-caranya/</link>
-      <guid>https://id.medanaktual.com/tak-perlu-paklaring-jht-bpjs-2026-bisa-dicairkan-ini-caranya/</guid>
-      <pubDate>Fri, 30 Jan 2026 19:15:04 +0000</pubDate>
+      <title>Cari RS Rujukan di Medan? Ini Rekomendasi dengan Layanan Lengkap</title>
+      <link>https://id.medanaktual.com/cari-rs-rujukan-di-medan-ini-rekomendasi-dengan-layanan-lengkap/</link>
+      <guid>https://id.medanaktual.com/cari-rs-rujukan-di-medan-ini-rekomendasi-dengan-layanan-lengkap/</guid>
+      <pubDate>Tue, 24 Feb 2026 11:50:47 +0000</pubDate>
       <category>BPJS Ketenagakerjaan</category>
       <source>id.medanaktual.com</source>
-      <description>Tak Perlu Paklaring! JHT BPJS 2026 Bisa Dicairkan, Ini Caranya. Mulai tahun 2026, proses pencairan Jaminan Hari Tua (JHT) dari...</description>
-      <ns1:content url="https://id.medanaktual.com/wp-content/uploads/2026/01/medanaktualpicture00005-2026-01-30T190730.480-350x250.jpg" medium="image"/>
+      <ns1:content url="https://id.medanaktual.com/wp-content/uploads/2026/02/Cuplikan-layar-2026-02-24-103932-350x250.png" medium="image"/>
     </item>
     <item>
-      <title>Cara Mengetahui Pengumuman PPPK KemenHAM 2026 Lewat Laman SSCASN</title>
-      <link>https://id.medanaktual.com/cara-mengetahui-pengumuman-pppk-kemenham-2026-lewat-laman-sscasn/</link>
-      <guid>https://id.medanaktual.com/cara-mengetahui-pengumuman-pppk-kemenham-2026-lewat-laman-sscasn/</guid>
-      <pubDate>Thu, 29 Jan 2026 21:19:37 +0000</pubDate>
+      <title>Masih Bingung? Ini Perbedaan KIP Kuliah dan PIP Sekolah</title>
+      <link>https://id.medanaktual.com/masih-bingung-ini-perbedaan-kip-kuliah-dan-pip-sekolah/</link>
+      <guid>https://id.medanaktual.com/masih-bingung-ini-perbedaan-kip-kuliah-dan-pip-sekolah/</guid>
+      <pubDate>Tue, 10 Feb 2026 13:27:27 +0000</pubDate>
       <category>BPJS Ketenagakerjaan</category>
       <source>id.medanaktual.com</source>
-      <ns1:content url="https://id.medanaktual.com/wp-content/uploads/2026/01/cara-mengetahui-pengumuman-pppk-kemenham-2026-lewat-laman-sscasn-350x250.webp" medium="image"/>
+      <ns1:content url="https://id.medanaktual.com/wp-content/uploads/2026/02/Screenshot-2026-02-09-175021-120x86.png" medium="image"/>
     </item>
     <item>
-      <title>Cara dan Syarat Mengajukan KUR BSI Super Mikro Dan Simulasi Pembayarannya di Tahun 2026</title>
-      <link>https://id.medanaktual.com/cara-dan-syarat-mengajukan-kur-bsi-super-mikro-dan-simulasi-pembayarannya-di-tahun-2026/</link>
-      <guid>https://id.medanaktual.com/cara-dan-syarat-mengajukan-kur-bsi-super-mikro-dan-simulasi-pembayarannya-di-tahun-2026/</guid>
-      <pubDate>Fri, 20 Feb 2026 10:02:13 +0000</pubDate>
+      <title>Butuh Modal Usaha? Simak Simulasi Angsuran KUR BNI Rp 25 juta-Rp 500 juta dengan Cicilan Ringan</title>
+      <link>https://id.medanaktual.com/butuh-modal-usaha-simak-simulasi-angsuran-kur-bni-rp-25-juta-rp-500-juta-dengan-cicilan-ringan/</link>
+      <guid>https://id.medanaktual.com/butuh-modal-usaha-simak-simulasi-angsuran-kur-bni-rp-25-juta-rp-500-juta-dengan-cicilan-ringan/</guid>
+      <pubDate>Tue, 03 Feb 2026 17:16:26 +0000</pubDate>
       <category>BPJS Ketenagakerjaan</category>
       <source>id.medanaktual.com</source>
-      <ns1:content url="https://id.medanaktual.com/wp-content/uploads/2026/02/Screenshot-2026-02-20-045011-120x86.png" medium="image"/>
+      <ns1:content url="https://id.medanaktual.com/wp-content/uploads/2026/02/medanaktualpicture00005-7-120x86.png" medium="image"/>
     </item>
     <item>
-      <title>Cara Mengajukan Paspor Online Lewat Aplikasi M-Paspor</title>
-      <link>https://id.medanaktual.com/cara-mengajukan-paspor-online-lewat-aplikasi-m-paspor/</link>
-      <guid>https://id.medanaktual.com/cara-mengajukan-paspor-online-lewat-aplikasi-m-paspor/</guid>
-      <pubDate>Wed, 04 Feb 2026 15:35:37 +0000</pubDate>
+      <title>Puasa Ramadhan 2026: Hitung Mundur Menuju 1 Ramadhan</title>
+      <link>https://id.medanaktual.com/puasa-ramadhan-2026-hitung-mundur-menuju-1-ramadhan/</link>
+      <guid>https://id.medanaktual.com/puasa-ramadhan-2026-hitung-mundur-menuju-1-ramadhan/</guid>
+      <pubDate>Tue, 03 Feb 2026 12:15:40 +0000</pubDate>
       <category>BPJS Ketenagakerjaan</category>
       <source>id.medanaktual.com</source>
-      <ns1:content url="https://id.medanaktual.com/wp-content/uploads/2026/02/cara-mengajukan-paspor-online-lewat-aplikasi-m-paspor-120x86.webp" medium="image"/>
-    </item>
-    <item>
-      <title>Cek BPJS Kesehatan Aktif atau Nonaktif Dengan Mudah, Simak Caranya</title>
-      <link>https://id.medanaktual.com/cek-bpjs-kesehatan-aktif-atau-nonaktif-dengan-mudah-simak-caranya/</link>
-      <guid>https://id.medanaktual.com/cek-bpjs-kesehatan-aktif-atau-nonaktif-dengan-mudah-simak-caranya/</guid>
-      <pubDate>Sat, 14 Feb 2026 20:20:05 +0000</pubDate>
-      <category>BPJS Ketenagakerjaan</category>
-      <source>id.medanaktual.com</source>
-      <ns1:content url="https://id.medanaktual.com/wp-content/uploads/2026/02/cek-bpjs-kesehatan-aktif-atau-nonaktif-dengan-mudah-simak-caranya-120x86.webp" medium="image"/>
+      <ns1:content url="https://id.medanaktual.com/wp-content/uploads/2026/02/puasa-ramadhan-2026-hitung-mundur-menuju-1-ramadhan-120x86.webp" medium="image"/>
     </item>
     <item>
       <title>CPNS 2026 Bakal Mendapatkan THR, Ini Penjelasannya</title>
@@ -661,40 +671,40 @@
       <ns1:content url="https://id.medanaktual.com/wp-content/uploads/2026/01/pendaftaran-cpns-2026-diperkirakan-segera-dibuka-simak-syarat-dan-dokumennya-350x250.webp" medium="image"/>
     </item>
     <item>
-      <title>Rekomendasi Dokter Spesialis Anak di Medan 2026: 5 Pilihan Terbaik untuk Kesehatan Anak</title>
-      <link>https://id.medanaktual.com/rekomendasi-dokter-spesialis-anak-di-medan-2026-5-pilihan-terbaik-untuk-kesehatan-anak/</link>
-      <guid>https://id.medanaktual.com/rekomendasi-dokter-spesialis-anak-di-medan-2026-5-pilihan-terbaik-untuk-kesehatan-anak/</guid>
-      <pubDate>Thu, 19 Feb 2026 14:43:32 +0000</pubDate>
+      <title>Skor Minimal TOEFL dan IELTS Untuk Daftar Beasiswa LPDP</title>
+      <link>https://id.medanaktual.com/skor-minimal-toefl-dan-ielts-untuk-daftar-beasiswa-lpdp/</link>
+      <guid>https://id.medanaktual.com/skor-minimal-toefl-dan-ielts-untuk-daftar-beasiswa-lpdp/</guid>
+      <pubDate>Sun, 01 Mar 2026 15:10:50 +0000</pubDate>
       <category>CPNS</category>
       <source>id.medanaktual.com</source>
-      <ns1:content url="https://id.medanaktual.com/wp-content/uploads/2026/02/medanaktualpicture00005-6_11zon-350x250.jpg" medium="image"/>
+      <ns1:content url="https://id.medanaktual.com/wp-content/uploads/2026/03/skor-minimal-toefl-lpdp-350x250.webp" medium="image"/>
     </item>
     <item>
-      <title>10 Universitas Swasta Terbaik di Indonesia Versi Webometrics</title>
-      <link>https://id.medanaktual.com/10-universitas-swasta-terbaik-di-indonesia-versi-webometrics/</link>
-      <guid>https://id.medanaktual.com/10-universitas-swasta-terbaik-di-indonesia-versi-webometrics/</guid>
-      <pubDate>Wed, 18 Feb 2026 15:30:19 +0000</pubDate>
+      <title>Program Pemutihan BPJS Kesehatan 2026, Ini Syarat dan Cara Daftar</title>
+      <link>https://id.medanaktual.com/program-pemutihan-bpjs-kesehatan-2026-ini-syarat-dan-cara-daftar-2/</link>
+      <guid>https://id.medanaktual.com/program-pemutihan-bpjs-kesehatan-2026-ini-syarat-dan-cara-daftar-2/</guid>
+      <pubDate>Sun, 25 Jan 2026 05:04:07 +0000</pubDate>
       <category>CPNS</category>
       <source>id.medanaktual.com</source>
-      <ns1:content url="https://id.medanaktual.com/wp-content/uploads/2026/02/Screenshot-2026-02-18-063035-120x86.png" medium="image"/>
+      <ns1:content url="https://id.medanaktual.com/wp-content/uploads/2026/01/medanaktualpicture00005-2026-01-25T113637.633-120x86.jpg" medium="image"/>
     </item>
     <item>
-      <title>6 Beasiswa Luar Negeri yang Buka Pendaftaran Februari–Maret 2026</title>
-      <link>https://id.medanaktual.com/6-beasiswa-luar-negeri-yang-buka-pendaftaran-februari-maret-2026/</link>
-      <guid>https://id.medanaktual.com/6-beasiswa-luar-negeri-yang-buka-pendaftaran-februari-maret-2026/</guid>
-      <pubDate>Wed, 11 Feb 2026 23:35:40 +0000</pubDate>
+      <title>Rekomendasi Jurusan SNPMB 2026 yang Banyak Peluang Kerja</title>
+      <link>https://id.medanaktual.com/rekomendasi-jurusan-snpmb-2026-yang-banyak-peluang-kerja/</link>
+      <guid>https://id.medanaktual.com/rekomendasi-jurusan-snpmb-2026-yang-banyak-peluang-kerja/</guid>
+      <pubDate>Fri, 20 Feb 2026 15:00:30 +0000</pubDate>
       <category>CPNS</category>
       <source>id.medanaktual.com</source>
-      <ns1:content url="https://id.medanaktual.com/wp-content/uploads/2026/02/6-beasiswa-luar-negeri-yang-buka-pendaftaran-februarimaret-2026-120x86.webp" medium="image"/>
+      <ns1:content url="https://id.medanaktual.com/wp-content/uploads/2026/02/Screenshot-2026-02-20-115351-120x86.png" medium="image"/>
     </item>
     <item>
-      <title>KIP Kuliah 2026, Ini Jumlah Bantuan yang Diterima</title>
-      <link>https://id.medanaktual.com/kip-kuliah-2026-ini-jumlah-bantuan-yang-diterima/</link>
-      <guid>https://id.medanaktual.com/kip-kuliah-2026-ini-jumlah-bantuan-yang-diterima/</guid>
-      <pubDate>Tue, 17 Feb 2026 13:29:12 +0000</pubDate>
+      <title>Rico Waas Tekankan Kekompakan Bapenda Demi Optimalisasi PAD</title>
+      <link>https://id.medanaktual.com/rico-waas-tekankan-kekompakan-bapenda-demi-optimalisasi-pad/</link>
+      <guid>https://id.medanaktual.com/rico-waas-tekankan-kekompakan-bapenda-demi-optimalisasi-pad/</guid>
+      <pubDate>Thu, 05 Mar 2026 18:06:28 +0000</pubDate>
       <category>CPNS</category>
       <source>id.medanaktual.com</source>
-      <ns1:content url="https://id.medanaktual.com/wp-content/uploads/2026/02/Screenshot-2026-02-17-121838-120x86.png" medium="image"/>
+      <ns1:content url="https://id.medanaktual.com/wp-content/uploads/2026/03/whatsapp-image-2026-03-04-at-224413_1772675432-120x86.jpeg" medium="image"/>
     </item>
     <item>
       <title>Gaji PPPK Paruh Waktu 2026: Rincian Lengkap Besaran dan Tunjangan</title>
@@ -765,6 +775,16 @@
       <ns1:content url="https://id.medanaktual.com/wp-content/uploads/2026/01/pppk-paruh-waktu-kebagian-thr-2026-ini-besaran-yang-akan-diterima-350x250.webp" medium="image"/>
     </item>
     <item>
+      <title>Cara Mengetahui Pengumuman PPPK KemenHAM 2026 Lewat Laman SSCASN</title>
+      <link>https://id.medanaktual.com/cara-mengetahui-pengumuman-pppk-kemenham-2026-lewat-laman-sscasn/</link>
+      <guid>https://id.medanaktual.com/cara-mengetahui-pengumuman-pppk-kemenham-2026-lewat-laman-sscasn/</guid>
+      <pubDate>Thu, 29 Jan 2026 21:19:37 +0000</pubDate>
+      <category>PPPK</category>
+      <source>id.medanaktual.com</source>
+      <description>Kementerian Hukum dan Hak Asasi Manusia (KemenHAM) akan segera merilis hasil seleksi administrasi Pegawai Pemerintah dengan Perjanjian Kerja (PPPK) tahun...</description>
+      <ns1:content url="https://id.medanaktual.com/wp-content/uploads/2026/01/cara-mengetahui-pengumuman-pppk-kemenham-2026-lewat-laman-sscasn-350x250.webp" medium="image"/>
+    </item>
+    <item>
       <title>Besaran Gaji PPPK Paruh Waktu 2026 Berbeda-beda, Begini Sistem Pembayarannya</title>
       <link>https://id.medanaktual.com/besaran-gaji-pppk-paruh-waktu-2026-berbeda-beda-begini-sistem-pembayarannya/</link>
       <guid>https://id.medanaktual.com/besaran-gaji-pppk-paruh-waktu-2026-berbeda-beda-begini-sistem-pembayarannya/</guid>
@@ -785,31 +805,48 @@
       <ns1:content url="https://id.medanaktual.com/wp-content/uploads/2026/01/medanaktualpicture00005-2026-01-26T105340.751-350x250.jpg" medium="image"/>
     </item>
     <item>
-      <title>Daftar 10 Universitas Terbaik Indonesia Edisi Terbaru Kemenristekdikti</title>
-      <link>https://id.medanaktual.com/daftar-10-universitas-terbaik-indonesia-edisi-terbaru-kemenristekdikti/</link>
-      <guid>https://id.medanaktual.com/daftar-10-universitas-terbaik-indonesia-edisi-terbaru-kemenristekdikti/</guid>
-      <pubDate>Mon, 16 Feb 2026 15:48:14 +0000</pubDate>
+      <title>7 Universitas Negeri Unggulan di Surabaya yang Jadi Incaran Mahasiswa</title>
+      <link>https://id.medanaktual.com/7-universitas-negeri-unggulan-di-surabaya-yang-jadi-incaran-mahasiswa/</link>
+      <guid>https://id.medanaktual.com/7-universitas-negeri-unggulan-di-surabaya-yang-jadi-incaran-mahasiswa/</guid>
+      <pubDate>Wed, 18 Feb 2026 11:35:03 +0000</pubDate>
       <category>PPPK</category>
       <source>id.medanaktual.com</source>
-      <ns1:content url="https://id.medanaktual.com/wp-content/uploads/2026/02/daftar-10-universitas-terbaik-indonesia-edisi-terbaru-kemenristekdikti-350x250.webp" medium="image"/>
+      <ns1:content url="https://id.medanaktual.com/wp-content/uploads/2026/02/7-universitas-negeri-unggulan-di-surabaya-yang-jadi-incaran-mahasiswa-350x250.webp" medium="image"/>
     </item>
     <item>
-      <title>Simak Jadwal Resmi Beasiswa LPDP 2026 Tahap I</title>
-      <link>https://id.medanaktual.com/simak-jadwal-resmi-beasiswa-lpdp-2026-tahap-i/</link>
-      <guid>https://id.medanaktual.com/simak-jadwal-resmi-beasiswa-lpdp-2026-tahap-i/</guid>
-      <pubDate>Thu, 26 Feb 2026 16:30:20 +0000</pubDate>
+      <title>Info Bank Resmi Penyalur PIP Tahun 2026 Terbaru</title>
+      <link>https://id.medanaktual.com/info-bank-resmi-penyalur-pip-tahun-2026-terbaru/</link>
+      <guid>https://id.medanaktual.com/info-bank-resmi-penyalur-pip-tahun-2026-terbaru/</guid>
+      <pubDate>Tue, 17 Feb 2026 09:43:04 +0000</pubDate>
       <category>PPPK</category>
       <source>id.medanaktual.com</source>
-      <ns1:content url="https://id.medanaktual.com/wp-content/uploads/2026/02/Screenshot-2026-02-26-120836-120x86.png" medium="image"/>
+      <ns1:content url="https://id.medanaktual.com/wp-content/uploads/2026/02/Screenshot-2026-02-17-033534-120x86.png" medium="image"/>
     </item>
     <item>
-      <title>Info Beasiswa Astra 2026, Peluang Kuliah Gratis</title>
-      <link>https://id.medanaktual.com/info-beasiswa-astra-2026-peluang-kuliah-gratis/</link>
-      <guid>https://id.medanaktual.com/info-beasiswa-astra-2026-peluang-kuliah-gratis/</guid>
-      <pubDate>Mon, 16 Feb 2026 14:28:28 +0000</pubDate>
+      <title>Cek PIP 2025 via HP Pakai NIK, Ini Panduan Lengkapnya</title>
+      <link>https://id.medanaktual.com/cek-pip-2025-via-hp-pakai-nik-ini-panduan-lengkapnya/</link>
+      <guid>https://id.medanaktual.com/cek-pip-2025-via-hp-pakai-nik-ini-panduan-lengkapnya/</guid>
+      <pubDate>Wed, 04 Feb 2026 14:51:22 +0000</pubDate>
       <category>PPPK</category>
       <source>id.medanaktual.com</source>
-      <ns1:content url="https://id.medanaktual.com/wp-content/uploads/2026/02/Screenshot-2026-02-16-121711-120x86.png" medium="image"/>
+      <ns1:content url="https://id.medanaktual.com/wp-content/uploads/2026/02/cek-pip-2025-via-hp-pakai-nik-ini-panduan-lengkapnya-120x86.webp" medium="image"/>
+    </item>
+    <item>
+      <title>Jadwal Cuti Bersama Imlek 2026, Siap-siap Libur Panjang</title>
+      <link>https://id.medanaktual.com/jadwal-cuti-bersama-imlek-2026-siap-siap-libur-panjang/</link>
+      <guid>https://id.medanaktual.com/jadwal-cuti-bersama-imlek-2026-siap-siap-libur-panjang/</guid>
+      <pubDate>Fri, 06 Feb 2026 19:50:43 +0000</pubDate>
+      <category>PPPK</category>
+      <source>id.medanaktual.com</source>
+      <ns1:content url="https://id.medanaktual.com/wp-content/uploads/2026/02/jadwal-cuti-bersama-imlek-2026-siap-siap-libur-panjang-120x86.webp" medium="image"/>
+    </item>
+    <item>
+      <title>Tabel KUR BSI Maret 2026: Pinjaman Rp1 Juta–Rp100 Juta Lengkap Dengan Simulasi Cicilan Per Bulan</title>
+      <link>https://id.medanaktual.com/tabel-kur-bsi-maret-2026-pinjaman-rp1-juta-rp100-juta-lengkap-dengan-simulasi-cicilan-per-bulan/</link>
+      <guid>https://id.medanaktual.com/tabel-kur-bsi-maret-2026-pinjaman-rp1-juta-rp100-juta-lengkap-dengan-simulasi-cicilan-per-bulan/</guid>
+      <pubDate>Thu, 05 Mar 2026 21:33:50 +0000</pubDate>
+      <category>Ekonomi</category>
+      <source>id.medanaktual.com</source>
     </item>
     <item>
       <title>Daftar Angsuran KUR Syariah BSI Terbaru, Pinjaman Rp200 Juta Cicilannya Segini</title>
@@ -818,6 +855,8 @@
       <pubDate>Fri, 27 Feb 2026 16:58:14 +0000</pubDate>
       <category>Ekonomi</category>
       <source>id.medanaktual.com</source>
+      <description>Dalam kondisi persaingan bisnis yang kian ketat, para pelaku usaha kini dapat memperluas skala usahanya tanpa harus meninggalkan prinsip yang...</description>
+      <ns1:content url="https://id.medanaktual.com/wp-content/uploads/2026/02/daftar-angsuran-kur-syariah-bsi-terbaru-pinjaman-rp200-juta-cicilannya-segini-350x250.webp" medium="image"/>
     </item>
     <item>
       <title>KUR BSI Februari 2026: Tabel Angsuran Terbaru dan Cara Daftar Lewat Aplikasi BYOND</title>
@@ -910,50 +949,40 @@
       <ns1:content url="https://id.medanaktual.com/wp-content/uploads/2026/02/abel-kur-bsi-2026-terbaru-simulasi-cicilan-rp1100-juta-per-bulan-350x250.webp" medium="image"/>
     </item>
     <item>
-      <title>Tabel Angsuran KUR BSI 2026 hingga Rp500 Juta, Tenor 1–4 Tahun</title>
-      <link>https://id.medanaktual.com/tabel-angsuran-kur-bsi-2026-hingga-rp500-juta-tenor-1-4-tahun/</link>
-      <guid>https://id.medanaktual.com/tabel-angsuran-kur-bsi-2026-hingga-rp500-juta-tenor-1-4-tahun/</guid>
-      <pubDate>Fri, 20 Feb 2026 11:50:13 +0000</pubDate>
+      <title>Masih Bingung Cari Referensi? Google Scholar Bisa Jadi Solusinya</title>
+      <link>https://id.medanaktual.com/masih-bingung-cari-referensi-google-scholar-bisa-jadi-solusinya/</link>
+      <guid>https://id.medanaktual.com/masih-bingung-cari-referensi-google-scholar-bisa-jadi-solusinya/</guid>
+      <pubDate>Fri, 13 Feb 2026 09:03:33 +0000</pubDate>
       <category>Ekonomi</category>
       <source>id.medanaktual.com</source>
-      <description>Program Kredit Usaha Rakyat (KUR) yang disalurkan oleh Bank Syariah Indonesia kembali menjadi pilihan utama pelaku UMKM pada 2026. Skema...</description>
-      <ns1:content url="https://id.medanaktual.com/wp-content/uploads/2026/02/tabel-angsuran-kur-bsi-2026-hingga-rp500-juta-tenor-14-tahun-350x250.webp" medium="image"/>
+      <ns1:content url="https://id.medanaktual.com/wp-content/uploads/2026/02/Screenshot-2026-02-12-230022-350x250.png" medium="image"/>
     </item>
     <item>
-      <title>Cara Cek BPJS Kesehatan Aktif atau Tidak Serta Panduan Lengkapnya</title>
-      <link>https://id.medanaktual.com/cara-cek-bpjs-kesehatan-aktif-atau-tidak-serta-panduan-lengkapnya/</link>
-      <guid>https://id.medanaktual.com/cara-cek-bpjs-kesehatan-aktif-atau-tidak-serta-panduan-lengkapnya/</guid>
-      <pubDate>Fri, 13 Feb 2026 20:15:45 +0000</pubDate>
+      <title>Jurusan Kuliah dengan Peluang Kerja Tinggi di 2026</title>
+      <link>https://id.medanaktual.com/jurusan-kuliah-dengan-peluang-kerja-tinggi-di-2026/</link>
+      <guid>https://id.medanaktual.com/jurusan-kuliah-dengan-peluang-kerja-tinggi-di-2026/</guid>
+      <pubDate>Sun, 08 Feb 2026 15:00:20 +0000</pubDate>
       <category>Ekonomi</category>
       <source>id.medanaktual.com</source>
-      <ns1:content url="https://id.medanaktual.com/wp-content/uploads/2026/02/cara-cek-bpjs-kesehatan-aktif-atau-tidak-serta-panduan-lengkapnya-350x250.webp" medium="image"/>
+      <ns1:content url="https://id.medanaktual.com/wp-content/uploads/2026/02/Screenshot-2026-02-08-111358-120x86.png" medium="image"/>
     </item>
     <item>
-      <title>Viral! Diduga Oknum Dishub Medan Minta Rp500 Ribu</title>
-      <link>https://id.medanaktual.com/viral-diduga-oknum-dishub-medan-minta-rp500-ribu/</link>
-      <guid>https://id.medanaktual.com/viral-diduga-oknum-dishub-medan-minta-rp500-ribu/</guid>
-      <pubDate>Wed, 04 Mar 2026 17:40:17 +0000</pubDate>
+      <title>Ini RS Khusus Mata di Medan yang Melayani BPJS</title>
+      <link>https://id.medanaktual.com/ini-rs-khusus-mata-di-medan-yang-melayani-bpjs/</link>
+      <guid>https://id.medanaktual.com/ini-rs-khusus-mata-di-medan-yang-melayani-bpjs/</guid>
+      <pubDate>Wed, 25 Feb 2026 12:15:43 +0000</pubDate>
       <category>Ekonomi</category>
       <source>id.medanaktual.com</source>
-      <ns1:content url="https://id.medanaktual.com/wp-content/uploads/2026/03/Screenshot_20260304_170028_YouTube-120x86.jpg" medium="image"/>
+      <ns1:content url="https://id.medanaktual.com/wp-content/uploads/2026/02/Cuplikan-layar-2026-02-25-093727-120x86.png" medium="image"/>
     </item>
     <item>
-      <title>Simulasi KUR Mandiri Terbaru: Suku Bunga Ringan Berlaku Bulan Ini</title>
-      <link>https://id.medanaktual.com/simulasi-kur-mandiri-terbaru-suku-bunga-ringan-berlaku-bulan-ini/</link>
-      <guid>https://id.medanaktual.com/simulasi-kur-mandiri-terbaru-suku-bunga-ringan-berlaku-bulan-ini/</guid>
-      <pubDate>Sun, 08 Feb 2026 10:40:38 +0000</pubDate>
+      <title>Daftar 5 Universitas Favorit di Bangkalan Madura</title>
+      <link>https://id.medanaktual.com/daftar-5-universitas-favorit-di-bangkalan-madura/</link>
+      <guid>https://id.medanaktual.com/daftar-5-universitas-favorit-di-bangkalan-madura/</guid>
+      <pubDate>Thu, 26 Feb 2026 16:00:03 +0000</pubDate>
       <category>Ekonomi</category>
       <source>id.medanaktual.com</source>
-      <ns1:content url="https://id.medanaktual.com/wp-content/uploads/2026/02/medanaktualpicture00005-33_11zon-120x86.jpg" medium="image"/>
-    </item>
-    <item>
-      <title>PIP 2026 Tahap 1 Mulai Disalurkan, Ini Cara Cek dan Pencairannya</title>
-      <link>https://id.medanaktual.com/pip-2026-tahap-1-mulai-disalurkan-ini-cara-cek-dan-pencairannya/</link>
-      <guid>https://id.medanaktual.com/pip-2026-tahap-1-mulai-disalurkan-ini-cara-cek-dan-pencairannya/</guid>
-      <pubDate>Sun, 15 Feb 2026 12:17:31 +0000</pubDate>
-      <category>Ekonomi</category>
-      <source>id.medanaktual.com</source>
-      <ns1:content url="https://id.medanaktual.com/wp-content/uploads/2026/02/Screenshot-2026-02-15-090025-120x86.png" medium="image"/>
+      <ns1:content url="https://id.medanaktual.com/wp-content/uploads/2026/02/Screenshot-2026-02-26-115303-120x86.png" medium="image"/>
     </item>
     <item>
       <title>7 Pesantren Terbaik di Medan 2026, Rekomendasi Pondok Pesantren Favorit</title>
@@ -1064,40 +1093,49 @@
       <ns1:content url="https://id.medanaktual.com/wp-content/uploads/2026/03/Universitas-Negeri-di-PalembanData-Profil-Ranking-dan-Alamat-Terbaru-350x250.jpg" medium="image"/>
     </item>
     <item>
-      <title>Cara Cek Status Pencairan PIP Awal Maret 2026, Siapkan 2 Data Penting Ini</title>
-      <link>https://id.medanaktual.com/cara-cek-status-pencairan-pip-awal-maret-2026-siapkan-2-data-penting-ini/</link>
-      <guid>https://id.medanaktual.com/cara-cek-status-pencairan-pip-awal-maret-2026-siapkan-2-data-penting-ini/</guid>
-      <pubDate>Tue, 03 Mar 2026 16:08:21 +0000</pubDate>
+      <title>Daftar Tabel Angsuran KUR BSI 2026 Beserta Cara Pengajuan</title>
+      <link>https://id.medanaktual.com/daftar-tabel-angsuran-kur-bsi-2026-beserta-cara-pengajuan/</link>
+      <guid>https://id.medanaktual.com/daftar-tabel-angsuran-kur-bsi-2026-beserta-cara-pengajuan/</guid>
+      <pubDate>Thu, 19 Feb 2026 17:00:04 +0000</pubDate>
       <category>Pendidikan</category>
       <source>id.medanaktual.com</source>
-      <ns1:content url="https://id.medanaktual.com/wp-content/uploads/2026/03/cara-cek-status-pencairan-pip-awal-maret-2026-siapkan-2-data-penting-ini-350x250.webp" medium="image"/>
+      <ns1:content url="https://id.medanaktual.com/wp-content/uploads/2026/02/daftar-tabel-angsuran-kur-bsi-2026-beserta-cara-pengajuan-350x250.webp" medium="image"/>
     </item>
     <item>
-      <title>Daftar 144 Penyakit yang Ditanggung BPJS Kesehatan 2026</title>
-      <link>https://id.medanaktual.com/daftar-144-penyakit-yang-ditanggung-bpjs-kesehatan-2026/</link>
-      <guid>https://id.medanaktual.com/daftar-144-penyakit-yang-ditanggung-bpjs-kesehatan-2026/</guid>
-      <pubDate>Wed, 04 Feb 2026 08:00:29 +0000</pubDate>
+      <title>10 Destinasi Wisata Terbaru dan Terpopuler di Bali Selatan 2026</title>
+      <link>https://id.medanaktual.com/10-destinasi-wisata-terbaru-dan-terpopuler-di-bali-selatan-2026/</link>
+      <guid>https://id.medanaktual.com/10-destinasi-wisata-terbaru-dan-terpopuler-di-bali-selatan-2026/</guid>
+      <pubDate>Mon, 23 Feb 2026 15:12:51 +0000</pubDate>
       <category>Pendidikan</category>
       <source>id.medanaktual.com</source>
-      <ns1:content url="https://id.medanaktual.com/wp-content/uploads/2026/02/medanaktualpicture00005-11_11zon-120x86.jpg" medium="image"/>
+      <ns1:content url="https://id.medanaktual.com/wp-content/uploads/2026/02/10-destinasi-wisata-terbaru-dan-terpopuler-di-bali-selatan-2026-120x86.webp" medium="image"/>
     </item>
     <item>
-      <title>Update Beasiswa Garuda 2026: Jadwal Seleksi dan Program Prioritas</title>
-      <link>https://id.medanaktual.com/update-beasiswa-garuda-2026-jadwal-seleksi-dan-program-prioritas/</link>
-      <guid>https://id.medanaktual.com/update-beasiswa-garuda-2026-jadwal-seleksi-dan-program-prioritas/</guid>
-      <pubDate>Tue, 10 Feb 2026 16:30:44 +0000</pubDate>
+      <title>Daftar Rumah Sakit Terbaik di Jakarta dengan Layanan dan Fasilitas Terlengkap</title>
+      <link>https://id.medanaktual.com/daftar-rumah-sakit-terbaik-di-jakarta-dengan-layanan-dan-fasilitas-terlengkap/</link>
+      <guid>https://id.medanaktual.com/daftar-rumah-sakit-terbaik-di-jakarta-dengan-layanan-dan-fasilitas-terlengkap/</guid>
+      <pubDate>Tue, 03 Mar 2026 14:40:58 +0000</pubDate>
       <category>Pendidikan</category>
       <source>id.medanaktual.com</source>
-      <ns1:content url="https://id.medanaktual.com/wp-content/uploads/2026/02/Screenshot-2026-02-10-081501-120x86.png" medium="image"/>
+      <ns1:content url="https://id.medanaktual.com/wp-content/uploads/2026/03/medanaktualpicture00005-69_11zon-120x86.jpg" medium="image"/>
     </item>
     <item>
-      <title>Cara Transfer DANA ke GoPay atau Sebaliknya, Mudah dan Cepat</title>
-      <link>https://id.medanaktual.com/cara-transfer-dana-ke-gopay-atau-sebaliknya-mudah-dan-cepat/</link>
-      <guid>https://id.medanaktual.com/cara-transfer-dana-ke-gopay-atau-sebaliknya-mudah-dan-cepat/</guid>
-      <pubDate>Mon, 02 Feb 2026 15:30:55 +0000</pubDate>
-      <category>Pendidikan</category>
-      <source>id.medanaktual.com</source>
-      <ns1:content url="https://id.medanaktual.com/wp-content/uploads/2026/02/cara-transfer-dana-ke-gopay-atau-sebaliknya-mudah-dan-cepat-120x86.webp" medium="image"/>
+      <title>Main Game Populer Bisa Langsung Dapat Saldo DANA Gratis Rp320.000 ke Kantong? Buruan Instal Aplikasinya!</title>
+      <link>https://disway.id/read/933548/main-game-populer-bisa-langsung-dapat-saldo-dana-gratis-rp320000-ke-kantong-buruan-instal-aplikasinya</link>
+      <guid>https://disway.id/read/933548/main-game-populer-bisa-langsung-dapat-saldo-dana-gratis-rp320000-ke-kantong-buruan-instal-aplikasinya</guid>
+      <pubDate>Thu, 05 Mar 2026 21:00:00 +0000</pubDate>
+      <category>Keuangan</category>
+      <source>disway.id</source>
+      <ns1:content url="https://cms.disway.id/uploads/large/8a9494ea297feae576a938e6a46784aa.jpg" medium="image"/>
+    </item>
+    <item>
+      <title>Cepat Cair! Begini Cara Klaim Saldo DANA Gratis Setiap Hari Rp100 Ribu Lewat 5 Langkah Populer</title>
+      <link>https://disway.id/read/933556/cepat-cair-begini-cara-klaim-saldo-dana-gratis-setiap-hari-rp100-ribu-lewat-5-langkah-populer</link>
+      <guid>https://disway.id/read/933556/cepat-cair-begini-cara-klaim-saldo-dana-gratis-setiap-hari-rp100-ribu-lewat-5-langkah-populer</guid>
+      <pubDate>Thu, 05 Mar 2026 20:00:00 +0000</pubDate>
+      <category>Keuangan</category>
+      <source>disway.id</source>
+      <ns1:content url="https://cms.disway.id/uploads/large/1a054d462cc858a333794ff9516972f3.png" medium="image"/>
     </item>
     <item>
       <title>Siapin Dompet! Saldo DANA Gratis Rp331.000 Cair Hitungan Detik Malam ini 5 Maret 2026</title>
@@ -1352,58 +1390,69 @@
       <ns1:content url="https://cms.disway.id/uploads/large/b3eabd513e5cf73927117dce9cb0a79c.png" medium="image"/>
     </item>
     <item>
-      <title>KUR BNI 2026 Rp100 Juta Cicilan Berapa? Cek Tabel Angsuran Terbaru Tenor 1-5 Tahun</title>
-      <link>https://disway.id/read/933003/kur-bni-2026-rp100-juta-cicilan-berapa-cek-tabel-angsuran-terbaru-tenor-1-5-tahun</link>
-      <guid>https://disway.id/read/933003/kur-bni-2026-rp100-juta-cicilan-berapa-cek-tabel-angsuran-terbaru-tenor-1-5-tahun</guid>
-      <pubDate>Tue, 03 Mar 2026 10:36:00 +0000</pubDate>
+      <title>Gus Ipul Terima Audiensi Bupati dan PCNU Pasuruan, Siap Mutakhirkan DTSEN</title>
+      <link>https://disway.id/read/933618/gus-ipul-terima-audiensi-bupati-dan-pcnu-pasuruan-siap-mutakhirkan-dtsen</link>
+      <guid>https://disway.id/read/933618/gus-ipul-terima-audiensi-bupati-dan-pcnu-pasuruan-siap-mutakhirkan-dtsen</guid>
+      <pubDate>Thu, 05 Mar 2026 22:27:00 +0000</pubDate>
       <category>Keuangan</category>
       <source>disway.id</source>
-      <ns1:content url="https://cms.disway.id/uploads/large/3bf64ff8d061ab467f8bf4013ca8b60b.jpeg" medium="image"/>
+      <ns1:content url="https://cms.disway.id/uploads/large/4f7b4d49cbee6616d8d79c24d94e7f01.jpg" medium="image"/>
     </item>
     <item>
-      <title>Panduan Berhasil Terima Saldo DANA Gratis Rp103.000 ke Dompet Elektronik Pagi Ini, Anti Scam di Ramadhan</title>
-      <link>https://disway.id/read/932981/panduan-berhasil-terima-saldo-dana-gratis-rp103000-ke-dompet-elektronik-pagi-ini-anti-scam-di-ramadhan</link>
-      <guid>https://disway.id/read/932981/panduan-berhasil-terima-saldo-dana-gratis-rp103000-ke-dompet-elektronik-pagi-ini-anti-scam-di-ramadhan</guid>
-      <pubDate>Tue, 03 Mar 2026 07:00:00 +0000</pubDate>
+      <title>Konflik Timur Tengan Memanas, Jimly Usul Indonesia Tangguhkan Keanggotaan Board of Peace</title>
+      <link>https://disway.id/read/933608/konflik-timur-tengan-memanas-jimly-usul-indonesia-tangguhkan-keanggotaan-board-of-peace</link>
+      <guid>https://disway.id/read/933608/konflik-timur-tengan-memanas-jimly-usul-indonesia-tangguhkan-keanggotaan-board-of-peace</guid>
+      <pubDate>Thu, 05 Mar 2026 22:26:00 +0000</pubDate>
       <category>Keuangan</category>
       <source>disway.id</source>
-      <ns1:content url="https://cms.disway.id/uploads/large/102e4ccef8d5c6af0388b6c7c3c9f581.png" medium="image"/>
+      <ns1:content url="https://cms.disway.id/uploads/large/83e8549d5a2ab98e4c73a40a5849d474.jpg" medium="image"/>
     </item>
     <item>
-      <title>Lapangan Padel di Perumahan Nego Perpanjang Jam Operasional, Pramono: Kami Tolak!</title>
-      <link>https://disway.id/read/933596/lapangan-padel-di-perumahan-nego-perpanjang-jam-operasional-pramono-kami-tolak</link>
-      <guid>https://disway.id/read/933596/lapangan-padel-di-perumahan-nego-perpanjang-jam-operasional-pramono-kami-tolak</guid>
-      <pubDate>Thu, 05 Mar 2026 18:34:00 +0000</pubDate>
+      <title>PAN Bagi-bagi THR dan Beras Bareng Uya Kuya, Pria Berbaju Zulhas Ikut Ngantri</title>
+      <link>https://disway.id/read/933616/pan-bagi-bagi-thr-dan-beras-bareng-uya-kuya-pria-berbaju-zulhas-ikut-ngantri</link>
+      <guid>https://disway.id/read/933616/pan-bagi-bagi-thr-dan-beras-bareng-uya-kuya-pria-berbaju-zulhas-ikut-ngantri</guid>
+      <pubDate>Thu, 05 Mar 2026 22:06:00 +0000</pubDate>
       <category>Keuangan</category>
       <source>disway.id</source>
-      <ns1:content url="https://cms.disway.id/uploads/large/df62298d6dc0de297358d526fd8c1814.jpg" medium="image"/>
+      <ns1:content url="https://cms.disway.id/uploads/large/66f1680413023a8f5a6563fc0bb5c032.jpg" medium="image"/>
     </item>
     <item>
-      <title>Tetap Konsisten, IHSG Sukses Ditutup Menguat ke Level 7.710,54.</title>
-      <link>https://disway.id/read/933578/tetap-konsisten-ihsg-sukses-ditutup-menguat-ke-level-771054</link>
-      <guid>https://disway.id/read/933578/tetap-konsisten-ihsg-sukses-ditutup-menguat-ke-level-771054</guid>
-      <pubDate>Thu, 05 Mar 2026 18:32:00 +0000</pubDate>
+      <title>DJP Sebut Pelaporan SPT Capai 200–250 Ribu per Hari, Target 8,5 Juta di Akhir Maret</title>
+      <link>https://disway.id/read/933606/djp-sebut-pelaporan-spt-capai-200250-ribu-per-hari-target-85-juta-di-akhir-maret</link>
+      <guid>https://disway.id/read/933606/djp-sebut-pelaporan-spt-capai-200250-ribu-per-hari-target-85-juta-di-akhir-maret</guid>
+      <pubDate>Thu, 05 Mar 2026 21:52:00 +0000</pubDate>
       <category>Keuangan</category>
       <source>disway.id</source>
-      <ns1:content url="https://cms.disway.id/uploads/large/088627fdcda4a7fa2b7a7239e210f488.jpg" medium="image"/>
+      <ns1:content url="https://cms.disway.id/uploads/large/e0605ea7902437473ab70a06704cd7d7.jpg" medium="image"/>
     </item>
     <item>
-      <title>Pimpinan Majelis Rasulullah Nilai Keanggotaan Indonesia di Board of Peace Perlu Ditinjau Ulang</title>
-      <link>https://disway.id/read/933595/pimpinan-majelis-rasulullah-nilai-keanggotaan-indonesia-di-board-of-peace-perlu-ditinjau-ulang</link>
-      <guid>https://disway.id/read/933595/pimpinan-majelis-rasulullah-nilai-keanggotaan-indonesia-di-board-of-peace-perlu-ditinjau-ulang</guid>
-      <pubDate>Thu, 05 Mar 2026 18:31:00 +0000</pubDate>
+      <title>Jimly Asshidqie: Tugas Komisi Percepatan Reformasi Polri Rampung, Tinggal Tunggu Arahan Prabowo</title>
+      <link>https://disway.id/read/933613/jimly-asshidqie-tugas-komisi-percepatan-reformasi-polri-rampung-tinggal-tunggu-arahan-prabowo</link>
+      <guid>https://disway.id/read/933613/jimly-asshidqie-tugas-komisi-percepatan-reformasi-polri-rampung-tinggal-tunggu-arahan-prabowo</guid>
+      <pubDate>Thu, 05 Mar 2026 21:48:00 +0000</pubDate>
       <category>Keuangan</category>
       <source>disway.id</source>
-      <ns1:content url="https://cms.disway.id/uploads/large/49073720fb1a1fcbb91391b021ddf650.jpg" medium="image"/>
+      <ns1:content url="https://cms.disway.id/uploads/large/3c0bd4317a08c3ca3ad257a66c55c042.jpg" medium="image"/>
     </item>
     <item>
-      <title>ATR/BPN Terbitkan Permen Kearsipan 2026, Pengelolaan Arsip Diperkuat</title>
-      <link>https://disway.id/read/933594/atrbpn-terbitkan-permen-kearsipan-2026-pengelolaan-arsip-diperkuat</link>
-      <guid>https://disway.id/read/933594/atrbpn-terbitkan-permen-kearsipan-2026-pengelolaan-arsip-diperkuat</guid>
-      <pubDate>Thu, 05 Mar 2026 18:30:00 +0000</pubDate>
-      <category>Keuangan</category>
-      <source>disway.id</source>
-      <ns1:content url="https://cms.disway.id/uploads/large/b6def97ac70833cb9dec21f8a20e9996.jpeg" medium="image"/>
+      <title>Debut Berbuah Poin, Diogo Moreira Banyak Belajar dari Johann Zarco di MotoGP Thailand</title>
+      <link>https://ihram.co.id/debut-berbuah-poin-diogo-moreira-banyak-belajar-dari-johann-zarco-di-motogp-thailand</link>
+      <guid>https://ihram.co.id/debut-berbuah-poin-diogo-moreira-banyak-belajar-dari-johann-zarco-di-motogp-thailand</guid>
+      <pubDate>Thu, 05 Mar 2026 21:03:30 +0000</pubDate>
+      <category>Olahraga</category>
+      <source>ihram.co.id</source>
+      <description>Berita olahraga terlengkap, update skor, jadwal pertandingan, dan profil atlet berprestasi. Ikuti perkembangan dunia sport terkini hanya di Ihram.co.id</description>
+      <ns1:content url="https://ihram.co.id/wp-content/uploads/2026/03/Debut-Berbuah-Poin-Diogo-Moreira-Banyak-Belajar-dari-Johann-Zarco-di-MotoGP-Thailand-300x169.webp" medium="image"/>
+    </item>
+    <item>
+      <title>Franco Morbidelli Bongkar Kelemahan Ducati GP25 Usai MotoGP Thailand 2026</title>
+      <link>https://ihram.co.id/franco-morbidelli-bongkar-kelemahan-ducati-gp25-usai-motogp-thailand-2026</link>
+      <guid>https://ihram.co.id/franco-morbidelli-bongkar-kelemahan-ducati-gp25-usai-motogp-thailand-2026</guid>
+      <pubDate>Thu, 05 Mar 2026 20:37:02 +0000</pubDate>
+      <category>Olahraga</category>
+      <source>ihram.co.id</source>
+      <description>Berita olahraga terlengkap, update skor, jadwal pertandingan, dan profil atlet berprestasi. Ikuti perkembangan dunia sport terkini hanya di Ihram.co.id</description>
+      <ns1:content url="https://ihram.co.id/wp-content/uploads/2026/03/Franco-Morbidelli-Bongkar-Kelemahan-Ducati-GP25-Usai-MotoGP-Thailand-2026-300x169.webp" medium="image"/>
     </item>
     <item>
       <title>Darwin Nunez Masuk Radar AC Milan, Chelsea dan Newcastle United Ikut Tertarik</title>
@@ -1413,7 +1462,7 @@
       <category>Olahraga</category>
       <source>ihram.co.id</source>
       <description>Berita olahraga terlengkap, update skor, jadwal pertandingan, dan profil atlet berprestasi. Ikuti perkembangan dunia sport terkini hanya di Ihram.co.id</description>
-      <ns1:content url="https://ihram.co.id/wp-content/uploads/2026/03/Darwin-Nunez-Masuk-Radar-AC-Milan-Chelsea-dan-Newcastle-United-Ikut-Tertarik-300x169.webp" medium="image"/>
+      <ns1:content url="https://ihram.co.id/wp-content/uploads/2026/03/Darwin-Nunez-Masuk-Radar-AC-Milan-Chelsea-dan-Newcastle-United-Ikut-Tertarik-150x150.webp" medium="image"/>
     </item>
     <item>
       <title>Rekor Podium Ducati Terhenti, Bos Tim Akui Ada Masalah Serius di MotoGP Thailand</title>
@@ -1423,7 +1472,7 @@
       <category>Olahraga</category>
       <source>ihram.co.id</source>
       <description>Berita olahraga terlengkap, update skor, jadwal pertandingan, dan profil atlet berprestasi. Ikuti perkembangan dunia sport terkini hanya di Ihram.co.id</description>
-      <ns1:content url="https://ihram.co.id/wp-content/uploads/2026/03/Rekor-Podium-Ducati-Terhenti-Bos-Tim-Akui-Ada-Masalah-Serius-di-MotoGP-Thailand-300x169.webp" medium="image"/>
+      <ns1:content url="https://ihram.co.id/wp-content/uploads/2026/03/Rekor-Podium-Ducati-Terhenti-Bos-Tim-Akui-Ada-Masalah-Serius-di-MotoGP-Thailand-150x150.webp" medium="image"/>
     </item>
     <item>
       <title>Penalti di MotoGP Thailand Jadi Sinyal, Marc Marquez Dinilai Harus Ubah Gaya Balapnya</title>
@@ -1443,7 +1492,7 @@
       <category>Olahraga</category>
       <source>ihram.co.id</source>
       <description>Berita olahraga terlengkap, update skor, jadwal pertandingan, dan profil atlet berprestasi. Ikuti perkembangan dunia sport terkini hanya di Ihram.co.id</description>
-      <ns1:content url="https://ihram.co.id/wp-content/uploads/2026/03/Lewis-Hamilton-Lebih-Percaya-Diri-di-Ferrari-Targetkan-Gelar-Dunia-F1-ke-8-pada-Musim-2026-150x150.webp" medium="image"/>
+      <ns1:content url="https://ihram.co.id/wp-content/uploads/2026/03/Lewis-Hamilton-Lebih-Percaya-Diri-di-Ferrari-Targetkan-Gelar-Dunia-F1-ke-8-pada-Musim-2026-300x169.webp" medium="image"/>
     </item>
     <item>
       <title>Fabio Di Giannantonio: Ducati Sebenarnya Bisa Rebut Podium di MotoGP Thailand 2026</title>
@@ -1453,7 +1502,7 @@
       <category>Olahraga</category>
       <source>ihram.co.id</source>
       <description>Berita olahraga terlengkap, update skor, jadwal pertandingan, dan profil atlet berprestasi. Ikuti perkembangan dunia sport terkini hanya di Ihram.co.id</description>
-      <ns1:content url="https://ihram.co.id/wp-content/uploads/2026/03/Fabio-Di-Giannantonio-Ducati-Sebenarnya-Bisa-Rebut-Podium-di-MotoGP-Thailand-2026-150x150.webp" medium="image"/>
+      <ns1:content url="https://ihram.co.id/wp-content/uploads/2026/03/Fabio-Di-Giannantonio-Ducati-Sebenarnya-Bisa-Rebut-Podium-di-MotoGP-Thailand-2026-300x169.webp" medium="image"/>
     </item>
     <item>
       <title>Carlo Pernat: Ducati Kini Terlalu Bergantung pada Marc Marquez</title>
@@ -1463,7 +1512,7 @@
       <category>Olahraga</category>
       <source>ihram.co.id</source>
       <description>Berita olahraga terlengkap, update skor, jadwal pertandingan, dan profil atlet berprestasi. Ikuti perkembangan dunia sport terkini hanya di Ihram.co.id</description>
-      <ns1:content url="https://ihram.co.id/wp-content/uploads/2026/03/Carlo-Pernat-Ducati-Kini-Terlalu-Bergantung-pada-Marc-Marquez-300x169.webp" medium="image"/>
+      <ns1:content url="https://ihram.co.id/wp-content/uploads/2026/03/Carlo-Pernat-Ducati-Kini-Terlalu-Bergantung-pada-Marc-Marquez-150x150.webp" medium="image"/>
     </item>
     <item>
       <title>Marc Marquez Soroti Debut Diogo Moreira di MotoGP: Bakat Besar, Tapi Harus Sabar</title>
@@ -1473,7 +1522,7 @@
       <category>Olahraga</category>
       <source>ihram.co.id</source>
       <description>Berita olahraga terlengkap, update skor, jadwal pertandingan, dan profil atlet berprestasi. Ikuti perkembangan dunia sport terkini hanya di Ihram.co.id</description>
-      <ns1:content url="https://ihram.co.id/wp-content/uploads/2026/03/Marc-Marquez-Soroti-Debut-Diogo-Moreira-di-MotoGP-Bakat-Besar-Tapi-Harus-Sabar-300x169.webp" medium="image"/>
+      <ns1:content url="https://ihram.co.id/wp-content/uploads/2026/03/Marc-Marquez-Soroti-Debut-Diogo-Moreira-di-MotoGP-Bakat-Besar-Tapi-Harus-Sabar-150x150.webp" medium="image"/>
     </item>
     <item>
       <title>Michael Carrick Ingatkan Manchester United Tetap di Papan Atas Meski Kalah Dramatis dari Newcastle</title>
@@ -1484,26 +1533,6 @@
       <source>ihram.co.id</source>
       <description>Berita olahraga terlengkap, update skor, jadwal pertandingan, dan profil atlet berprestasi. Ikuti perkembangan dunia sport terkini hanya di Ihram.co.id</description>
       <ns1:content url="https://ihram.co.id/wp-content/uploads/2026/03/Michael-Carrick-Ingatkan-Manchester-United-Tetap-di-Papan-Atas-Meski-Kalah-Dramatis-dari-Newcastle-150x150.webp" medium="image"/>
-    </item>
-    <item>
-      <title>Paul Scholes Ungkap Ancelotti Pilihan Sempurna Manchester United, Carrick Masih Minim Pengalaman</title>
-      <link>https://ihram.co.id/paul-scholes-ungkap-ancelotti-pilihan-sempurna-manchester-united-carrick-masih-minim-pengalaman</link>
-      <guid>https://ihram.co.id/paul-scholes-ungkap-ancelotti-pilihan-sempurna-manchester-united-carrick-masih-minim-pengalaman</guid>
-      <pubDate>Thu, 05 Mar 2026 11:03:15 +0000</pubDate>
-      <category>Olahraga</category>
-      <source>ihram.co.id</source>
-      <description>Berita olahraga terlengkap, update skor, jadwal pertandingan, dan profil atlet berprestasi. Ikuti perkembangan dunia sport terkini hanya di Ihram.co.id</description>
-      <ns1:content url="https://ihram.co.id/wp-content/uploads/2026/03/Paul-Scholes-Ungkap-Ancelotti-Pilihan-Sempurna-Manchester-United-Carrick-Masih-Minim-Pengalaman-150x150.webp" medium="image"/>
-    </item>
-    <item>
-      <title>Bruno Fernandes Tentukan Nasib di Manchester United Berdasarkan Liga Champions dan Manajer</title>
-      <link>https://ihram.co.id/bruno-fernandes-tentukan-nasib-di-manchester-united-berdasarkan-liga-champions-dan-manajer</link>
-      <guid>https://ihram.co.id/bruno-fernandes-tentukan-nasib-di-manchester-united-berdasarkan-liga-champions-dan-manajer</guid>
-      <pubDate>Thu, 05 Mar 2026 10:54:31 +0000</pubDate>
-      <category>Olahraga</category>
-      <source>ihram.co.id</source>
-      <description>Berita olahraga terlengkap, update skor, jadwal pertandingan, dan profil atlet berprestasi. Ikuti perkembangan dunia sport terkini hanya di Ihram.co.id</description>
-      <ns1:content url="https://ihram.co.id/wp-content/uploads/2026/03/Bruno-Fernandes-Tentukan-Nasib-di-Manchester-United-Berdasarkan-Liga-Champions-dan-Manajer-150x150.webp" medium="image"/>
     </item>
     <item>
       <title>Valentino Rossi Turun Tangan Selamatkan Karier Francesco Bagnaia di Tengah Krisis Ducati</title>
