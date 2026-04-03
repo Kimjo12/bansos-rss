@@ -5,8 +5,16 @@
     <description>RSS Feed gabungan dari berbagai sumber berita Indonesia</description>
     <link>https://github.com/Kimjo12/bansos-rss</link>
     <language>id</language>
-    <lastBuildDate>Fri, 03 Apr 2026 13:59:15 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 03 Apr 2026 14:48:17 +0000</lastBuildDate>
     <ns0:link href="https://Kimjo12.github.io/bansos-rss/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Mensos: Bansos Reguler Triwulan II Mulai Cair Pekan Kedua April 2026</title>
+      <link>https://bansos.medanaktual.com/mensos-bansos-reguler-triwulan-ii-mulai-cair-pekan-kedua-april-2026/</link>
+      <guid>https://bansos.medanaktual.com/mensos-bansos-reguler-triwulan-ii-mulai-cair-pekan-kedua-april-2026/</guid>
+      <pubDate>Fri, 03 Apr 2026 21:10:03 +0000</pubDate>
+      <category>Bansos</category>
+      <source>bansos.medanaktual.com</source>
+    </item>
     <item>
       <title>PKH dan BPNT April 2026 Cair Lebih Cepat, Cek Jadwal Masuk Rekening</title>
       <link>https://bansos.medanaktual.com/pkh-dan-bpnt-april-2026-cair-lebih-cepat-cek-jadwal-masuk-rekening/</link>
@@ -22,6 +30,8 @@
       <pubDate>Fri, 03 Apr 2026 20:37:05 +0000</pubDate>
       <category>Bansos</category>
       <source>bansos.medanaktual.com</source>
+      <description>Pemerintah terus memperkuat perlindungan sosial guna menjaga kestabilan ekonomi masyarakat kurang mampu. Salah satu upaya yang dilakukan adalah melalui penyaluran...</description>
+      <ns1:content url="https://bansos.medanaktual.com/wp-content/uploads/2026/04/5-bansos-cair-april-2026-pkh-dan-bpnt-kapan-dicairkan-350x250.webp" medium="image"/>
     </item>
     <item>
       <title>Bansos PKH dan BPNT Cair April 2026, Begini Cara Cek Penerima Lewat Cekbansos Kemensos</title>
@@ -112,16 +122,6 @@
       <source>bansos.medanaktual.com</source>
       <description>Penyaluran bantuan sosial (bansos) saat ini telah memasuki tahap II atau triwulan II, yang berlangsung untuk periode April hingga Juni...</description>
       <ns1:content url="https://bansos.medanaktual.com/wp-content/uploads/2026/04/penyaluran-bansos-tahap-2-2026-dimulai-begini-cara-mengecek-penerima-bantuannya-350x250.webp" medium="image"/>
-    </item>
-    <item>
-      <title>Siapa Yang Berhak Mendapatkan Bansos PKH 2026? Berikut Syarat Dan Kategorinya</title>
-      <link>https://bansos.medanaktual.com/siapa-yang-berhak-mendapatkan-bansos-pkh-2026-berikut-syarat-dan-kategorinya/</link>
-      <guid>https://bansos.medanaktual.com/siapa-yang-berhak-mendapatkan-bansos-pkh-2026-berikut-syarat-dan-kategorinya/</guid>
-      <pubDate>Fri, 03 Apr 2026 15:09:51 +0000</pubDate>
-      <category>Bansos</category>
-      <source>bansos.medanaktual.com</source>
-      <description>Program Keluarga Harapan atau PKH adalah salah satu bentuk bantuan sosial (Bansos) pemerintah yang sangat dinantikan masyarakat. Pada tahun 2026,...</description>
-      <ns1:content url="https://bansos.medanaktual.com/wp-content/uploads/2026/04/siapa-yang-berhak-mendapatkan-bansos-pkh-2026-berikut-syarat-dan-kategorinya-350x250.webp" medium="image"/>
     </item>
     <item>
       <title>Cara Cek PIP 2026 dan Jadwal Pencairannya di pip.kemendikdasmen.go.id, Bisa Lewat HP</title>
@@ -258,6 +258,16 @@
       <source>bansos.medanaktual.com</source>
       <description>Pemerintah memastikan bantuan sosial Program Keluarga Harapan (PKH) dan Bantuan Pangan Non Tunai (BPNT) untuk triwulan II tahun 2026 mulai...</description>
       <ns1:content url="https://bansos.medanaktual.com/wp-content/uploads/2026/04/bansos-pkh-bpnt-triwulan-ii-2026-cair-april-simak-cara-cek-nama-penerima-350x250.webp" medium="image"/>
+    </item>
+    <item>
+      <title>Siapa Yang Berhak Mendapatkan Bansos PKH 2026? Berikut Syarat Dan Kategorinya</title>
+      <link>https://bansos.medanaktual.com/siapa-yang-berhak-mendapatkan-bansos-pkh-2026-berikut-syarat-dan-kategorinya/</link>
+      <guid>https://bansos.medanaktual.com/siapa-yang-berhak-mendapatkan-bansos-pkh-2026-berikut-syarat-dan-kategorinya/</guid>
+      <pubDate>Fri, 03 Apr 2026 15:09:51 +0000</pubDate>
+      <category>Cek Bansos</category>
+      <source>bansos.medanaktual.com</source>
+      <description>Program Keluarga Harapan atau PKH adalah salah satu bentuk bantuan sosial (Bansos) pemerintah yang sangat dinantikan masyarakat. Pada tahun 2026,...</description>
+      <ns1:content url="https://bansos.medanaktual.com/wp-content/uploads/2026/04/siapa-yang-berhak-mendapatkan-bansos-pkh-2026-berikut-syarat-dan-kategorinya-350x250.webp" medium="image"/>
     </item>
     <item>
       <title>Bansos PKH dan BPNT Cair Pekan Kedua April 2026, Begini Cara Cek Penerimanya</title>
@@ -552,6 +562,15 @@
       <ns1:content url="https://id.medanaktual.com/wp-content/uploads/2026/03/Capture-55.jpg" medium="image"/>
     </item>
     <item>
+      <title>Hoki Jumat! Klaim Saldo DANA Gratis Rp100 Ribu Sekarang Juga</title>
+      <link>https://id.medanaktual.com/hoki-jumat-klaim-saldo-dana-gratis-rp100-ribu-sekarang-juga/</link>
+      <guid>https://id.medanaktual.com/hoki-jumat-klaim-saldo-dana-gratis-rp100-ribu-sekarang-juga/</guid>
+      <pubDate>Fri, 03 Apr 2026 21:11:27 +0000</pubDate>
+      <category>Ekonomi</category>
+      <source>id.medanaktual.com</source>
+      <ns1:content url="https://id.medanaktual.com/wp-content/uploads/2026/04/images-1.jpeg" medium="image"/>
+    </item>
+    <item>
       <title>Daftar Subsidi Tepat MyPertamina 2026 Kini Lebih Mudah, Ini Langkah Lengkapnya</title>
       <link>https://id.medanaktual.com/daftar-subsidi-tepat-mypertamina-2026-kini-lebih-mudah-ini-langkah-lengkapnya/</link>
       <guid>https://id.medanaktual.com/daftar-subsidi-tepat-mypertamina-2026-kini-lebih-mudah-ini-langkah-lengkapnya/</guid>
@@ -597,13 +616,31 @@
       <ns1:content url="https://id.medanaktual.com/wp-content/uploads/2026/04/download.jpeg" medium="image"/>
     </item>
     <item>
-      <title>Libur Paskah 2026: BNI Optimalkan Layanan Digital 24 Jam dan Operasional Kantor Terbatas</title>
-      <link>https://id.medanaktual.com/libur-paskah-2026-bni-optimalkan-layanan-digital-24-jam-dan-operasional-kantor-terbatas/</link>
-      <guid>https://id.medanaktual.com/libur-paskah-2026-bni-optimalkan-layanan-digital-24-jam-dan-operasional-kantor-terbatas/</guid>
-      <pubDate>Fri, 03 Apr 2026 11:00:00 +0000</pubDate>
-      <category>Ekonomi</category>
+      <title>Rekomendasi 5 Pondok Pesantren Terbaik di Kabupaten Jember, Pilihan Pendidikan Berkualitas</title>
+      <link>https://id.medanaktual.com/rekomendasi-5-pondok-pesantren-terbaik-di-kabupaten-jember-pilihan-pendidikan-berkualitas/</link>
+      <guid>https://id.medanaktual.com/rekomendasi-5-pondok-pesantren-terbaik-di-kabupaten-jember-pilihan-pendidikan-berkualitas/</guid>
+      <pubDate>Fri, 03 Apr 2026 21:46:03 +0000</pubDate>
+      <category>Pendidikan</category>
       <source>id.medanaktual.com</source>
-      <ns1:content url="https://id.medanaktual.com/wp-content/uploads/2026/04/libur-paskah-2026-bni-optimalkan-layanan-digital-24-jam-dan-operasional-kantor-terbatas-420x210.webp" medium="image"/>
+      <ns1:content url="https://id.medanaktual.com/wp-content/uploads/2026/04/rekomendasi-5-pondok-pesantren-terbaik-di-kabupaten-jember-pilihan-pendidikan-berkualitas-420x210.webp" medium="image"/>
+    </item>
+    <item>
+      <title>Kapan Daftar Ulang Terakhir SNBP 2026 di Unair, UI, IPB, UGM, ITB &amp; Unpad? Simak Jadwalnya</title>
+      <link>https://id.medanaktual.com/kapan-daftar-ulang-terakhir-snbp-2026-di-unair-ui-ipb-ugm-itb-unpad-simak-jadwalnya/</link>
+      <guid>https://id.medanaktual.com/kapan-daftar-ulang-terakhir-snbp-2026-di-unair-ui-ipb-ugm-itb-unpad-simak-jadwalnya/</guid>
+      <pubDate>Fri, 03 Apr 2026 21:37:42 +0000</pubDate>
+      <category>Pendidikan</category>
+      <source>id.medanaktual.com</source>
+      <ns1:content url="https://id.medanaktual.com/wp-content/uploads/2026/04/kapan-daftar-ulang-terakhir-snbp-2026-di-unair-ui-ipb-ugm-itb-unpad-simak-jadwalnya-420x210.webp" medium="image"/>
+    </item>
+    <item>
+      <title>Daftar SMP Unggulan di Kabupaten Karo</title>
+      <link>https://id.medanaktual.com/daftar-smp-unggulan-di-kabupaten-karo/</link>
+      <guid>https://id.medanaktual.com/daftar-smp-unggulan-di-kabupaten-karo/</guid>
+      <pubDate>Fri, 03 Apr 2026 21:32:18 +0000</pubDate>
+      <category>Pendidikan</category>
+      <source>id.medanaktual.com</source>
+      <ns1:content url="https://id.medanaktual.com/wp-content/uploads/2026/04/daftar-smp-unggulan-di-kabupaten-karo-420x210.webp" medium="image"/>
     </item>
     <item>
       <title>Rekomendasi 10 SMP Terbaik di Bandar Lampung untuk Pendidikan Berkualitas</title>
@@ -631,33 +668,6 @@
       <category>Pendidikan</category>
       <source>id.medanaktual.com</source>
       <ns1:content url="https://id.medanaktual.com/wp-content/uploads/2026/04/10-SMP-Unggulan-di-Cibubur-dengan-Fasilitas-Terlengkap-420x236.jpeg" medium="image"/>
-    </item>
-    <item>
-      <title>Jadwal Lengkap TKA SD dan SMP 2026 Terbaru, Catat Tanggalnya!</title>
-      <link>https://id.medanaktual.com/jadwal-lengkap-tka-sd-dan-smp-2026-terbaru-catat-tanggalnya/</link>
-      <guid>https://id.medanaktual.com/jadwal-lengkap-tka-sd-dan-smp-2026-terbaru-catat-tanggalnya/</guid>
-      <pubDate>Fri, 03 Apr 2026 17:01:36 +0000</pubDate>
-      <category>Pendidikan</category>
-      <source>id.medanaktual.com</source>
-      <ns1:content url="https://id.medanaktual.com/wp-content/uploads/2026/04/jkandd-420x280.jpg" medium="image"/>
-    </item>
-    <item>
-      <title>Jadwal PMB MAN 1 Medan 2026 Lengkap: Syarat dan Cara Daftar PPDB Madrasah 2026/2027</title>
-      <link>https://id.medanaktual.com/jadwal-pmb-man-1-medan-2026-lengkap-syarat-dan-cara-daftar-ppdb-madrasah-2026-2027/</link>
-      <guid>https://id.medanaktual.com/jadwal-pmb-man-1-medan-2026-lengkap-syarat-dan-cara-daftar-ppdb-madrasah-2026-2027/</guid>
-      <pubDate>Fri, 03 Apr 2026 16:52:17 +0000</pubDate>
-      <category>Pendidikan</category>
-      <source>id.medanaktual.com</source>
-      <ns1:content url="https://id.medanaktual.com/wp-content/uploads/2026/04/mman-s1-420x234.jpg" medium="image"/>
-    </item>
-    <item>
-      <title>Kapan Ujian UTBK 2026 Dimulai, Cek Jadwal SNBT 2026</title>
-      <link>https://id.medanaktual.com/kapan-ujian-utbk-2026-dimulai-cek-jadwal-snbt-2026/</link>
-      <guid>https://id.medanaktual.com/kapan-ujian-utbk-2026-dimulai-cek-jadwal-snbt-2026/</guid>
-      <pubDate>Fri, 03 Apr 2026 16:40:52 +0000</pubDate>
-      <category>Pendidikan</category>
-      <source>id.medanaktual.com</source>
-      <ns1:content url="https://id.medanaktual.com/wp-content/uploads/2026/04/Kapan-Ujian-UTBK-2026-Dimulai-Cek-Jadwal-SNBT-2026-420x263.jpg" medium="image"/>
     </item>
     <item>
       <title>IHSG Lesu saat Penutupan, 847 Saham Turun Harga</title>
@@ -930,6 +940,42 @@
       <ns1:content url="https://cms.disway.id/uploads/large/b095816af889c780a11ade5d863bd0c2.jpg" medium="image"/>
     </item>
     <item>
+      <title>Kajati Sumut Siap Evaluasi Kinerja Kejari Karo Usai Polemik Kasus Amsal Sitepu</title>
+      <link>https://disway.id/read/939052/kajati-sumut-siap-evaluasi-kinerja-kejari-karo-usai-polemik-kasus-amsal-sitepu</link>
+      <guid>https://disway.id/read/939052/kajati-sumut-siap-evaluasi-kinerja-kejari-karo-usai-polemik-kasus-amsal-sitepu</guid>
+      <pubDate>Fri, 03 Apr 2026 21:45:00 +0000</pubDate>
+      <category>Keuangan</category>
+      <source>disway.id</source>
+      <ns1:content url="https://cms.disway.id/uploads/large/66e8940719690d6c88f834ae9f047b36.jpg" medium="image"/>
+    </item>
+    <item>
+      <title>Tiga Prajurit TNI yang Gugur di Lebanon Tiba Besok, Disemayamkan di Halim</title>
+      <link>https://disway.id/read/939051/tiga-prajurit-tni-yang-gugur-di-lebanon-tiba-besok-disemayamkan-di-halim</link>
+      <guid>https://disway.id/read/939051/tiga-prajurit-tni-yang-gugur-di-lebanon-tiba-besok-disemayamkan-di-halim</guid>
+      <pubDate>Fri, 03 Apr 2026 21:28:00 +0000</pubDate>
+      <category>Keuangan</category>
+      <source>disway.id</source>
+      <ns1:content url="https://cms.disway.id/uploads/large/75fced3ede8640fa68a5362e3dffd239.jpg" medium="image"/>
+    </item>
+    <item>
+      <title>Ini Identitas hingga Peran 3 Pelaku Penyiraman Air Keras di Tambun Bekasi</title>
+      <link>https://disway.id/read/939050/ini-identitas-hingga-peran-3-pelaku-penyiraman-air-keras-di-tambun-bekasi</link>
+      <guid>https://disway.id/read/939050/ini-identitas-hingga-peran-3-pelaku-penyiraman-air-keras-di-tambun-bekasi</guid>
+      <pubDate>Fri, 03 Apr 2026 21:20:00 +0000</pubDate>
+      <category>Keuangan</category>
+      <source>disway.id</source>
+      <ns1:content url="https://cms.disway.id/uploads/large/c0dcea68d241c8228746dd85d793cb7e.jpg" medium="image"/>
+    </item>
+    <item>
+      <title>Maraton Kasus Korupsi Kuota Haji, KPK akan Periksa PIHK, Bakal Ada Tersangka Baru?</title>
+      <link>https://disway.id/read/939044/maraton-kasus-korupsi-kuota-haji-kpk-akan-periksa-pihk-bakal-ada-tersangka-baru</link>
+      <guid>https://disway.id/read/939044/maraton-kasus-korupsi-kuota-haji-kpk-akan-periksa-pihk-bakal-ada-tersangka-baru</guid>
+      <pubDate>Fri, 03 Apr 2026 20:59:00 +0000</pubDate>
+      <category>Keuangan</category>
+      <source>disway.id</source>
+      <ns1:content url="https://cms.disway.id/uploads/large/ebd217b2339324ccec8b237ecee8ef12.jpg" medium="image"/>
+    </item>
+    <item>
       <title>Zulhas: Wilayah dengan Stunting Tinggi dapat Jatah MBG saat Libur Sekolah</title>
       <link>https://disway.id/read/939042/zulhas-wilayah-dengan-stunting-tinggi-dapat-jatah-mbg-saat-libur-sekolah</link>
       <guid>https://disway.id/read/939042/zulhas-wilayah-dengan-stunting-tinggi-dapat-jatah-mbg-saat-libur-sekolah</guid>
@@ -937,42 +983,6 @@
       <category>Keuangan</category>
       <source>disway.id</source>
       <ns1:content url="https://cms.disway.id/uploads/large/95304b7261b125779e9c96150202db46.jpg" medium="image"/>
-    </item>
-    <item>
-      <title>Libur Panjang, 12 Ribu Tiket Whoosh Jakarta-Bandung Ludes Terjual</title>
-      <link>https://disway.id/read/939038/libur-panjang-12-ribu-tiket-whoosh-jakarta-bandung-ludes-terjual</link>
-      <guid>https://disway.id/read/939038/libur-panjang-12-ribu-tiket-whoosh-jakarta-bandung-ludes-terjual</guid>
-      <pubDate>Fri, 03 Apr 2026 20:03:00 +0000</pubDate>
-      <category>Keuangan</category>
-      <source>disway.id</source>
-      <ns1:content url="https://cms.disway.id/uploads/large/cb77f7251c1176250b2bf732ab0b57f7.jpg" medium="image"/>
-    </item>
-    <item>
-      <title>BNI Ajak Nasabah Kurangi Emisi Lewat Fitur wondr earth, Hitung Jejak Karbon hingga Tanam Pohon</title>
-      <link>https://disway.id/read/939034/bni-ajak-nasabah-kurangi-emisi-lewat-fitur-wondr-earth-hitung-jejak-karbon-hingga-tanam-pohon</link>
-      <guid>https://disway.id/read/939034/bni-ajak-nasabah-kurangi-emisi-lewat-fitur-wondr-earth-hitung-jejak-karbon-hingga-tanam-pohon</guid>
-      <pubDate>Fri, 03 Apr 2026 19:43:00 +0000</pubDate>
-      <category>Keuangan</category>
-      <source>disway.id</source>
-      <ns1:content url="https://cms.disway.id/uploads/large/f3463830fa6bbe8783290bdf88e76a27.jpg" medium="image"/>
-    </item>
-    <item>
-      <title>Kritik Tajam Cak Imin Terkait Kasus Amsal: Kreativitas Dihargai Nol, Ancaman Serius Ekonomi Kreatif</title>
-      <link>https://disway.id/read/939033/kritik-tajam-cak-imin-terkait-kasus-amsal-kreativitas-dihargai-nol-ancaman-serius-ekonomi-kreatif</link>
-      <guid>https://disway.id/read/939033/kritik-tajam-cak-imin-terkait-kasus-amsal-kreativitas-dihargai-nol-ancaman-serius-ekonomi-kreatif</guid>
-      <pubDate>Fri, 03 Apr 2026 19:34:00 +0000</pubDate>
-      <category>Keuangan</category>
-      <source>disway.id</source>
-      <ns1:content url="https://cms.disway.id/uploads/large/6986a3149b040f44bda5fd44c8e29e33.jpg" medium="image"/>
-    </item>
-    <item>
-      <title>Haji Faisal Tersinggung FURAB Bikin Fuji Dibully, Reza Arap Tahu Diri: Bapaknya Udah Risih Coy!</title>
-      <link>https://disway.id/read/939028/haji-faisal-tersinggung-furab-bikin-fuji-dibully-reza-arap-tahu-diri-bapaknya-udah-risih-coy</link>
-      <guid>https://disway.id/read/939028/haji-faisal-tersinggung-furab-bikin-fuji-dibully-reza-arap-tahu-diri-bapaknya-udah-risih-coy</guid>
-      <pubDate>Fri, 03 Apr 2026 18:51:00 +0000</pubDate>
-      <category>Keuangan</category>
-      <source>disway.id</source>
-      <ns1:content url="https://cms.disway.id/uploads/large/05075648f2f6dfd96af04e2d6f360ddc.jpg" medium="image"/>
     </item>
     <item>
       <title>Thomas Tuchel Soroti Performa Phil Foden, Hebat di Latihan Tapi Kesulitan di Pertandingan</title>
