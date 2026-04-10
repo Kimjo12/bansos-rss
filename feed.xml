@@ -5,8 +5,16 @@
     <description>RSS Feed gabungan dari berbagai sumber berita Indonesia</description>
     <link>https://github.com/Kimjo12/bansos-rss</link>
     <language>id</language>
-    <lastBuildDate>Fri, 10 Apr 2026 11:42:56 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 10 Apr 2026 12:56:55 +0000</lastBuildDate>
     <ns0:link href="https://Kimjo12.github.io/bansos-rss/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Panduan Lengkap Cek Desil Bansos 2026, Ketahui Hak Bantuan Anda</title>
+      <link>https://bansos.medanaktual.com/panduan-lengkap-cek-desil-bansos-2026-ketahui-hak-bantuan-anda/</link>
+      <guid>https://bansos.medanaktual.com/panduan-lengkap-cek-desil-bansos-2026-ketahui-hak-bantuan-anda/</guid>
+      <pubDate>Fri, 10 Apr 2026 19:00:58 +0000</pubDate>
+      <category>Bansos</category>
+      <source>bansos.medanaktual.com</source>
+    </item>
     <item>
       <title>PIP April 2026 Cair! Begini Cara Cek Penerima dan Status Dana Terbaru</title>
       <link>https://bansos.medanaktual.com/pip-april-2026-cair-begini-cara-cek-penerima-dan-status-dana-terbaru/</link>
@@ -22,6 +30,8 @@
       <pubDate>Fri, 10 Apr 2026 17:30:39 +0000</pubDate>
       <category>Bansos</category>
       <source>bansos.medanaktual.com</source>
+      <description>Kementerian Sosial (Kemensos) resmi menjadwalkan penyaluran bantuan sosial (bansos) reguler untuk Program Keluarga Harapan (PKH) dan Program Sembako (BPNT) pada...</description>
+      <ns1:content url="https://bansos.medanaktual.com/wp-content/uploads/2026/04/penyaluran-bansos-pkh-dan-bpnt-april-2026-mulai-cair-ini-cara-cek-dan-daftar-penerima-350x250.webp" medium="image"/>
     </item>
     <item>
       <title>Cara Cek Bansos April 2026 Lewat HP, Praktis Tanpa Antre dan Lebih Transparan</title>
@@ -112,16 +122,6 @@
       <source>bansos.medanaktual.com</source>
       <description>Dalam menentukan penerima bantuan sosial (bansos), pemerintah menggunakan sistem desil sebagai acuan utama. Sistem ini membagi tingkat kesejahteraan masyarakat ke...</description>
       <ns1:content url="https://bansos.medanaktual.com/wp-content/uploads/2026/04/cara-cek-desil-bansos-2026-dengan-nik-ktp-lewat-hp-begini-langkahnya-1-350x250.webp" medium="image"/>
-    </item>
-    <item>
-      <title>Cek Bansos KTP April 2026: Pastikan Nama Anda Terdaftar</title>
-      <link>https://bansos.medanaktual.com/cek-bansos-ktp-april-2026-pastikan-nama-anda-terdaftar/</link>
-      <guid>https://bansos.medanaktual.com/cek-bansos-ktp-april-2026-pastikan-nama-anda-terdaftar/</guid>
-      <pubDate>Fri, 10 Apr 2026 14:22:04 +0000</pubDate>
-      <category>Bansos</category>
-      <source>bansos.medanaktual.com</source>
-      <description>Setiap masyarakat yang memenuhi syarat sebagai penerima bantuan sosial (bansos) dari Kementerian Sosial (Kemensos) dapat memastikan statusnya secara mandiri. Salah...</description>
-      <ns1:content url="https://bansos.medanaktual.com/wp-content/uploads/2026/04/cek-bansos-ktp-april-2026-pastikan-nama-anda-terdaftar-350x250.webp" medium="image"/>
     </item>
     <item>
       <title>Cara Mudah Cek Penerima Bansos PKH, BPNT, dan PIP April 2026</title>
@@ -230,6 +230,16 @@
       <source>bansos.medanaktual.com</source>
       <description>Pendaftaran Kartu Indonesia Pintar (KIP) Kuliah jalur Seleksi Nasional Berdasarkan Prestasi (SNBP) 2026 memang sudah ditutup. Namun, peluang untuk mendapatkan...</description>
       <ns1:content url="https://bansos.medanaktual.com/wp-content/uploads/2026/04/cara-daftar-kip-kuliah-2026-untuk-utbk-snbt-panduan-lengkap-dan-terbaru-350x250.webp" medium="image"/>
+    </item>
+    <item>
+      <title>Cek Bansos KTP April 2026: Pastikan Nama Anda Terdaftar</title>
+      <link>https://bansos.medanaktual.com/cek-bansos-ktp-april-2026-pastikan-nama-anda-terdaftar/</link>
+      <guid>https://bansos.medanaktual.com/cek-bansos-ktp-april-2026-pastikan-nama-anda-terdaftar/</guid>
+      <pubDate>Fri, 10 Apr 2026 14:22:04 +0000</pubDate>
+      <category>Cek Bansos</category>
+      <source>bansos.medanaktual.com</source>
+      <description>Setiap masyarakat yang memenuhi syarat sebagai penerima bantuan sosial (bansos) dari Kementerian Sosial (Kemensos) dapat memastikan statusnya secara mandiri. Salah...</description>
+      <ns1:content url="https://bansos.medanaktual.com/wp-content/uploads/2026/04/cek-bansos-ktp-april-2026-pastikan-nama-anda-terdaftar-350x250.webp" medium="image"/>
     </item>
     <item>
       <title>Cara Cek Status BPJS Kesehatan 2026: Masih Aktif Atau Tidak</title>
@@ -853,49 +863,49 @@
       <ns1:content url="https://cms.disway.id/uploads/large/e63a7feba4213220753d36c858f8dd6d.jpg" medium="image"/>
     </item>
     <item>
-      <title>Pemerintah Tekankan TKDN dan SNI, QJMOTOR Jawab dengan Investasi dan SDM Lokal</title>
-      <link>https://disway.id/read/940264/pemerintah-tekankan-tkdn-dan-sni-qjmotor-jawab-dengan-investasi-dan-sdm-lokal</link>
-      <guid>https://disway.id/read/940264/pemerintah-tekankan-tkdn-dan-sni-qjmotor-jawab-dengan-investasi-dan-sdm-lokal</guid>
-      <pubDate>Fri, 10 Apr 2026 18:34:00 +0000</pubDate>
+      <title>Gencatan Senjata AS–Iran Disambut Positif, Ketum PBNU Minta Dijaga Secara Permanen</title>
+      <link>https://disway.id/read/940315/gencatan-senjata-asiran-disambut-positif-ketum-pbnu-minta-dijaga-secara-permanen</link>
+      <guid>https://disway.id/read/940315/gencatan-senjata-asiran-disambut-positif-ketum-pbnu-minta-dijaga-secara-permanen</guid>
+      <pubDate>Fri, 10 Apr 2026 19:54:00 +0000</pubDate>
       <category>Keuangan</category>
       <source>disway.id</source>
-      <ns1:content url="https://cms.disway.id/uploads/large/7fdccd74dba702bbe637a7a1a8070545.jpeg" medium="image"/>
+      <ns1:content url="https://cms.disway.id/uploads/large/0a07778d605193ad4aa897eef94c2ce0.jpg" medium="image"/>
     </item>
     <item>
-      <title>Satgas PKH Selamatkan Aset Kawasan Hutan Rp370 Triliun, Prabowo: Hampir 10% APBN</title>
-      <link>https://disway.id/read/940350/satgas-pkh-selamatkan-aset-kawasan-hutan-rp370-triliun-prabowo-hampir-10-apbn</link>
-      <guid>https://disway.id/read/940350/satgas-pkh-selamatkan-aset-kawasan-hutan-rp370-triliun-prabowo-hampir-10-apbn</guid>
-      <pubDate>Fri, 10 Apr 2026 18:33:00 +0000</pubDate>
+      <title>Transformasi Berkelanjutan Nyata, PLN Group Sabet 46 PROPER Emas dan Hijau 2025 KLH</title>
+      <link>https://disway.id/read/940366/transformasi-berkelanjutan-nyata-pln-group-sabet-46-proper-emas-dan-hijau-2025-klh</link>
+      <guid>https://disway.id/read/940366/transformasi-berkelanjutan-nyata-pln-group-sabet-46-proper-emas-dan-hijau-2025-klh</guid>
+      <pubDate>Fri, 10 Apr 2026 19:39:00 +0000</pubDate>
       <category>Keuangan</category>
       <source>disway.id</source>
-      <ns1:content url="https://cms.disway.id/uploads/large/ca714def75da1cc0ea16019e6310de71.jpg" medium="image"/>
+      <ns1:content url="https://cms.disway.id/uploads/large/a13f94c7543cefac319f47af0a0df539.jpg" medium="image"/>
     </item>
     <item>
-      <title>Kembali ke Zona Hijau, IHSG Ditutup di angka 7.458 Poin</title>
-      <link>https://disway.id/read/940349/kembali-ke-zona-hijau-ihsg-ditutup-di-angka-7458-poin</link>
-      <guid>https://disway.id/read/940349/kembali-ke-zona-hijau-ihsg-ditutup-di-angka-7458-poin</guid>
-      <pubDate>Fri, 10 Apr 2026 18:31:00 +0000</pubDate>
+      <title>Hari Ketiga GIICOMVEC 2026, Ragam Solusi Nyata Perkuat Dunia Bisnis Indonesia</title>
+      <link>https://disway.id/read/940292/hari-ketiga-giicomvec-2026-ragam-solusi-nyata-perkuat-dunia-bisnis-indonesia</link>
+      <guid>https://disway.id/read/940292/hari-ketiga-giicomvec-2026-ragam-solusi-nyata-perkuat-dunia-bisnis-indonesia</guid>
+      <pubDate>Fri, 10 Apr 2026 19:33:00 +0000</pubDate>
       <category>Keuangan</category>
       <source>disway.id</source>
-      <ns1:content url="https://cms.disway.id/uploads/large/0ea3eaeb504416fca7e0623a9df8f8c2.jpg" medium="image"/>
+      <ns1:content url="https://cms.disway.id/uploads/large/d65f3cee9e464bf743bd6dd20ac59a84.jpeg" medium="image"/>
     </item>
     <item>
-      <title>Hajatan FIFGROUP Cabang Ciledug, Momentum Berbagi Promo dan Keseruan untuk Warga</title>
-      <link>https://disway.id/read/940348/hajatan-fifgroup-cabang-ciledug-momentum-berbagi-promo-dan-keseruan-untuk-warga</link>
-      <guid>https://disway.id/read/940348/hajatan-fifgroup-cabang-ciledug-momentum-berbagi-promo-dan-keseruan-untuk-warga</guid>
-      <pubDate>Fri, 10 Apr 2026 18:31:00 +0000</pubDate>
+      <title>Model Bisnis Syariah Makin Diminati, Sertifikasi PLBS Jadi Kunci Pertumbuhan</title>
+      <link>https://disway.id/read/940358/model-bisnis-syariah-makin-diminati-sertifikasi-plbs-jadi-kunci-pertumbuhan</link>
+      <guid>https://disway.id/read/940358/model-bisnis-syariah-makin-diminati-sertifikasi-plbs-jadi-kunci-pertumbuhan</guid>
+      <pubDate>Fri, 10 Apr 2026 18:59:00 +0000</pubDate>
       <category>Keuangan</category>
       <source>disway.id</source>
-      <ns1:content url="https://cms.disway.id/uploads/large/7db6d1921fa22f11e2beb14ba3a4c487.jpeg" medium="image"/>
+      <ns1:content url="https://cms.disway.id/uploads/large/94d8ccc4a5d48c7d08e869a28c0a741e.png" medium="image"/>
     </item>
     <item>
-      <title>Kisah Pilu Fajar Jadi Korban Ledakan SPBE Cimuning: Ayah Luka Parah, Dua Adiknya Tewas</title>
-      <link>https://disway.id/read/940347/kisah-pilu-fajar-jadi-korban-ledakan-spbe-cimuning-ayah-luka-parah-dua-adiknya-tewas</link>
-      <guid>https://disway.id/read/940347/kisah-pilu-fajar-jadi-korban-ledakan-spbe-cimuning-ayah-luka-parah-dua-adiknya-tewas</guid>
-      <pubDate>Fri, 10 Apr 2026 18:25:00 +0000</pubDate>
+      <title>Rumah Ludes dan 2 Adiknya Jadi Korban Tewas Kebakaran, Fajar Belum Dihubungi  SPBE Cimuning Bekasi</title>
+      <link>https://disway.id/read/940355/rumah-ludes-dan-2-adiknya-jadi-korban-tewas-kebakaran-fajar-belum-dihubungi-spbe-cimuning-bekasi</link>
+      <guid>https://disway.id/read/940355/rumah-ludes-dan-2-adiknya-jadi-korban-tewas-kebakaran-fajar-belum-dihubungi-spbe-cimuning-bekasi</guid>
+      <pubDate>Fri, 10 Apr 2026 18:52:00 +0000</pubDate>
       <category>Keuangan</category>
       <source>disway.id</source>
-      <ns1:content url="https://cms.disway.id/uploads/large/49b5faa409cc87a03326ed442aa835f2.jpg" medium="image"/>
+      <ns1:content url="https://cms.disway.id/uploads/large/6ae8d7fc06b9bd29d52bb3c23658912e.jpg" medium="image"/>
     </item>
     <item>
       <title>Thomas Tuchel Soroti Performa Phil Foden, Hebat di Latihan Tapi Kesulitan di Pertandingan</title>
