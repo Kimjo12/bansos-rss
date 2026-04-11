@@ -5,8 +5,16 @@
     <description>RSS Feed gabungan dari berbagai sumber berita Indonesia</description>
     <link>https://github.com/Kimjo12/bansos-rss</link>
     <language>id</language>
-    <lastBuildDate>Sat, 11 Apr 2026 12:42:24 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 11 Apr 2026 13:51:52 +0000</lastBuildDate>
     <ns0:link href="https://Kimjo12.github.io/bansos-rss/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Jadwal Pencairan Bansos PKH BPNT April 2026 Dimulai, Ini Cara Cek Penerima Resmi</title>
+      <link>https://bansos.medanaktual.com/jadwal-pencairan-bansos-pkh-bpnt-april-2026-dimulai-ini-cara-cek-penerima-resmi/</link>
+      <guid>https://bansos.medanaktual.com/jadwal-pencairan-bansos-pkh-bpnt-april-2026-dimulai-ini-cara-cek-penerima-resmi/</guid>
+      <pubDate>Sat, 11 Apr 2026 19:30:48 +0000</pubDate>
+      <category>Bansos</category>
+      <source>bansos.medanaktual.com</source>
+    </item>
     <item>
       <title>Cara Cek Penerima Bansos Kemensos 2026 Menggunakan NIK Secara Online Terbaru</title>
       <link>https://bansos.medanaktual.com/cara-cek-penerima-bansos-kemensos-2026-menggunakan-nik-secara-online-terbaru/</link>
@@ -22,6 +30,8 @@
       <pubDate>Sat, 11 Apr 2026 17:15:50 +0000</pubDate>
       <category>Bansos</category>
       <source>bansos.medanaktual.com</source>
+      <description>Kementerian Pendidikan Dasar dan Menengah (Kemendikdasmen) mulai menyalurkan bantuan Program Indonesia Pintar (PIP) tahap pertama pada April 2026. Program ini...</description>
+      <ns1:content url="https://bansos.medanaktual.com/wp-content/uploads/2026/04/cara-cek-penerima-pip-2026-secara-online-lengkap-dengan-jadwal-dan-syarat-350x250.webp" medium="image"/>
     </item>
     <item>
       <title>BPNT April 2026 Cair Rp600.000, Ini Jadwal Pencairan dan Cara Cek Penerima Lewat HP</title>
@@ -112,16 +122,6 @@
       <source>bansos.medanaktual.com</source>
       <description>Cara cek penerima bansos Kemensos saat ini semakin banyak dicari masyarakat, khususnya Keluarga Penerima Manfaat (KPM). Hal ini seiring dengan...</description>
       <ns1:content url="https://bansos.medanaktual.com/wp-content/uploads/2026/04/panduan-cek-bansos-april-2026-via-nik-ktp-secara-online-1-350x250.webp" medium="image"/>
-    </item>
-    <item>
-      <title>Cara Cek Bansos PKH 2026 Lewat HP, Bisa via Aplikasi dan Website Resmi Kemensos</title>
-      <link>https://bansos.medanaktual.com/cara-cek-bansos-pkh-2026-lewat-hp-bisa-via-aplikasi-dan-website-resmi-kemensos/</link>
-      <guid>https://bansos.medanaktual.com/cara-cek-bansos-pkh-2026-lewat-hp-bisa-via-aplikasi-dan-website-resmi-kemensos/</guid>
-      <pubDate>Sat, 11 Apr 2026 14:59:21 +0000</pubDate>
-      <category>Bansos</category>
-      <source>bansos.medanaktual.com</source>
-      <description>Program Keluarga Harapan (PKH) merupakan salah satu bantuan sosial (bansos) dari pemerintah yang ditujukan untuk membantu keluarga kurang mampu agar...</description>
-      <ns1:content url="https://bansos.medanaktual.com/wp-content/uploads/2026/04/cara-cek-bansos-pkh-2026-lewat-hp-bisa-via-aplikasi-dan-website-resmi-kemensos-350x250.webp" medium="image"/>
     </item>
     <item>
       <title>Cara Cek PIP 2026 Online Lewat NISN dan NIK, Siswa Wajib Tahu!</title>
@@ -222,14 +222,14 @@
       <ns1:content url="https://bansos.medanaktual.com/wp-content/uploads/2026/04/20250819080133.webp" medium="image"/>
     </item>
     <item>
-      <title>Jadwal Pencairan Bansos PKH Dan BPNT Tahap 2 April 2026: Segera Cek Status Penerima</title>
-      <link>https://bansos.medanaktual.com/jadwal-pencairan-bansos-pkh-dan-bpnt-tahap-2-april-2026-segera-cek-status-penerima/</link>
-      <guid>https://bansos.medanaktual.com/jadwal-pencairan-bansos-pkh-dan-bpnt-tahap-2-april-2026-segera-cek-status-penerima/</guid>
-      <pubDate>Sat, 11 Apr 2026 14:58:07 +0000</pubDate>
+      <title>Cara Cek Bansos PKH 2026 Lewat HP, Bisa via Aplikasi dan Website Resmi Kemensos</title>
+      <link>https://bansos.medanaktual.com/cara-cek-bansos-pkh-2026-lewat-hp-bisa-via-aplikasi-dan-website-resmi-kemensos/</link>
+      <guid>https://bansos.medanaktual.com/cara-cek-bansos-pkh-2026-lewat-hp-bisa-via-aplikasi-dan-website-resmi-kemensos/</guid>
+      <pubDate>Sat, 11 Apr 2026 14:59:21 +0000</pubDate>
       <category>Cek Bansos</category>
       <source>bansos.medanaktual.com</source>
-      <description>Penyaluran bantuan sosial melalui Program Keluarga Harapan (PKH) dan Bantuan Pangan Non Tunai (BPNT) tahap kedua tahun 2026 dipastikan mulai...</description>
-      <ns1:content url="https://bansos.medanaktual.com/wp-content/uploads/2026/04/jadwal-pencairan-bansos-pkh-dan-bpnt-tahap-2-april-2026-segera-cek-status-penerima-350x250.webp" medium="image"/>
+      <description>Program Keluarga Harapan (PKH) merupakan salah satu bantuan sosial (bansos) dari pemerintah yang ditujukan untuk membantu keluarga kurang mampu agar...</description>
+      <ns1:content url="https://bansos.medanaktual.com/wp-content/uploads/2026/04/cara-cek-bansos-pkh-2026-lewat-hp-bisa-via-aplikasi-dan-website-resmi-kemensos-350x250.webp" medium="image"/>
     </item>
     <item>
       <title>Main Game Bisa Cuan? Ini Cara Memilih Aplikasi DANA Yang Aman Dan Terpercaya</title>
@@ -466,6 +466,15 @@
       <ns1:content url="https://id.medanaktual.com/wp-content/uploads/2026/04/gaji-ke-13-cair-juni-2026-ini-besaran-untuk-pns-pppk-tni-polri-dan-pensiunan-420x210.webp" medium="image"/>
     </item>
     <item>
+      <title>DANA Kaget Sabtu Terbaru: Fakta Mengejutkan Di Balik Saldo Gratis!</title>
+      <link>https://id.medanaktual.com/dana-kaget-sabtu-terbaru-fakta-mengejutkan-di-balik-saldo-gratis/</link>
+      <guid>https://id.medanaktual.com/dana-kaget-sabtu-terbaru-fakta-mengejutkan-di-balik-saldo-gratis/</guid>
+      <pubDate>Sat, 11 Apr 2026 20:09:58 +0000</pubDate>
+      <category>Ekonomi</category>
+      <source>id.medanaktual.com</source>
+      <ns1:content url="https://id.medanaktual.com/wp-content/uploads/2026/04/Dana-Kaget_-Fakta-Mengejutkan-Saldo-Gratis-420x280.png" medium="image"/>
+    </item>
+    <item>
       <title>Harga Emas Antam Kembali Naik, Capai Rp2,86 Juta per Gram</title>
       <link>https://id.medanaktual.com/harga-emas-antam-kembali-naik-capai-rp286-juta-per-gram/</link>
       <guid>https://id.medanaktual.com/harga-emas-antam-kembali-naik-capai-rp286-juta-per-gram/</guid>
@@ -500,15 +509,6 @@
       <category>Ekonomi</category>
       <source>id.medanaktual.com</source>
       <ns1:content url="https://id.medanaktual.com/wp-content/uploads/2026/04/harga-emas-perhiasan-10-april-turun-ke-rp2420-juta-per-gram-buyback-rp245-juta-420x210.webp" medium="image"/>
-    </item>
-    <item>
-      <title>Harga Emas Antam Hari Ini 10 April 2026 Naik, Galeri 24 dan UBS di Pegadaian Turun</title>
-      <link>https://id.medanaktual.com/harga-emas-antam-hari-ini-10-april-2026-naik-galeri-24-dan-ubs-di-pegadaian-turun/</link>
-      <guid>https://id.medanaktual.com/harga-emas-antam-hari-ini-10-april-2026-naik-galeri-24-dan-ubs-di-pegadaian-turun/</guid>
-      <pubDate>Fri, 10 Apr 2026 12:23:32 +0000</pubDate>
-      <category>Ekonomi</category>
-      <source>id.medanaktual.com</source>
-      <ns1:content url="https://id.medanaktual.com/wp-content/uploads/2026/04/harga-emas-antam-hari-ini-10-april-2026-naik-galeri-24-dan-ubs-di-pegadaian-turun-420x210.webp" medium="image"/>
     </item>
     <item>
       <title>Jadwal Lengkap TKA SD 2026: Simulasi, Gladi Bersih, hingga Pengumuman Hasil</title>
@@ -835,6 +835,33 @@
       <ns1:content url="https://cms.disway.id/uploads/large/e63a7feba4213220753d36c858f8dd6d.jpg" medium="image"/>
     </item>
     <item>
+      <title>Polisi Ringkus Pencuri Helm Komika Rispo dalam 24 Jam, Berakhir Damai</title>
+      <link>https://disway.id/read/940529/polisi-ringkus-pencuri-helm-komika-rispo-dalam-24-jam-berakhir-damai</link>
+      <guid>https://disway.id/read/940529/polisi-ringkus-pencuri-helm-komika-rispo-dalam-24-jam-berakhir-damai</guid>
+      <pubDate>Sat, 11 Apr 2026 20:48:00 +0000</pubDate>
+      <category>Keuangan</category>
+      <source>disway.id</source>
+      <ns1:content url="https://cms.disway.id/uploads/large/40ec410635f28ae6b4f0b62e2cfa6184.jpg" medium="image"/>
+    </item>
+    <item>
+      <title>Hebat! 27 Siswa MAN Insan Cendekia Serpong Tembus Kampus Top Dunia</title>
+      <link>https://disway.id/read/940519/hebat-27-siswa-man-insan-cendekia-serpong-tembus-kampus-top-dunia</link>
+      <guid>https://disway.id/read/940519/hebat-27-siswa-man-insan-cendekia-serpong-tembus-kampus-top-dunia</guid>
+      <pubDate>Sat, 11 Apr 2026 20:36:00 +0000</pubDate>
+      <category>Keuangan</category>
+      <source>disway.id</source>
+      <ns1:content url="https://cms.disway.id/uploads/large/a26c520804acbd10a8ace71bca862c3c.jpg" medium="image"/>
+    </item>
+    <item>
+      <title>Prabowo: Pencak Silat adalah Jati Diri Bangsa, Membentuk Karakter dan Jiwa Kesatria Indonesia</title>
+      <link>https://disway.id/read/940506/prabowo-pencak-silat-adalah-jati-diri-bangsa-membentuk-karakter-dan-jiwa-kesatria-indonesia</link>
+      <guid>https://disway.id/read/940506/prabowo-pencak-silat-adalah-jati-diri-bangsa-membentuk-karakter-dan-jiwa-kesatria-indonesia</guid>
+      <pubDate>Sat, 11 Apr 2026 19:55:00 +0000</pubDate>
+      <category>Keuangan</category>
+      <source>disway.id</source>
+      <ns1:content url="https://cms.disway.id/uploads/large/6158ef5bae0eafcb66a3c4abdb1d1c81.jpg" medium="image"/>
+    </item>
+    <item>
       <title>Lebaran Betawi 2026: Wujud Nyata Persatuan dan Pelestarian Budaya</title>
       <link>https://disway.id/read/940505/lebaran-betawi-2026-wujud-nyata-persatuan-dan-pelestarian-budaya</link>
       <guid>https://disway.id/read/940505/lebaran-betawi-2026-wujud-nyata-persatuan-dan-pelestarian-budaya</guid>
@@ -851,33 +878,6 @@
       <category>Keuangan</category>
       <source>disway.id</source>
       <ns1:content url="https://cms.disway.id/uploads/large/f82dc1c23501d8b6f6358058bd5080ad.jpeg" medium="image"/>
-    </item>
-    <item>
-      <title>Guardiola Paksa Manchester City Sapu Bersih Laga Sisa demi Kudeta Arsenal di Liga Primier</title>
-      <link>https://disway.id/read/940518/guardiola-paksa-manchester-city-sapu-bersih-laga-sisa-demi-kudeta-arsenal-di-liga-primier</link>
-      <guid>https://disway.id/read/940518/guardiola-paksa-manchester-city-sapu-bersih-laga-sisa-demi-kudeta-arsenal-di-liga-primier</guid>
-      <pubDate>Sat, 11 Apr 2026 18:48:00 +0000</pubDate>
-      <category>Keuangan</category>
-      <source>disway.id</source>
-      <ns1:content url="https://cms.disway.id/uploads/large/cebe1fd6f826e652d3497cd1a4cbb8ff.png" medium="image"/>
-    </item>
-    <item>
-      <title>Presiden Persebaya Azrul Ananda Gowes Surabaya-Jakarta Pakai Jersey Bajol Ijo, Disambut Jakmania</title>
-      <link>https://disway.id/read/940521/presiden-persebaya-azrul-ananda-gowes-surabaya-jakarta-pakai-jersey-bajol-ijo-disambut-jakmania</link>
-      <guid>https://disway.id/read/940521/presiden-persebaya-azrul-ananda-gowes-surabaya-jakarta-pakai-jersey-bajol-ijo-disambut-jakmania</guid>
-      <pubDate>Sat, 11 Apr 2026 18:46:00 +0000</pubDate>
-      <category>Keuangan</category>
-      <source>disway.id</source>
-      <ns1:content url="https://cms.disway.id/uploads/large/34951666d24caef95b9d99d193284ed9.jpg" medium="image"/>
-    </item>
-    <item>
-      <title>Isuzu D-Max Rodeo Debut di GIICOMVEC 2026, Siap Kerja Berat dengan Safety dan Performa Tangguh</title>
-      <link>https://disway.id/read/940496/isuzu-d-max-rodeo-debut-di-giicomvec-2026-siap-kerja-berat-dengan-safety-dan-performa-tangguh</link>
-      <guid>https://disway.id/read/940496/isuzu-d-max-rodeo-debut-di-giicomvec-2026-siap-kerja-berat-dengan-safety-dan-performa-tangguh</guid>
-      <pubDate>Sat, 11 Apr 2026 18:32:00 +0000</pubDate>
-      <category>Keuangan</category>
-      <source>disway.id</source>
-      <ns1:content url="https://cms.disway.id/uploads/large/dac96ee334ac826139c1c468343e99ff.jpeg" medium="image"/>
     </item>
     <item>
       <title>Hasil Garudayaksa FC vs PSMS Medan 1-0: Gol Cepat Everton Kunci Kemenangan Laskar Rajawali</title>
