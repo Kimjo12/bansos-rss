@@ -5,8 +5,16 @@
     <description>RSS Feed gabungan dari berbagai sumber berita Indonesia</description>
     <link>https://github.com/Kimjo12/bansos-rss</link>
     <language>id</language>
-    <lastBuildDate>Sun, 12 Apr 2026 08:59:30 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 12 Apr 2026 09:51:04 +0000</lastBuildDate>
     <ns0:link href="https://Kimjo12.github.io/bansos-rss/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Cara Cek Status Bansos 2026 Lewat KTP, Lengkap Jadwal dan Ketentuannya</title>
+      <link>https://bansos.medanaktual.com/cara-cek-status-bansos-2026-lewat-ktp-lengkap-jadwal-dan-ketentuannya/</link>
+      <guid>https://bansos.medanaktual.com/cara-cek-status-bansos-2026-lewat-ktp-lengkap-jadwal-dan-ketentuannya/</guid>
+      <pubDate>Sun, 12 Apr 2026 16:38:38 +0000</pubDate>
+      <category>Bansos</category>
+      <source>bansos.medanaktual.com</source>
+    </item>
     <item>
       <title>cekbansos.kemensos.go.id, PKH-BPNT Cair April 2026</title>
       <link>https://bansos.medanaktual.com/cekbansos-kemensos-go-id-pkh-bpnt-cair-april-2026/</link>
@@ -22,6 +30,8 @@
       <pubDate>Sun, 12 Apr 2026 15:24:48 +0000</pubDate>
       <category>Bansos</category>
       <source>bansos.medanaktual.com</source>
+      <description>Panduan Daftar Akun KIP Kuliah 2026 SNBT Lengkap. Bagi siswa yang belum berhasil atau belum sempat mendaftar di jalur SNBP,...</description>
+      <ns1:content url="https://bansos.medanaktual.com/wp-content/uploads/2026/04/medanaktualpicture00005-2-350x250.jpg" medium="image"/>
     </item>
     <item>
       <title>Bansos April Sudah Cair? Cek Statusnnya Secara Online</title>
@@ -112,16 +122,6 @@
       <source>bansos.medanaktual.com</source>
       <description>Dalam menentukan penerima bantuan sosial (bansos), pemerintah menggunakan sistem desil sebagai indikator utama. Sistem ini membagi tingkat kesejahteraan masyarakat ke...</description>
       <ns1:content url="https://bansos.medanaktual.com/wp-content/uploads/2026/04/Add-a-heading-28-1-350x250.png" medium="image"/>
-    </item>
-    <item>
-      <title>Cara Cek Bansos 2026 dengan KTP di cekbansos.kemensos.go.id via HP</title>
-      <link>https://bansos.medanaktual.com/cara-cek-bansos-2026-dengan-ktp-di-cekbansos-kemensos-go-id-via-hp/</link>
-      <guid>https://bansos.medanaktual.com/cara-cek-bansos-2026-dengan-ktp-di-cekbansos-kemensos-go-id-via-hp/</guid>
-      <pubDate>Sun, 12 Apr 2026 14:03:56 +0000</pubDate>
-      <category>Bansos</category>
-      <source>bansos.medanaktual.com</source>
-      <description>Masyarakat kini semakin mudah mengetahui status bantuan sosial (bansos) tahun 2026 hanya dengan menggunakan KTP dan ponsel. Pemerintah melalui Kementerian...</description>
-      <ns1:content url="https://bansos.medanaktual.com/wp-content/uploads/2026/04/Screenshot-2026-04-12-114529-350x250.png" medium="image"/>
     </item>
     <item>
       <title>Dana PIP April 2026 Mulai Masuk, Cek Statusnya di Sini</title>
@@ -568,6 +568,24 @@
       <ns1:content url="https://id.medanaktual.com/wp-content/uploads/2026/04/gaji-pensiunan-pns-2026-apakah-naik-simak-faktanya-420x210.webp" medium="image"/>
     </item>
     <item>
+      <title>Cara Cek Lokasi Ujian UTBK 2026 Beserta Dokumen Wajib yang Dibawa</title>
+      <link>https://id.medanaktual.com/cara-cek-lokasi-ujian-utbk-2026-beserta-dokumen-wajib-yang-dibawa/</link>
+      <guid>https://id.medanaktual.com/cara-cek-lokasi-ujian-utbk-2026-beserta-dokumen-wajib-yang-dibawa/</guid>
+      <pubDate>Sun, 12 Apr 2026 16:29:22 +0000</pubDate>
+      <category>Pendidikan</category>
+      <source>id.medanaktual.com</source>
+      <ns1:content url="https://id.medanaktual.com/wp-content/uploads/2026/04/Cara-Cek-Lokasi-Ujian-UTBK-2026-Beserta-Dokumen-Wajib-yang-Dibawa-420x263.jpg" medium="image"/>
+    </item>
+    <item>
+      <title>Rekomendasi Kampus Jurusan Hukum Terbaik di Medan 2026</title>
+      <link>https://id.medanaktual.com/rekomendasi-kampus-jurusan-hukum-terbaik-di-medan-2026/</link>
+      <guid>https://id.medanaktual.com/rekomendasi-kampus-jurusan-hukum-terbaik-di-medan-2026/</guid>
+      <pubDate>Sun, 12 Apr 2026 16:00:34 +0000</pubDate>
+      <category>Pendidikan</category>
+      <source>id.medanaktual.com</source>
+      <ns1:content url="https://id.medanaktual.com/wp-content/uploads/2026/04/Screenshot-2026-04-12-075130-420x416.png" medium="image"/>
+    </item>
+    <item>
       <title>Fakultas Agama Islam Terbaik di Medan 2026: Rekomendasi Kampus Berkualitas</title>
       <link>https://id.medanaktual.com/fakultas-agama-islam-terbaik-di-medan-2026-rekomendasi-kampus-berkualitas/</link>
       <guid>https://id.medanaktual.com/fakultas-agama-islam-terbaik-di-medan-2026-rekomendasi-kampus-berkualitas/</guid>
@@ -602,24 +620,6 @@
       <category>Pendidikan</category>
       <source>id.medanaktual.com</source>
       <ns1:content url="https://id.medanaktual.com/wp-content/uploads/2026/04/Pantun-tentang-tata-surya-1-2-420x236.webp" medium="image"/>
-    </item>
-    <item>
-      <title>Beasiswa BIB Kemenag 2026 Dibuka April, Kuliah Gratis S1–S3</title>
-      <link>https://id.medanaktual.com/beasiswa-bib-kemenag-2026-dibuka-april-kuliah-gratis-s1-s3/</link>
-      <guid>https://id.medanaktual.com/beasiswa-bib-kemenag-2026-dibuka-april-kuliah-gratis-s1-s3/</guid>
-      <pubDate>Sun, 12 Apr 2026 11:38:48 +0000</pubDate>
-      <category>Pendidikan</category>
-      <source>id.medanaktual.com</source>
-      <ns1:content url="https://id.medanaktual.com/wp-content/uploads/2026/04/kkkmenag-420x237.jpg" medium="image"/>
-    </item>
-    <item>
-      <title>Topik-Topik Utama Kajian Ilmu Falak Peradaban Islam (1)</title>
-      <link>https://id.medanaktual.com/topik-topik-utama-kajian-ilmu-falak-peradaban-islam-1/</link>
-      <guid>https://id.medanaktual.com/topik-topik-utama-kajian-ilmu-falak-peradaban-islam-1/</guid>
-      <pubDate>Sun, 12 Apr 2026 11:38:03 +0000</pubDate>
-      <category>Pendidikan</category>
-      <source>id.medanaktual.com</source>
-      <ns1:content url="https://id.medanaktual.com/wp-content/uploads/2026/04/Pantun-tentang-tata-surya-1-1-420x236.webp" medium="image"/>
     </item>
     <item>
       <title>Investasi Urun Dana Kini Punya Cara Baru, Danamart Gabungkan Donasi dan Investasi</title>
@@ -892,6 +892,33 @@
       <ns1:content url="https://cms.disway.id/uploads/large/e63a7feba4213220753d36c858f8dd6d.jpg" medium="image"/>
     </item>
     <item>
+      <title>Sopir Bajaj Dipalak Preman Tanah Abang Rp100 Ribu, Pramono: Tindak Tegas, Tak Ada Kompromi!</title>
+      <link>https://disway.id/read/940621/sopir-bajaj-dipalak-preman-tanah-abang-rp100-ribu-pramono-tindak-tegas-tak-ada-kompromi</link>
+      <guid>https://disway.id/read/940621/sopir-bajaj-dipalak-preman-tanah-abang-rp100-ribu-pramono-tindak-tegas-tak-ada-kompromi</guid>
+      <pubDate>Sun, 12 Apr 2026 16:46:00 +0000</pubDate>
+      <category>Keuangan</category>
+      <source>disway.id</source>
+      <ns1:content url="https://cms.disway.id/uploads/large/b6b7824d612137b357eea2e712ee9813.jpeg" medium="image"/>
+    </item>
+    <item>
+      <title>Pramono Larang Ondel-Ondel sebagai Ikon Betawi Dipakai Mengamen, Minta Satpol PP Bertindak!</title>
+      <link>https://disway.id/read/940620/pramono-larang-ondel-ondel-sebagai-ikon-betawi-dipakai-mengamen-minta-satpol-pp-bertindak</link>
+      <guid>https://disway.id/read/940620/pramono-larang-ondel-ondel-sebagai-ikon-betawi-dipakai-mengamen-minta-satpol-pp-bertindak</guid>
+      <pubDate>Sun, 12 Apr 2026 16:33:00 +0000</pubDate>
+      <category>Keuangan</category>
+      <source>disway.id</source>
+      <ns1:content url="https://cms.disway.id/uploads/large/6adb78c8125d4404aa76ad4d2965daee.jpeg" medium="image"/>
+    </item>
+    <item>
+      <title>Kantor Digeledah, Menteri PU Hormati Proses Hukum oleh Kejati DKI</title>
+      <link>https://disway.id/read/940618/kantor-digeledah-menteri-pu-hormati-proses-hukum-oleh-kejati-dki</link>
+      <guid>https://disway.id/read/940618/kantor-digeledah-menteri-pu-hormati-proses-hukum-oleh-kejati-dki</guid>
+      <pubDate>Sun, 12 Apr 2026 16:20:00 +0000</pubDate>
+      <category>Keuangan</category>
+      <source>disway.id</source>
+      <ns1:content url="https://cms.disway.id/uploads/large/5ca256f25befe754fd2f5ebba7255e38.jpg" medium="image"/>
+    </item>
+    <item>
       <title>Sudarno Tim Ahli Gubernur Minta Masyarakat Ber-KTP Non Kaltim Jangan Terlalu Nyiyir, PDRB Kami Terbesar!</title>
       <link>https://disway.id/read/940616/sudarno-tim-ahli-gubernur-minta-masyarakat-ber-ktp-non-kaltim-jangan-terlalu-nyiyir-pdrb-kami-terbesar</link>
       <guid>https://disway.id/read/940616/sudarno-tim-ahli-gubernur-minta-masyarakat-ber-ktp-non-kaltim-jangan-terlalu-nyiyir-pdrb-kami-terbesar</guid>
@@ -908,33 +935,6 @@
       <category>Keuangan</category>
       <source>disway.id</source>
       <ns1:content url="https://cms.disway.id/uploads/large/d15b969f1e01377a5f027ee9b0697824.jpg" medium="image"/>
-    </item>
-    <item>
-      <title>Perundingan 'Islamabad Talks' Alot: AS dan Iran Sepakat Damai atau Lanjut Perang?</title>
-      <link>https://disway.id/read/940606/perundingan-islamabad-talks-alot-as-dan-iran-sepakat-damai-atau-lanjut-perang</link>
-      <guid>https://disway.id/read/940606/perundingan-islamabad-talks-alot-as-dan-iran-sepakat-damai-atau-lanjut-perang</guid>
-      <pubDate>Sun, 12 Apr 2026 14:13:00 +0000</pubDate>
-      <category>Keuangan</category>
-      <source>disway.id</source>
-      <ns1:content url="https://cms.disway.id/uploads/large/6829b55abf056eb2c6e45c78dbc82cbd.jpg" medium="image"/>
-    </item>
-    <item>
-      <title>Jadwal Bioskop Trans TV Hari Ini 12 April 2026 Lengkap Sinopsis, Nonton Film Mosul</title>
-      <link>https://disway.id/read/940604/jadwal-bioskop-trans-tv-hari-ini-12-april-2026-lengkap-sinopsis-nonton-film-mosul</link>
-      <guid>https://disway.id/read/940604/jadwal-bioskop-trans-tv-hari-ini-12-april-2026-lengkap-sinopsis-nonton-film-mosul</guid>
-      <pubDate>Sun, 12 Apr 2026 13:59:00 +0000</pubDate>
-      <category>Keuangan</category>
-      <source>disway.id</source>
-      <ns1:content url="https://cms.disway.id/uploads/large/a974a4485c34f522958666a87971d0f8.png" medium="image"/>
-    </item>
-    <item>
-      <title>Pramono Dukung PPSU 'Buru' Ikan Sapu-sapu: Lakukan secara Masif!</title>
-      <link>https://disway.id/read/940602/pramono-dukung-ppsu-buru-ikan-sapu-sapu-lakukan-secara-masif</link>
-      <guid>https://disway.id/read/940602/pramono-dukung-ppsu-buru-ikan-sapu-sapu-lakukan-secara-masif</guid>
-      <pubDate>Sun, 12 Apr 2026 13:40:00 +0000</pubDate>
-      <category>Keuangan</category>
-      <source>disway.id</source>
-      <ns1:content url="https://cms.disway.id/uploads/large/2ad4a19561cbbb72b14a51871e921db0.jpg" medium="image"/>
     </item>
     <item>
       <title>Hasil Garudayaksa FC vs PSMS Medan 1-0: Gol Cepat Everton Kunci Kemenangan Laskar Rajawali</title>
