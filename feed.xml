@@ -5,8 +5,16 @@
     <description>RSS Feed gabungan dari berbagai sumber berita Indonesia</description>
     <link>https://github.com/Kimjo12/bansos-rss</link>
     <language>id</language>
-    <lastBuildDate>Tue, 14 Apr 2026 22:40:18 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 14 Apr 2026 23:38:14 +0000</lastBuildDate>
     <ns0:link href="https://Kimjo12.github.io/bansos-rss/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Cek Bansos : Penyaluran Triwulan II 2026 Cair Lebih Cepat</title>
+      <link>https://bansos.medanaktual.com/cek-bansos-penyaluran-triwulan-ii-2026-cair-lebih-cepat/</link>
+      <guid>https://bansos.medanaktual.com/cek-bansos-penyaluran-triwulan-ii-2026-cair-lebih-cepat/</guid>
+      <pubDate>Wed, 15 Apr 2026 06:13:26 +0000</pubDate>
+      <category>Bansos</category>
+      <source>bansos.medanaktual.com</source>
+    </item>
     <item>
       <title>Cara Cek Bansos PKH dan BPNT April 2026 yang Mulai Cair</title>
       <link>https://bansos.medanaktual.com/cara-cek-bansos-pkh-dan-bpnt-april-2026-yang-mulai-cair/</link>
@@ -22,6 +30,8 @@
       <pubDate>Tue, 14 Apr 2026 21:47:09 +0000</pubDate>
       <category>Bansos</category>
       <source>bansos.medanaktual.com</source>
+      <description>Pemerintah melalui Kementerian Sosial (Kemensos) kembali akan menyalurkan bantuan sosial (bansos) pada April 2026. Program bansos dari Kemensos ini merupakan...</description>
+      <ns1:content url="https://bansos.medanaktual.com/wp-content/uploads/2026/04/jadwal-pencairan-bansos-kemensos-april-2026-350x250.webp" medium="image"/>
     </item>
     <item>
       <title>Cara Cek Bansos Online Lewat HP, Tidak Perlu ke Kantor Desa Lagi</title>
@@ -112,16 +122,6 @@
       <source>bansos.medanaktual.com</source>
       <description>Penyaluran bantuan sosial (bansos) dari Kementerian Sosial untuk Program Keluarga Harapan (PKH) dan Bantuan Pangan Non Tunai (BPNT) tahap 2...</description>
       <ns1:content url="https://bansos.medanaktual.com/wp-content/uploads/2026/04/bansos-april-2026-jadwal-besaran-dan-cara-cek-pkh-bpnt-tahap-2-1024x512-1-350x250.webp" medium="image"/>
-    </item>
-    <item>
-      <title>Bansos PKH dan BPNT Tahap 2 Mulai Cair, Simak Link dan Cara Ceknya</title>
-      <link>https://bansos.medanaktual.com/bansos-pkh-dan-bpnt-tahap-2-mulai-cair-simak-link-dan-cara-ceknya/</link>
-      <guid>https://bansos.medanaktual.com/bansos-pkh-dan-bpnt-tahap-2-mulai-cair-simak-link-dan-cara-ceknya/</guid>
-      <pubDate>Tue, 14 Apr 2026 16:15:10 +0000</pubDate>
-      <category>Bansos</category>
-      <source>bansos.medanaktual.com</source>
-      <description>Kabar menggembirakan datang bagi masyarakat penerima bantuan sosial di Indonesia. Pemerintah melalui Kementerian Sosial memastikan bahwa pencairan bansos Program Keluarga...</description>
-      <ns1:content url="https://bansos.medanaktual.com/wp-content/uploads/2026/04/bansos-pkh-dan-bpnt-tahap-2-mulai-cair-simak-link-dan-cara-ceknya-350x250.webp" medium="image"/>
     </item>
     <item>
       <title>Cara Cek Penerima PIP 2026 Lewat HP, Mudah dan Praktis Tanpa ke Sekolah</title>
@@ -268,16 +268,6 @@
       <source>bansos.medanaktual.com</source>
       <description>Untuk memastikan bantuan sosial tepat sasaran, pemerintah melalui Kementerian Sosial Republik Indonesia menerapkan sistem desil dalam mengelompokkan masyarakat berdasarkan tingkat...</description>
       <ns1:content url="https://bansos.medanaktual.com/wp-content/uploads/2026/04/medan-aktual-28-350x250.webp" medium="image"/>
-    </item>
-    <item>
-      <title>Cek Bansos Kemensos Lewat HP Lengkap dengan Panduan Cara Mengusulkan Permohonan Bansos 2026</title>
-      <link>https://bansos.medanaktual.com/cek-bansos-kemensos-lewat-hp-lengkap-dengan-panduan-cara-mengusulkan-permohonan-bansos-2026/</link>
-      <guid>https://bansos.medanaktual.com/cek-bansos-kemensos-lewat-hp-lengkap-dengan-panduan-cara-mengusulkan-permohonan-bansos-2026/</guid>
-      <pubDate>Tue, 14 Apr 2026 15:00:53 +0000</pubDate>
-      <category>Cek Bansos</category>
-      <source>bansos.medanaktual.com</source>
-      <description>Masyarakat kini dapat melakukan cek bansos Kemensos lewat HP dengan lebih mudah tanpa harus datang ke kantor desa atau kelurahan....</description>
-      <ns1:content url="https://bansos.medanaktual.com/wp-content/uploads/2026/04/cek-bansos-kemensos-lewat-hp-lengkap-dengan-panduan-cara-mengusulkan-permohonan-bansos-2026-350x250.webp" medium="image"/>
     </item>
     <item>
       <title>Main Game Bisa Cuan? Ini Cara Memilih Aplikasi DANA Yang Aman Dan Terpercaya</title>
@@ -610,12 +600,22 @@
       <ns1:content url="https://id.medanaktual.com/wp-content/uploads/2026/04/daftar-harga-bbm-pertamina-14-april-2026-daftar-lengkap-dan-perbandingan-terbaru.webp" medium="image"/>
     </item>
     <item>
+      <title>Rekomendasi Kampus Manajemen Terbaik di Medan untuk Masa Depan Pebisnis</title>
+      <link>https://id.medanaktual.com/rekomendasi-kampus-manajemen-terbaik-di-medan-untuk-masa-depan-pebisnis/</link>
+      <guid>https://id.medanaktual.com/rekomendasi-kampus-manajemen-terbaik-di-medan-untuk-masa-depan-pebisnis/</guid>
+      <pubDate>Wed, 15 Apr 2026 06:15:42 +0000</pubDate>
+      <category>Pendidikan</category>
+      <source>id.medanaktual.com</source>
+    </item>
+    <item>
       <title>UTBK SNBT 2026: Cara Unduh dan Cetak Kartu Peserta Lengkap dan Terbaru</title>
       <link>https://id.medanaktual.com/utbk-snbt-2026-cara-unduh-dan-cetak-kartu-peserta-lengkap-dan-terbaru/</link>
       <guid>https://id.medanaktual.com/utbk-snbt-2026-cara-unduh-dan-cetak-kartu-peserta-lengkap-dan-terbaru/</guid>
       <pubDate>Tue, 14 Apr 2026 17:32:30 +0000</pubDate>
       <category>Pendidikan</category>
       <source>id.medanaktual.com</source>
+      <description>Kartu peserta UTBK SNBT 2026 dapat mulai diunduh pada 11-15 April 2026. Dokumen ini wajib dibawa saat ujian karena berfungsi...</description>
+      <ns1:content url="https://id.medanaktual.com/wp-content/uploads/2026/04/utbk-snbt-2026-cara-unduh-dan-cetak-kartu-peserta-lengkap-dan-terbaru.webp" medium="image"/>
     </item>
     <item>
       <title>Rekomendasi Fakultas Ekonomi Unggulan di Medan Sumut</title>
@@ -666,16 +666,6 @@
       <source>id.medanaktual.com</source>
       <description>Dalam tradisi Islam, penentuan awal bulan Hijriah memiliki dimensi syariat yang kuat. Rukyat, yaitu aktivitas mengamati hilal secara langsung, menjadi...</description>
       <ns1:content url="https://id.medanaktual.com/wp-content/uploads/2026/04/images-2026-04-13T165216.207.jpg" medium="image"/>
-    </item>
-    <item>
-      <title>Pengaruh Hilal dalam Penentuan Waktu Ibadah Haji</title>
-      <link>https://id.medanaktual.com/pengaruh-hilal-dalam-penentuan-waktu-ibadah-haji/</link>
-      <guid>https://id.medanaktual.com/pengaruh-hilal-dalam-penentuan-waktu-ibadah-haji/</guid>
-      <pubDate>Tue, 14 Apr 2026 11:46:19 +0000</pubDate>
-      <category>Pendidikan</category>
-      <source>id.medanaktual.com</source>
-      <description>Ibadah haji merupakan salah satu rukun Islam yang memiliki dimensi waktu dan tempat yang sangat ketat. Tidak seperti ibadah lain...</description>
-      <ns1:content url="https://id.medanaktual.com/wp-content/uploads/2026/04/030619100_1739592393-1739589481104_arti-hilal.jpg" medium="image"/>
     </item>
     <item>
       <title>Langkah-Langkah Pakai SPayLater untuk Atur Budget Biar Gak Boncos di Tengah Bulan</title>
@@ -948,6 +938,51 @@
       <ns1:content url="https://cms.disway.id/uploads/large/e63a7feba4213220753d36c858f8dd6d.jpg" medium="image"/>
     </item>
     <item>
+      <title>Cedera Parah Hugo Ekitike, Striker Liverpool Terancam Absen Hingga Piala Dunia 2026</title>
+      <link>https://disway.id/read/941149/cedera-parah-hugo-ekitike-striker-liverpool-terancam-absen-hingga-piala-dunia-2026</link>
+      <guid>https://disway.id/read/941149/cedera-parah-hugo-ekitike-striker-liverpool-terancam-absen-hingga-piala-dunia-2026</guid>
+      <pubDate>Wed, 15 Apr 2026 06:32:00 +0000</pubDate>
+      <category>Keuangan</category>
+      <source>disway.id</source>
+      <ns1:content url="https://cms.disway.id/uploads/large/710b9352f61c92c2ac0e880dcc49d1a1.jpg" medium="image"/>
+    </item>
+    <item>
+      <title>Update Informasi Prakiraan Cuaca Jakarta Rabu, 15 April 2026: Waspada Jakut Hujan Deras!</title>
+      <link>https://disway.id/read/941147/update-informasi-prakiraan-cuaca-jakarta-rabu-15-april-2026-waspada-jakut-hujan-deras</link>
+      <guid>https://disway.id/read/941147/update-informasi-prakiraan-cuaca-jakarta-rabu-15-april-2026-waspada-jakut-hujan-deras</guid>
+      <pubDate>Wed, 15 Apr 2026 06:25:00 +0000</pubDate>
+      <category>Keuangan</category>
+      <source>disway.id</source>
+      <ns1:content url="https://cms.disway.id/uploads/large/a6e48b7e240fd68ab690e5ea5350110e.jpeg" medium="image"/>
+    </item>
+    <item>
+      <title>PKH Diserap Koperasi Desa, 1,4 Juta Warga Miskin Berpeluang Kerja dan Mandiri</title>
+      <link>https://disway.id/read/941145/pkh-diserap-koperasi-desa-14-juta-warga-miskin-berpeluang-kerja-dan-mandiri</link>
+      <guid>https://disway.id/read/941145/pkh-diserap-koperasi-desa-14-juta-warga-miskin-berpeluang-kerja-dan-mandiri</guid>
+      <pubDate>Wed, 15 Apr 2026 06:09:00 +0000</pubDate>
+      <category>Keuangan</category>
+      <source>disway.id</source>
+      <ns1:content url="https://cms.disway.id/uploads/large/18cee789fdd00cf279639e864dd89878.jpeg" medium="image"/>
+    </item>
+    <item>
+      <title>Alasan Terpaksa Real Madrid Legends Batal Tampil di Clash of Legends, Diganti DRX World yang Dipimpin Ronaldo</title>
+      <link>https://disway.id/read/941144/alasan-terpaksa-real-madrid-legends-batal-tampil-di-clash-of-legends-diganti-drx-world-yang-dipimpin-ronaldo</link>
+      <guid>https://disway.id/read/941144/alasan-terpaksa-real-madrid-legends-batal-tampil-di-clash-of-legends-diganti-drx-world-yang-dipimpin-ronaldo</guid>
+      <pubDate>Wed, 15 Apr 2026 06:06:00 +0000</pubDate>
+      <category>Keuangan</category>
+      <source>disway.id</source>
+      <ns1:content url="https://cms.disway.id/uploads/large/3995e2f8cff8b8076d5b4cef31ccb51a.jpeg" medium="image"/>
+    </item>
+    <item>
+      <title>Soal Isu Merger Nasdem-Gerindra, Framing Tempo Dinilai Menyesatkan</title>
+      <link>https://disway.id/read/941146/soal-isu-merger-nasdem-gerindra-framing-tempo-dinilai-menyesatkan</link>
+      <guid>https://disway.id/read/941146/soal-isu-merger-nasdem-gerindra-framing-tempo-dinilai-menyesatkan</guid>
+      <pubDate>Wed, 15 Apr 2026 06:04:00 +0000</pubDate>
+      <category>Keuangan</category>
+      <source>disway.id</source>
+      <ns1:content url="https://cms.disway.id/uploads/large/791e24ccb717dc5c59f1affa89f053df.jpg" medium="image"/>
+    </item>
+    <item>
       <title>Bertahan Menyerang</title>
       <link>https://disway.id/catatan-harian-dahlan/941130/bertahan-menyerang</link>
       <guid>https://disway.id/catatan-harian-dahlan/941130/bertahan-menyerang</guid>
@@ -955,24 +990,6 @@
       <category>Keuangan</category>
       <source>disway.id</source>
       <ns1:content url="https://cms.disway.id/uploads/large/d8db130844ec0043f741f978f11c3ce8.jpeg" medium="image"/>
-    </item>
-    <item>
-      <title>Jadwal Tayang dan Pesan Moral Film Animasi Garuda di Dadaku, Kini Lebih Dekat dengan Anak-Anak</title>
-      <link>https://disway.id/read/941123/jadwal-tayang-dan-pesan-moral-film-animasi-garuda-di-dadaku-kini-lebih-dekat-dengan-anak-anak</link>
-      <guid>https://disway.id/read/941123/jadwal-tayang-dan-pesan-moral-film-animasi-garuda-di-dadaku-kini-lebih-dekat-dengan-anak-anak</guid>
-      <pubDate>Wed, 15 Apr 2026 02:30:00 +0000</pubDate>
-      <category>Keuangan</category>
-      <source>disway.id</source>
-      <ns1:content url="https://cms.disway.id/uploads/large/956d433f56f2a9447b4bbf9d51f6e711.png" medium="image"/>
-    </item>
-    <item>
-      <title>BNPP RI Tingkatkan Daya Saing Tenun Ikat Belu dan UMKM Perbatasan di PLBN Motaai</title>
-      <link>https://disway.id/read/941128/bnpp-ri-tingkatkan-daya-saing-tenun-ikat-belu-dan-umkm-perbatasan-di-plbn-motaai</link>
-      <guid>https://disway.id/read/941128/bnpp-ri-tingkatkan-daya-saing-tenun-ikat-belu-dan-umkm-perbatasan-di-plbn-motaai</guid>
-      <pubDate>Wed, 15 Apr 2026 02:07:00 +0000</pubDate>
-      <category>Keuangan</category>
-      <source>disway.id</source>
-      <ns1:content url="https://cms.disway.id/uploads/large/a195f9c0b57fc659b2631fd482be45fe.jpg" medium="image"/>
     </item>
     <item>
       <title>Kylian Mbappe Kembali Latihan, Siap Bela Real Madrid Lawan Bayern Munchen di Leg Kedua Perempat Final Liga Champions</title>
