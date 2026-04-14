@@ -5,8 +5,16 @@
     <description>RSS Feed gabungan dari berbagai sumber berita Indonesia</description>
     <link>https://github.com/Kimjo12/bansos-rss</link>
     <language>id</language>
-    <lastBuildDate>Tue, 14 Apr 2026 15:09:16 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 14 Apr 2026 16:59:32 +0000</lastBuildDate>
     <ns0:link href="https://Kimjo12.github.io/bansos-rss/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Cara Cek Bansos PKH dan BPNT April 2026 yang Mulai Cair</title>
+      <link>https://bansos.medanaktual.com/cara-cek-bansos-pkh-dan-bpnt-april-2026-yang-mulai-cair/</link>
+      <guid>https://bansos.medanaktual.com/cara-cek-bansos-pkh-dan-bpnt-april-2026-yang-mulai-cair/</guid>
+      <pubDate>Tue, 14 Apr 2026 23:20:01 +0000</pubDate>
+      <category>Bansos</category>
+      <source>bansos.medanaktual.com</source>
+    </item>
     <item>
       <title>Jadwal Pencairan Bansos Kemensos April 2026</title>
       <link>https://bansos.medanaktual.com/jadwal-pencairan-bansos-kemensos-april-2026/</link>
@@ -22,6 +30,8 @@
       <pubDate>Tue, 14 Apr 2026 20:42:11 +0000</pubDate>
       <category>Bansos</category>
       <source>bansos.medanaktual.com</source>
+      <description>Kabar baik bagi masyarakat yang menantikan penyaluran bantuan sosial (bansos), karena pemerintah kembali menyalurkan berbagai program bantuan mulai April 2026....</description>
+      <ns1:content url="https://bansos.medanaktual.com/wp-content/uploads/2026/04/cara-cek-bansos-online-lewat-hp-tidak-perlu-ke-kantor-desa-lagi-350x250.webp" medium="image"/>
     </item>
     <item>
       <title>Cara Cek Desil Bansos April 2026, Bantuan Tahap 2 Resmi Cair</title>
@@ -112,16 +122,6 @@
       <source>bansos.medanaktual.com</source>
       <description>Kabar menggembirakan datang bagi masyarakat penerima bantuan sosial di Indonesia. Pemerintah melalui Kementerian Sosial memastikan bahwa pencairan bansos Program Keluarga...</description>
       <ns1:content url="https://bansos.medanaktual.com/wp-content/uploads/2026/04/bansos-pkh-dan-bpnt-tahap-2-mulai-cair-simak-link-dan-cara-ceknya-350x250.webp" medium="image"/>
-    </item>
-    <item>
-      <title>Cek Bansos PKH 2026, Simak Jadwal dan Siapa Saja Penerimanya</title>
-      <link>https://bansos.medanaktual.com/cek-bansos-pkh-2026-simak-jadwal-dan-siapa-saja-penerimanya/</link>
-      <guid>https://bansos.medanaktual.com/cek-bansos-pkh-2026-simak-jadwal-dan-siapa-saja-penerimanya/</guid>
-      <pubDate>Tue, 14 Apr 2026 16:09:55 +0000</pubDate>
-      <category>Bansos</category>
-      <source>bansos.medanaktual.com</source>
-      <description>Pemerintah melalui Kementerian Sosial Republik Indonesia terus menyalurkan bantuan sosial Program Keluarga Harapan (PKH) di tahun 2026 untuk membantu masyarakat...</description>
-      <ns1:content url="https://bansos.medanaktual.com/wp-content/uploads/2026/04/medan-aktual-27-350x250.webp" medium="image"/>
     </item>
     <item>
       <title>Cara Cek Penerima PIP 2026 Lewat HP, Mudah dan Praktis Tanpa ke Sekolah</title>
@@ -238,6 +238,16 @@
       <source>bansos.medanaktual.com</source>
       <description>PIP (Program Indonesia Pintar) merupakan bansos yang ditunggu para siswa di seluruh Indonesia.Dimana program ini menyalurkan bantuan tunai langsung ke...</description>
       <ns1:content url="https://bansos.medanaktual.com/wp-content/uploads/2026/04/Cara-Cek-PIP-2026-Pakai-NISN-dan-NIK-Lengkap-Jadwal-Termin-1-2-dan-3-350x250.jpg" medium="image"/>
+    </item>
+    <item>
+      <title>Cek Bansos PKH 2026, Simak Jadwal dan Siapa Saja Penerimanya</title>
+      <link>https://bansos.medanaktual.com/cek-bansos-pkh-2026-simak-jadwal-dan-siapa-saja-penerimanya/</link>
+      <guid>https://bansos.medanaktual.com/cek-bansos-pkh-2026-simak-jadwal-dan-siapa-saja-penerimanya/</guid>
+      <pubDate>Tue, 14 Apr 2026 16:09:55 +0000</pubDate>
+      <category>Cek Bansos</category>
+      <source>bansos.medanaktual.com</source>
+      <description>Pemerintah melalui Kementerian Sosial Republik Indonesia terus menyalurkan bantuan sosial Program Keluarga Harapan (PKH) di tahun 2026 untuk membantu masyarakat...</description>
+      <ns1:content url="https://bansos.medanaktual.com/wp-content/uploads/2026/04/medan-aktual-27-350x250.webp" medium="image"/>
     </item>
     <item>
       <title>Bansos ATENSI YAPI 2026 Cair: Cek Jadwal, Syarat, Dan Cara Mengecek Penerima</title>
@@ -891,49 +901,49 @@
       <ns1:content url="https://cms.disway.id/uploads/large/0365cfff88c03b6918a415033d3a0bea.jpg" medium="image"/>
     </item>
     <item>
-      <title>Gelar Aksi di MK, Aktivis Mahasiswa Desak Penyiram Air Keras Andrie Yunus Diseret ke Peradilan Umum</title>
-      <link>https://disway.id/read/941098/gelar-aksi-di-mk-aktivis-mahasiswa-desak-penyiram-air-keras-andrie-yunus-diseret-ke-peradilan-umum</link>
-      <guid>https://disway.id/read/941098/gelar-aksi-di-mk-aktivis-mahasiswa-desak-penyiram-air-keras-andrie-yunus-diseret-ke-peradilan-umum</guid>
-      <pubDate>Tue, 14 Apr 2026 21:58:00 +0000</pubDate>
+      <title>Sudah Berlaku, Samsat Cinere Depok Permudah Warga Bayar Pajak Tanpa KTP</title>
+      <link>https://disway.id/read/941106/sudah-berlaku-samsat-cinere-depok-permudah-warga-bayar-pajak-tanpa-ktp</link>
+      <guid>https://disway.id/read/941106/sudah-berlaku-samsat-cinere-depok-permudah-warga-bayar-pajak-tanpa-ktp</guid>
+      <pubDate>Tue, 14 Apr 2026 23:18:00 +0000</pubDate>
       <category>Keuangan</category>
       <source>disway.id</source>
-      <ns1:content url="https://cms.disway.id/uploads/large/b96bed6cc1decdbc547956c956099a53.jpg" medium="image"/>
+      <ns1:content url="https://cms.disway.id/uploads/large/ba3570522a44301f3187ad4137b271de.jpg" medium="image"/>
     </item>
     <item>
-      <title>BPOM dan Kemenkes Resmikan Label Gizi A-D untuk Makanan-Minuman, Cek Batas Aman Gula Garam Lemak (GGL)</title>
-      <link>https://disway.id/read/941097/bpom-dan-kemenkes-resmikan-label-gizi-a-d-untuk-makanan-minuman-cek-batas-aman-gula-garam-lemak-ggl</link>
-      <guid>https://disway.id/read/941097/bpom-dan-kemenkes-resmikan-label-gizi-a-d-untuk-makanan-minuman-cek-batas-aman-gula-garam-lemak-ggl</guid>
-      <pubDate>Tue, 14 Apr 2026 21:55:00 +0000</pubDate>
+      <title>Dari Registrasi hingga Finish, bank bjb Kawal Sukses Semarang Mountain Race 2026</title>
+      <link>https://disway.id/read/941099/dari-registrasi-hingga-finish-bank-bjb-kawal-sukses-semarang-mountain-race-2026</link>
+      <guid>https://disway.id/read/941099/dari-registrasi-hingga-finish-bank-bjb-kawal-sukses-semarang-mountain-race-2026</guid>
+      <pubDate>Tue, 14 Apr 2026 22:51:00 +0000</pubDate>
       <category>Keuangan</category>
       <source>disway.id</source>
-      <ns1:content url="https://cms.disway.id/uploads/large/36c3456f9e9c218ff64cd7e956b9c6cb.jpg" medium="image"/>
+      <ns1:content url="https://cms.disway.id/uploads/large/20a13b69a96a947ffd7b92afba0b068d.jpg" medium="image"/>
     </item>
     <item>
-      <title>5 Pelaku Begal Terhadap Anggota Damkar di Jakpus Dibekuk, 4 Lainnya Masih Diburu</title>
-      <link>https://disway.id/read/941081/5-pelaku-begal-terhadap-anggota-damkar-di-jakpus-dibekuk-4-lainnya-masih-diburu</link>
-      <guid>https://disway.id/read/941081/5-pelaku-begal-terhadap-anggota-damkar-di-jakpus-dibekuk-4-lainnya-masih-diburu</guid>
-      <pubDate>Tue, 14 Apr 2026 21:55:00 +0000</pubDate>
+      <title>Dari 2024, Siapa Sangka Grup Kos 16 Mahasiswa FH UI Berujung Kasus Chat Kekerasan Seksual</title>
+      <link>https://disway.id/read/941103/dari-2024-siapa-sangka-grup-kos-16-mahasiswa-fh-ui-berujung-kasus-chat-kekerasan-seksual</link>
+      <guid>https://disway.id/read/941103/dari-2024-siapa-sangka-grup-kos-16-mahasiswa-fh-ui-berujung-kasus-chat-kekerasan-seksual</guid>
+      <pubDate>Tue, 14 Apr 2026 22:50:00 +0000</pubDate>
       <category>Keuangan</category>
       <source>disway.id</source>
-      <ns1:content url="https://cms.disway.id/uploads/large/f54ebdbaa17cfe49c89b06777db508b6.jpg" medium="image"/>
+      <ns1:content url="https://cms.disway.id/uploads/large/ec14f10ce80f7d7cf6268e47ca12d91f.png" medium="image"/>
     </item>
     <item>
-      <title>Waspada! Bayar Pajak Kendaraan Tanpa KTP Pemilik Asli Bisa Jadi Celah Pelaku Curanmor</title>
-      <link>https://disway.id/read/941096/waspada-bayar-pajak-kendaraan-tanpa-ktp-pemilik-asli-bisa-jadi-celah-pelaku-curanmor</link>
-      <guid>https://disway.id/read/941096/waspada-bayar-pajak-kendaraan-tanpa-ktp-pemilik-asli-bisa-jadi-celah-pelaku-curanmor</guid>
-      <pubDate>Tue, 14 Apr 2026 21:47:00 +0000</pubDate>
+      <title>KPK Gercep Mengusut Korupsi Cukai, Penindakan Rokok Ilegal Jadi Mendesak</title>
+      <link>https://disway.id/read/941107/kpk-gercep-mengusut-korupsi-cukai-penindakan-rokok-ilegal-jadi-mendesak</link>
+      <guid>https://disway.id/read/941107/kpk-gercep-mengusut-korupsi-cukai-penindakan-rokok-ilegal-jadi-mendesak</guid>
+      <pubDate>Tue, 14 Apr 2026 22:41:00 +0000</pubDate>
       <category>Keuangan</category>
       <source>disway.id</source>
-      <ns1:content url="https://cms.disway.id/uploads/large/db632f7522512d2b75d9f00ee0c6d2a2.png" medium="image"/>
+      <ns1:content url="https://cms.disway.id/uploads/large/efdbfdddb1731f2578770ee4ab6a72f7.jpg" medium="image"/>
     </item>
     <item>
-      <title>Komisi VIII DPR Nilai War Tiket Haji Tak akan Selesaikan Masalah Antrean Jemaah Indonesia</title>
-      <link>https://disway.id/read/941094/komisi-viii-dpr-nilai-war-tiket-haji-tak-akan-selesaikan-masalah-antrean-jemaah-indonesia</link>
-      <guid>https://disway.id/read/941094/komisi-viii-dpr-nilai-war-tiket-haji-tak-akan-selesaikan-masalah-antrean-jemaah-indonesia</guid>
-      <pubDate>Tue, 14 Apr 2026 21:40:00 +0000</pubDate>
+      <title>Menteri Haji Tetap Bahas 'War Tiket', Pastikan Tak Hanguskan Antrean</title>
+      <link>https://disway.id/read/941082/menteri-haji-tetap-bahas-war-tiket-pastikan-tak-hanguskan-antrean</link>
+      <guid>https://disway.id/read/941082/menteri-haji-tetap-bahas-war-tiket-pastikan-tak-hanguskan-antrean</guid>
+      <pubDate>Tue, 14 Apr 2026 22:28:00 +0000</pubDate>
       <category>Keuangan</category>
       <source>disway.id</source>
-      <ns1:content url="https://cms.disway.id/uploads/large/14f116754c84c00861e056c53e73790e.jpg" medium="image"/>
+      <ns1:content url="https://cms.disway.id/uploads/large/c39f45aa7fc9c4c518787781523d3018.jpg" medium="image"/>
     </item>
     <item>
       <title>Kylian Mbappe Kembali Latihan, Siap Bela Real Madrid Lawan Bayern Munchen di Leg Kedua Perempat Final Liga Champions</title>
