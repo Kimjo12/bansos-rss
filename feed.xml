@@ -5,7 +5,7 @@
     <description>RSS Feed gabungan dari berbagai sumber berita Indonesia</description>
     <link>https://github.com/Kimjo12/bansos-rss</link>
     <language>id</language>
-    <lastBuildDate>Tue, 14 Apr 2026 16:59:32 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 14 Apr 2026 18:07:43 +0000</lastBuildDate>
     <ns0:link href="https://Kimjo12.github.io/bansos-rss/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Cara Cek Bansos PKH dan BPNT April 2026 yang Mulai Cair</title>
@@ -286,7 +286,6 @@
       <pubDate>Sat, 11 Apr 2026 00:45:16 +0000</pubDate>
       <category>BPJS Kesehatan</category>
       <source>id.medanaktual.com</source>
-      <ns1:content url="https://id.medanaktual.com/wp-content/uploads/2026/04/Main-game-bisa-cuan_-420x280.png" medium="image"/>
     </item>
     <item>
       <title>Cara Cek Status BPJS Kesehatan 2026: Masih Aktif Atau Tidak</title>
@@ -295,7 +294,8 @@
       <pubDate>Thu, 09 Apr 2026 19:09:37 +0000</pubDate>
       <category>BPJS Kesehatan</category>
       <source>id.medanaktual.com</source>
-      <ns1:content url="https://id.medanaktual.com/wp-content/uploads/2026/04/cara-cek-status-bpjs-kesehatan-2026-masih-aktif-atau-tidak-420x210.webp" medium="image"/>
+      <description>Mengetahui apakah kepesertaan BPJS Kesehatan masih aktif merupakan hal penting yang perlu diperhatikan di tahun 2026. Status aktif sangat menentukan...</description>
+      <ns1:content url="https://id.medanaktual.com/wp-content/uploads/2026/04/cara-cek-status-bpjs-kesehatan-2026-masih-aktif-atau-tidak.webp" medium="image"/>
     </item>
     <item>
       <title>Tata Cara Registrasi Peserta BPJS Kesehatan Kategori Pekerja Bukan Penerima Upah (PBPU) 2026</title>
@@ -304,7 +304,8 @@
       <pubDate>Thu, 09 Apr 2026 17:53:10 +0000</pubDate>
       <category>BPJS Kesehatan</category>
       <source>id.medanaktual.com</source>
-      <ns1:content url="https://id.medanaktual.com/wp-content/uploads/2026/04/tata-cara-registrasi-peserta-bpjs-kesehatan-kategori-pekerja-bukan-penerima-upah-pbpu-2026-420x210.webp" medium="image"/>
+      <description>Memasuki tahun 2026, BPJS Kesehatan semakin memperkuat sistem layanan digital untuk mempermudah masyarakat dalam memperoleh jaminan kesehatan. Pendaftaran kategori mandiri,...</description>
+      <ns1:content url="https://id.medanaktual.com/wp-content/uploads/2026/04/tata-cara-registrasi-peserta-bpjs-kesehatan-kategori-pekerja-bukan-penerima-upah-pbpu-2026.webp" medium="image"/>
     </item>
     <item>
       <title>Cara Cek Skrining BPJS Kesehatan Secara Online Dengan Mudah</title>
@@ -313,7 +314,8 @@
       <pubDate>Thu, 09 Apr 2026 17:34:16 +0000</pubDate>
       <category>BPJS Kesehatan</category>
       <source>id.medanaktual.com</source>
-      <ns1:content url="https://id.medanaktual.com/wp-content/uploads/2026/04/cara-cek-skrining-bpjs-kesehatan-secara-online-dengan-mudah-420x210.webp" medium="image"/>
+      <description>Badan Penyelenggara Jaminan Sosial (BPJS) Kesehatan menghadirkan fitur skrining kesehatan bagi masyarakat yang mengalami gejala penyakit, dapat diakses secara gratis...</description>
+      <ns1:content url="https://id.medanaktual.com/wp-content/uploads/2026/04/cara-cek-skrining-bpjs-kesehatan-secara-online-dengan-mudah.webp" medium="image"/>
     </item>
     <item>
       <title>Panduan Lengkap Syarat Kemitraan BPJS Kesehatan untuk Fasilitas Kesehatan Swasta</title>
@@ -322,7 +324,8 @@
       <pubDate>Thu, 09 Apr 2026 17:25:32 +0000</pubDate>
       <category>BPJS Kesehatan</category>
       <source>id.medanaktual.com</source>
-      <ns1:content url="https://id.medanaktual.com/wp-content/uploads/2026/04/panduan-lengkap-syarat-kemitraan-bpjs-kesehatan-untuk-fasilitas-kesehatan-swasta-420x210.webp" medium="image"/>
+      <description>Kerja sama antara BPJS Kesehatan dengan Fasilitas Kesehatan (Faskes) swasta merupakan pilar penting dalam memperluas akses layanan Jaminan Kesehatan Nasional...</description>
+      <ns1:content url="https://id.medanaktual.com/wp-content/uploads/2026/04/panduan-lengkap-syarat-kemitraan-bpjs-kesehatan-untuk-fasilitas-kesehatan-swasta.webp" medium="image"/>
     </item>
     <item>
       <title>Panduan Lengkap Daftar BPJS Kesehatan Bayi dan Ketentuan PBI yang Perlu Diketahui</title>
@@ -331,43 +334,18 @@
       <pubDate>Thu, 09 Apr 2026 16:59:41 +0000</pubDate>
       <category>BPJS Kesehatan</category>
       <source>id.medanaktual.com</source>
-      <ns1:content url="https://id.medanaktual.com/wp-content/uploads/2026/04/panduan-lengkap-daftar-bpjs-kesehatan-bayi-dan-ketentuan-pbi-yang-perlu-diketahui-420x210.webp" medium="image"/>
+      <description>Informasi mengenai status kepesertaan BPJS Kesehatan bagi bayi baru lahir sering kali menjadi subjek kesalahpahaman di masyarakat. Banyak orang tua...</description>
+      <ns1:content url="https://id.medanaktual.com/wp-content/uploads/2026/04/panduan-lengkap-daftar-bpjs-kesehatan-bayi-dan-ketentuan-pbi-yang-perlu-diketahui.webp" medium="image"/>
     </item>
     <item>
-      <title>Jumat 3 April 2026 Apakah Tanggal Merah? Simak Infonya</title>
-      <link>https://id.medanaktual.com/jumat-3-april-2026-apakah-tanggal-merah-simak-infonya/</link>
-      <guid>https://id.medanaktual.com/jumat-3-april-2026-apakah-tanggal-merah-simak-infonya/</guid>
-      <pubDate>Thu, 02 Apr 2026 13:53:26 +0000</pubDate>
+      <title>Cara Menjadi Mitra BPJS Kesehatan: Ini Syarat, Tahapan, dan Proses Seleksinya</title>
+      <link>https://id.medanaktual.com/cara-menjadi-mitra-bpjs-kesehatan-ini-syarat-tahapan-dan-proses-seleksinya/</link>
+      <guid>https://id.medanaktual.com/cara-menjadi-mitra-bpjs-kesehatan-ini-syarat-tahapan-dan-proses-seleksinya/</guid>
+      <pubDate>Thu, 09 Apr 2026 16:37:49 +0000</pubDate>
       <category>BPJS Kesehatan</category>
       <source>id.medanaktual.com</source>
-      <ns1:content url="https://id.medanaktual.com/wp-content/uploads/2026/04/Gulf-Blue-Simple-Professional-How-To-Improve-Your-SEO-Rankings-Blog-Banner-36-420x236.png" medium="image"/>
-    </item>
-    <item>
-      <title>Cara Cek NISN Online dengan Cepat dan Mudah 2026</title>
-      <link>https://id.medanaktual.com/cara-cek-nisn-online-dengan-cepat-dan-mudah-2026/</link>
-      <guid>https://id.medanaktual.com/cara-cek-nisn-online-dengan-cepat-dan-mudah-2026/</guid>
-      <pubDate>Mon, 23 Mar 2026 15:03:14 +0000</pubDate>
-      <category>BPJS Kesehatan</category>
-      <source>id.medanaktual.com</source>
-      <ns1:content url="https://id.medanaktual.com/wp-content/uploads/2026/03/medanaktualpicture00005-12_11zon-2-150x150.jpg" medium="image"/>
-    </item>
-    <item>
-      <title>Kumpulan Kisi-kisi Soal TKA SMP 2026, Tips dan Trik Untuk Hasil Serta Nilai Yang Sempurna</title>
-      <link>https://id.medanaktual.com/kumpulan-kisi-kisi-soal-tka-smp-2026-tips-dan-trik-untuk-hasil-serta-nilai-yang-sempurna/</link>
-      <guid>https://id.medanaktual.com/kumpulan-kisi-kisi-soal-tka-smp-2026-tips-dan-trik-untuk-hasil-serta-nilai-yang-sempurna/</guid>
-      <pubDate>Sat, 04 Apr 2026 09:01:20 +0000</pubDate>
-      <category>BPJS Kesehatan</category>
-      <source>id.medanaktual.com</source>
-      <ns1:content url="https://id.medanaktual.com/wp-content/uploads/2026/04/Screenshot-2026-04-03-200906-150x150.png" medium="image"/>
-    </item>
-    <item>
-      <title>Rekomendasi 12 Aplikasi Penghasil Saldo DANA Gratis yang Wajib Kamu Coba</title>
-      <link>https://id.medanaktual.com/rekomendasi-12-aplikasi-penghasil-saldo-dana-gratis-yang-wajib-kamu-coba/</link>
-      <guid>https://id.medanaktual.com/rekomendasi-12-aplikasi-penghasil-saldo-dana-gratis-yang-wajib-kamu-coba/</guid>
-      <pubDate>Tue, 07 Apr 2026 01:41:34 +0000</pubDate>
-      <category>BPJS Kesehatan</category>
-      <source>id.medanaktual.com</source>
-      <ns1:content url="https://id.medanaktual.com/wp-content/uploads/2026/04/images-2026-04-07T013724.869-150x150.jpg" medium="image"/>
+      <description>Menjadi mitra BPJS Kesehatan bukanlah proses yang singkat atau sekadar pendaftaran administratif belaka. Dalam upaya menjaga kualitas layanan bagi peserta...</description>
+      <ns1:content url="https://id.medanaktual.com/wp-content/uploads/2026/04/cara-menjadi-mitra-bpjs-kesehatan-ini-syarat-tahapan-dan-proses-seleksinya.webp" medium="image"/>
     </item>
     <item>
       <title>Rekrutmen BPJS Ketenagakerjaan 2026 Resmi Dibuka, Cek Syarat dan Cara Daftarnya</title>
@@ -376,7 +354,6 @@
       <pubDate>Sun, 12 Apr 2026 07:10:17 +0000</pubDate>
       <category>BPJS Ketenagakerjaan</category>
       <source>id.medanaktual.com</source>
-      <ns1:content url="https://id.medanaktual.com/wp-content/uploads/2026/04/rekrutmen-bpjs-ketenagakerjaan-2026-resmi-dibuka-cek-syarat-dan-cara-daftarnya-420x210.webp" medium="image"/>
     </item>
     <item>
       <title>Panduan Lengkap Lapak Asik BPJS Ketenagakerjaan: Mulai dari Registrasi hingga Cara Pakai</title>
@@ -385,7 +362,8 @@
       <pubDate>Thu, 09 Apr 2026 12:15:19 +0000</pubDate>
       <category>BPJS Ketenagakerjaan</category>
       <source>id.medanaktual.com</source>
-      <ns1:content url="https://id.medanaktual.com/wp-content/uploads/2026/04/Capture-20-420x262.jpg" medium="image"/>
+      <description>BPJS Ketenagakerjaan terus meningkatkan kualitas layanan kepada peserta melalui inovasi digital. Salah satu layanan yang kini paling banyak digunakan adalah...</description>
+      <ns1:content url="https://id.medanaktual.com/wp-content/uploads/2026/04/Capture-20.jpg" medium="image"/>
     </item>
     <item>
       <title>Cek Saldo JHT BPJS Ketenagakerjaan Kini Lebih Gampang, Ini Panduannya</title>
@@ -394,7 +372,8 @@
       <pubDate>Thu, 09 Apr 2026 11:46:31 +0000</pubDate>
       <category>BPJS Ketenagakerjaan</category>
       <source>id.medanaktual.com</source>
-      <ns1:content url="https://id.medanaktual.com/wp-content/uploads/2026/04/Capture-20-420x262.jpg" medium="image"/>
+      <description>Banyak pekerja di Indonesia terdaftar sebagai peserta BPJS Ketenagakerjaan, namun sebagian besar masih belum memahami cara mengecek saldo Jaminan Hari...</description>
+      <ns1:content url="https://id.medanaktual.com/wp-content/uploads/2026/04/Capture-20.jpg" medium="image"/>
     </item>
     <item>
       <title>BPJS Ketenagakerjaan Gandeng BAZNAS, Iuran Pekerja Rentan Dibayarkan dari Dana Zakat</title>
@@ -403,7 +382,8 @@
       <pubDate>Wed, 08 Apr 2026 17:20:51 +0000</pubDate>
       <category>BPJS Ketenagakerjaan</category>
       <source>id.medanaktual.com</source>
-      <ns1:content url="https://id.medanaktual.com/wp-content/uploads/2026/04/bpjs-ketenagakerjaan-gandeng-baznas-iuran-pekerja-rentan-dibayarkan-dari-dana-zakat-420x210.webp" medium="image"/>
+      <description>BPJS Ketenagakerjaan atau BPJS Ketenagakerjaan terus memperluas perlindungan jaminan sosial bagi masyarakat, khususnya pekerja informal yang tergolong miskin dan rentan....</description>
+      <ns1:content url="https://id.medanaktual.com/wp-content/uploads/2026/04/bpjs-ketenagakerjaan-gandeng-baznas-iuran-pekerja-rentan-dibayarkan-dari-dana-zakat.webp" medium="image"/>
     </item>
     <item>
       <title>Masih Bingung? Ini Perbedaan Jelas BPJS Kesehatan Dan BPJS Ketenagakerjaan</title>
@@ -412,7 +392,18 @@
       <pubDate>Wed, 08 Apr 2026 17:14:02 +0000</pubDate>
       <category>BPJS Ketenagakerjaan</category>
       <source>id.medanaktual.com</source>
-      <ns1:content url="https://id.medanaktual.com/wp-content/uploads/2026/04/bpjs-kesehatan-dan-bpjs-ketenagakerjaan-420x210.webp" medium="image"/>
+      <description>Sebagai upaya memberikan perlindungan kesehatan bagi masyarakat, pemerintah telah menghadirkan program BPJS (Badan Penyelenggara Jaminan Sosial). Program ini terbagi menjadi...</description>
+      <ns1:content url="https://id.medanaktual.com/wp-content/uploads/2026/04/bpjs-kesehatan-dan-bpjs-ketenagakerjaan.webp" medium="image"/>
+    </item>
+    <item>
+      <title>Panduan Resmi: Layanan dan Manfaat BPJS Ketenagakerjaan Saat Iuran Didiskon</title>
+      <link>https://id.medanaktual.com/panduan-resmi-layanan-dan-manfaat-bpjs-ketenagakerjaan-saat-iuran-didiskon/</link>
+      <guid>https://id.medanaktual.com/panduan-resmi-layanan-dan-manfaat-bpjs-ketenagakerjaan-saat-iuran-didiskon/</guid>
+      <pubDate>Wed, 08 Apr 2026 16:17:11 +0000</pubDate>
+      <category>BPJS Ketenagakerjaan</category>
+      <source>id.medanaktual.com</source>
+      <description>BPJS Ketenagakerjaan (BPJamsostek) memberikan jaminan kuat kepada seluruh peserta bahwa kualitas pelayanan dan perlindungan jaminan sosial tidak akan mengalami penurunan,...</description>
+      <ns1:content url="https://id.medanaktual.com/wp-content/uploads/2026/04/panduan-resmi-layanan-dan-manfaat-bpjs-ketenagakerjaan-saat-iuran-didiskon.webp" medium="image"/>
     </item>
     <item>
       <title>Formasi Favorit CPNS Kemenag 2024, Refrensi Sebelum Ikut Seleksi CPNS 2026</title>
@@ -421,7 +412,6 @@
       <pubDate>Tue, 14 Apr 2026 08:48:38 +0000</pubDate>
       <category>CPNS</category>
       <source>id.medanaktual.com</source>
-      <ns1:content url="https://id.medanaktual.com/wp-content/uploads/2026/04/Screenshot-2026-04-14-080312-420x268.png" medium="image"/>
     </item>
     <item>
       <title>Formasi Yang Diminati CPNS 2024, Refrensi Terbaik Untuk CPNS 2026</title>
@@ -430,7 +420,8 @@
       <pubDate>Tue, 14 Apr 2026 08:03:10 +0000</pubDate>
       <category>CPNS</category>
       <source>id.medanaktual.com</source>
-      <ns1:content url="https://id.medanaktual.com/wp-content/uploads/2026/04/Screenshot-2026-04-14-065914-420x296.png" medium="image"/>
+      <description>Sejumlah instansi pemerintah menjadi tujuan favorit pelamar CPNS 2024. Instansi-instansi ini tidak hanya membuka formasi besar, tetapi juga memiliki daya...</description>
+      <ns1:content url="https://id.medanaktual.com/wp-content/uploads/2026/04/Screenshot-2026-04-14-065914.png" medium="image"/>
     </item>
     <item>
       <title>Seleksi CASN 2026 Buka 20% Formasi PPPK, Adakah Peluang Untuk PPPK Paruh Waktu?</title>
@@ -439,7 +430,8 @@
       <pubDate>Mon, 13 Apr 2026 07:07:18 +0000</pubDate>
       <category>CPNS</category>
       <source>id.medanaktual.com</source>
-      <ns1:content url="https://id.medanaktual.com/wp-content/uploads/2026/04/Screenshot-2026-04-13-054130-420x276.png" medium="image"/>
+      <description>Seleksi Calon Aparatur Sipil Negara (CASN) 2026 mulai menjadi perhatian publik. Informasi terbaru menunjukkan adanya perubahan komposisi formasi, di mana...</description>
+      <ns1:content url="https://id.medanaktual.com/wp-content/uploads/2026/04/Screenshot-2026-04-13-054130.png" medium="image"/>
     </item>
     <item>
       <title>Persiapan CPNS 2026, Cek Daftar Dokumen Yang Harus Disediakan</title>
@@ -448,7 +440,8 @@
       <pubDate>Sun, 12 Apr 2026 15:01:17 +0000</pubDate>
       <category>CPNS</category>
       <source>id.medanaktual.com</source>
-      <ns1:content url="https://id.medanaktual.com/wp-content/uploads/2026/04/Screenshot-2026-04-12-131042-420x279.png" medium="image"/>
+      <description>Tahap awal seleksi CPNS adalah verifikasi administrasi. Pada tahap ini, panitia akan memeriksa seluruh dokumen yang diunggah oleh pelamar. Jika...</description>
+      <ns1:content url="https://id.medanaktual.com/wp-content/uploads/2026/04/Screenshot-2026-04-12-131042.png" medium="image"/>
     </item>
     <item>
       <title>Formasi CPNS 2026: Cek Informasi Terbaru dan Lengkapnya</title>
@@ -457,7 +450,8 @@
       <pubDate>Sun, 12 Apr 2026 06:00:05 +0000</pubDate>
       <category>CPNS</category>
       <source>id.medanaktual.com</source>
-      <ns1:content url="https://id.medanaktual.com/wp-content/uploads/2026/04/formasi-cpns-2026-cek-informasi-terbaru-dan-lengkapnya-1-420x210.webp" medium="image"/>
+      <description>Informasi terkait formasi Calon Pegawai Negeri Sipil (CPNS) 2026 saat ini menjadi salah satu topik yang banyak diperbincangkan. Hal ini...</description>
+      <ns1:content url="https://id.medanaktual.com/wp-content/uploads/2026/04/formasi-cpns-2026-cek-informasi-terbaru-dan-lengkapnya-1.webp" medium="image"/>
     </item>
     <item>
       <title>Update CPNS 2026: Perkiraan Jadwal, Jumlah Formasi, dan Syarat Pendaftaran</title>
@@ -466,7 +460,18 @@
       <pubDate>Sat, 11 Apr 2026 21:50:54 +0000</pubDate>
       <category>CPNS</category>
       <source>id.medanaktual.com</source>
-      <ns1:content url="https://id.medanaktual.com/wp-content/uploads/2026/04/update-cpns-2026-perkiraan-jadwal-jumlah-formasi-dan-syarat-pendaftaran-420x210.webp" medium="image"/>
+      <description>Pendaftaran CPNS 2026 jadi salah satu hal yang paling ditunggu, terutama buat yang ingin berkarier sebagai Aparatur Sipil Negara (ASN)....</description>
+      <ns1:content url="https://id.medanaktual.com/wp-content/uploads/2026/04/update-cpns-2026-perkiraan-jadwal-jumlah-formasi-dan-syarat-pendaftaran.webp" medium="image"/>
+    </item>
+    <item>
+      <title>CPNS 2026 Akan Dibuka, Ini Formasi yang Paling Banyak Dicari</title>
+      <link>https://id.medanaktual.com/cpns-2026-akan-dibuka-ini-formasi-yang-paling-banyak-dicari/</link>
+      <guid>https://id.medanaktual.com/cpns-2026-akan-dibuka-ini-formasi-yang-paling-banyak-dicari/</guid>
+      <pubDate>Sat, 11 Apr 2026 12:32:16 +0000</pubDate>
+      <category>CPNS</category>
+      <source>id.medanaktual.com</source>
+      <description>Pemerintah kembali memberi sinyal kuat terkait pembukaan seleksi Calon Pegawai Negeri Sipil (CPNS) tahun 2026. Meski jadwal resmi belum diumumkan...</description>
+      <ns1:content url="https://id.medanaktual.com/wp-content/uploads/2026/04/Screenshot-2026-04-10-203058.png" medium="image"/>
     </item>
     <item>
       <title>Masa Kerja PPPK Sampai Kapan? Cek Faktanya</title>
@@ -475,7 +480,6 @@
       <pubDate>Thu, 09 Apr 2026 19:18:49 +0000</pubDate>
       <category>PPPK</category>
       <source>id.medanaktual.com</source>
-      <ns1:content url="https://id.medanaktual.com/wp-content/uploads/2026/04/Screenshot-2026-04-09-175906.png" medium="image"/>
     </item>
     <item>
       <title>Aturan Terbaru ASN dan PPPK 2026: WFO 4 Hari, WFH Setiap Jumat</title>
@@ -484,7 +488,8 @@
       <pubDate>Thu, 09 Apr 2026 19:00:10 +0000</pubDate>
       <category>PPPK</category>
       <source>id.medanaktual.com</source>
-      <ns1:content url="https://id.medanaktual.com/wp-content/uploads/2026/04/aturan-terbaru-asn-dan-pppk-2026-wfo-4-hari-wfh-setiap-jumat-420x210.webp" medium="image"/>
+      <description>Pemerintah resmi memberlakukan kebijakan Work From Home (WFH) bagi Aparatur Sipil Negara (ASN), yang mencakup Pegawai Negeri Sipil (PNS) dan...</description>
+      <ns1:content url="https://id.medanaktual.com/wp-content/uploads/2026/04/aturan-terbaru-asn-dan-pppk-2026-wfo-4-hari-wfh-setiap-jumat.webp" medium="image"/>
     </item>
     <item>
       <title>Gaji PPPK Ke-13 2026: Apakah Berlaku Untuk PPPK Penuh Dan Paruh Waktu?</title>
@@ -493,7 +498,8 @@
       <pubDate>Thu, 09 Apr 2026 18:11:36 +0000</pubDate>
       <category>PPPK</category>
       <source>id.medanaktual.com</source>
-      <ns1:content url="https://id.medanaktual.com/wp-content/uploads/2026/04/gaji-pppk-ke-13-2026-apakah-berlaku-untuk-pppk-penuh-dan-paruh-waktu-420x210.webp" medium="image"/>
+      <description>Menjelang pertengahan tahun 2026, pembahasan mengenai gaji ke-13 kembali menjadi perhatian, terutama bagi aparatur sipil negara (ASN) dengan status Pegawai...</description>
+      <ns1:content url="https://id.medanaktual.com/wp-content/uploads/2026/04/gaji-pppk-ke-13-2026-apakah-berlaku-untuk-pppk-penuh-dan-paruh-waktu.webp" medium="image"/>
     </item>
     <item>
       <title>Cek Perbedaan Gaji PPPK Penuh dan PPPK Paruh Waktu 2026, Ini Rincian Resmi Terbarunya</title>
@@ -502,7 +508,8 @@
       <pubDate>Thu, 09 Apr 2026 16:10:11 +0000</pubDate>
       <category>PPPK</category>
       <source>id.medanaktual.com</source>
-      <ns1:content url="https://id.medanaktual.com/wp-content/uploads/2026/04/Cek-Perbedaan-Gaji-PPPK-Penuh-dan-PPPK-Paruh-Waktu-2026-Ini-Rincian-Resmi-Terbarunya-420x263.jpg" medium="image"/>
+      <description>Gaji PPPK menarik perhatian masyarakat, terutama adanya dua skema kerja yaitu PPPK penuh waktu dan paruh waktu. Kebijakan ini mengatur...</description>
+      <ns1:content url="https://id.medanaktual.com/wp-content/uploads/2026/04/Cek-Perbedaan-Gaji-PPPK-Penuh-dan-PPPK-Paruh-Waktu-2026-Ini-Rincian-Resmi-Terbarunya-scaled.jpg" medium="image"/>
     </item>
     <item>
       <title>Prediksi Jadwal Pencairan Gaji ke-13 PNS, Cek Disini!</title>
@@ -511,7 +518,8 @@
       <pubDate>Thu, 09 Apr 2026 15:19:48 +0000</pubDate>
       <category>PPPK</category>
       <source>id.medanaktual.com</source>
-      <ns1:content url="https://id.medanaktual.com/wp-content/uploads/2026/04/Gulf-Blue-Simple-Professional-How-To-Improve-Your-SEO-Rankings-Blog-Banner-11-420x236.png" medium="image"/>
+      <description>Prediksi jadwal pencairan gaji ke-13 PNS kembali menjadi topik yang banyak diperbincangkan oleh para pegawai negeri sipil (PNS) menjelang pertengahan...</description>
+      <ns1:content url="https://id.medanaktual.com/wp-content/uploads/2026/04/Gulf-Blue-Simple-Professional-How-To-Improve-Your-SEO-Rankings-Blog-Banner-11.png" medium="image"/>
     </item>
     <item>
       <title>Gaji ke-13 Cair Juni 2026: Ini Besaran Untuk PNS, PPPK, TNI, Polri, Dan Pensiunan</title>
@@ -520,7 +528,18 @@
       <pubDate>Thu, 09 Apr 2026 13:18:57 +0000</pubDate>
       <category>PPPK</category>
       <source>id.medanaktual.com</source>
-      <ns1:content url="https://id.medanaktual.com/wp-content/uploads/2026/04/gaji-ke-13-cair-juni-2026-ini-besaran-untuk-pns-pppk-tni-polri-dan-pensiunan-420x210.webp" medium="image"/>
+      <description>Pemerintah akan kembali menyalurkan gaji ke-13 bagi PNS, PPPK, TNI, Polri, serta para pensiunan pada Juni 2026. Pencairan ini dilakukan...</description>
+      <ns1:content url="https://id.medanaktual.com/wp-content/uploads/2026/04/gaji-ke-13-cair-juni-2026-ini-besaran-untuk-pns-pppk-tni-polri-dan-pensiunan.webp" medium="image"/>
+    </item>
+    <item>
+      <title>PPPK Umum atau Paruh Waktu? Simak Perbedannya di Sini</title>
+      <link>https://id.medanaktual.com/pppk-umum-atau-paruh-waktu-simak-perbedannya-di-sini/</link>
+      <guid>https://id.medanaktual.com/pppk-umum-atau-paruh-waktu-simak-perbedannya-di-sini/</guid>
+      <pubDate>Thu, 09 Apr 2026 10:15:02 +0000</pubDate>
+      <category>PPPK</category>
+      <source>id.medanaktual.com</source>
+      <description>Pemerintah terus melakukan penataan tenaga Aparatur Sipil Negara (ASN), termasuk melalui skema Pegawai Pemerintah dengan Perjanjian Kerja (PPPK). Pada 2026,...</description>
+      <ns1:content url="https://id.medanaktual.com/wp-content/uploads/2026/04/Screenshot-2026-04-09-063548.png" medium="image"/>
     </item>
     <item>
       <title>Begini Cara Menghasilkan Saldo DANA Lewat Aplikasi, Simak Berikut Ini!</title>
@@ -529,7 +548,6 @@
       <pubDate>Tue, 14 Apr 2026 21:46:12 +0000</pubDate>
       <category>Ekonomi</category>
       <source>id.medanaktual.com</source>
-      <ns1:content url="https://id.medanaktual.com/wp-content/uploads/2026/04/IMG-20260414-WA0027-420x280.jpg" medium="image"/>
     </item>
     <item>
       <title>Emas Antam Hari Ini 14 April Naik Rp45.000, Simak Harga Terbarunya</title>
@@ -538,7 +556,8 @@
       <pubDate>Tue, 14 Apr 2026 14:37:08 +0000</pubDate>
       <category>Ekonomi</category>
       <source>id.medanaktual.com</source>
-      <ns1:content url="https://id.medanaktual.com/wp-content/uploads/2026/04/emas-antam-hari-ini-14-april-naik-rp45000-simak-harga-terbarunya-420x210.webp" medium="image"/>
+      <description>Harga emas batangan produksi PT Aneka Tambang Tbk atau Antam kembali mengalami kenaikan pada Selasa, 14 April 2026. Berdasarkan data...</description>
+      <ns1:content url="https://id.medanaktual.com/wp-content/uploads/2026/04/emas-antam-hari-ini-14-april-naik-rp45000-simak-harga-terbarunya.webp" medium="image"/>
     </item>
     <item>
       <title>Pergerakan Harga Emas Hari Ini, Antam hingga Galeri24 Bertahan di Rp 2,8 Jutaan</title>
@@ -547,7 +566,8 @@
       <pubDate>Tue, 14 Apr 2026 13:20:56 +0000</pubDate>
       <category>Ekonomi</category>
       <source>id.medanaktual.com</source>
-      <ns1:content url="https://id.medanaktual.com/wp-content/uploads/2026/04/pergerakan-harga-emas-hari-ini-antam-hingga-galeri24-bertahan-di-rp-28-jutaan-420x210.webp" medium="image"/>
+      <description>Harga emas batangan dari berbagai produsen kembali mengalami pembaruan pada Selasa (14 April 2026). Informasi ini penting bagi masyarakat, baik...</description>
+      <ns1:content url="https://id.medanaktual.com/wp-content/uploads/2026/04/pergerakan-harga-emas-hari-ini-antam-hingga-galeri24-bertahan-di-rp-28-jutaan.webp" medium="image"/>
     </item>
     <item>
       <title>Harga Emas Perhiasan 14 April 2026 Turun, Kini Rp2,427 Juta per Gram</title>
@@ -556,7 +576,8 @@
       <pubDate>Tue, 14 Apr 2026 12:51:13 +0000</pubDate>
       <category>Ekonomi</category>
       <source>id.medanaktual.com</source>
-      <ns1:content url="https://id.medanaktual.com/wp-content/uploads/2026/04/harga-emas-perhiasan-14-april-2026-turun-kini-rp2427-juta-per-gram-420x210.webp" medium="image"/>
+      <description>Harga emas perhiasan pada hari ini, Selasa 14 April 2026, mengalami pergerakan yang cukup signifikan. Berdasarkan data terbaru, harga emas...</description>
+      <ns1:content url="https://id.medanaktual.com/wp-content/uploads/2026/04/harga-emas-perhiasan-14-april-2026-turun-kini-rp2427-juta-per-gram.webp" medium="image"/>
     </item>
     <item>
       <title>Harga Emas Hari Ini Selasa 14 April 2026: Antam Menguat, Pegadaian Stabil</title>
@@ -565,7 +586,8 @@
       <pubDate>Tue, 14 Apr 2026 12:12:11 +0000</pubDate>
       <category>Ekonomi</category>
       <source>id.medanaktual.com</source>
-      <ns1:content url="https://id.medanaktual.com/wp-content/uploads/2026/04/harga-emas-hari-ini-selasa-14-april-2026-antam-menguat-pegadaian-stabil-420x210.webp" medium="image"/>
+      <description>Harga emas batangan produksi PT Aneka Tambang Tbk (Antam) kembali menunjukkan tren penguatan pada perdagangan Selasa, 14 April 2026. Berdasarkan...</description>
+      <ns1:content url="https://id.medanaktual.com/wp-content/uploads/2026/04/harga-emas-hari-ini-selasa-14-april-2026-antam-menguat-pegadaian-stabil.webp" medium="image"/>
     </item>
     <item>
       <title>Cara Klaim DANA Kaget Hari Ini 14 April 2026, Serbu Saldo Gratis Rp165.000 Sebelum Kehabisan</title>
@@ -574,7 +596,18 @@
       <pubDate>Tue, 14 Apr 2026 11:58:41 +0000</pubDate>
       <category>Ekonomi</category>
       <source>id.medanaktual.com</source>
-      <ns1:content url="https://id.medanaktual.com/wp-content/uploads/2026/04/cara-klaim-dana-kaget-hari-ini-14-april-2026-serbu-saldo-gratis-rp165000-sebelum-kehabisan-2-420x210.webp" medium="image"/>
+      <description>DANA Kaget kembali menyita perhatian publik! Pada Selasa, 14 April 2026, kabar tentang saldo gratis Rp165.000 mendadak ramai diperbincangkan dan...</description>
+      <ns1:content url="https://id.medanaktual.com/wp-content/uploads/2026/04/cara-klaim-dana-kaget-hari-ini-14-april-2026-serbu-saldo-gratis-rp165000-sebelum-kehabisan-2.webp" medium="image"/>
+    </item>
+    <item>
+      <title>Daftar Harga BBM Pertamina 14 April 2026: Daftar Lengkap Dan Perbandingan Terbaru</title>
+      <link>https://id.medanaktual.com/daftar-harga-bbm-pertamina-14-april-2026-daftar-lengkap-dan-perbandingan-terbaru/</link>
+      <guid>https://id.medanaktual.com/daftar-harga-bbm-pertamina-14-april-2026-daftar-lengkap-dan-perbandingan-terbaru/</guid>
+      <pubDate>Tue, 14 Apr 2026 11:09:05 +0000</pubDate>
+      <category>Ekonomi</category>
+      <source>id.medanaktual.com</source>
+      <description>Masyarakat diimbau untuk terus memantau perkembangan harga bahan bakar minyak (BBM) pada 14 April 2026. Pasca penyesuaian yang dilakukan pada...</description>
+      <ns1:content url="https://id.medanaktual.com/wp-content/uploads/2026/04/daftar-harga-bbm-pertamina-14-april-2026-daftar-lengkap-dan-perbandingan-terbaru.webp" medium="image"/>
     </item>
     <item>
       <title>UTBK SNBT 2026: Cara Unduh dan Cetak Kartu Peserta Lengkap dan Terbaru</title>
@@ -583,7 +616,6 @@
       <pubDate>Tue, 14 Apr 2026 17:32:30 +0000</pubDate>
       <category>Pendidikan</category>
       <source>id.medanaktual.com</source>
-      <ns1:content url="https://id.medanaktual.com/wp-content/uploads/2026/04/utbk-snbt-2026-cara-unduh-dan-cetak-kartu-peserta-lengkap-dan-terbaru-420x210.webp" medium="image"/>
     </item>
     <item>
       <title>Rekomendasi Fakultas Ekonomi Unggulan di Medan Sumut</title>
@@ -592,7 +624,8 @@
       <pubDate>Tue, 14 Apr 2026 16:00:36 +0000</pubDate>
       <category>Pendidikan</category>
       <source>id.medanaktual.com</source>
-      <ns1:content url="https://id.medanaktual.com/wp-content/uploads/2026/04/Screenshot-2026-04-14-073541-420x414.png" medium="image"/>
+      <description>Kota Medan sebagai ibu kota Provinsi Sumatera Utara dikenal sebagai pusat perdagangan, jasa, dan industri di wilayah barat Indonesia. Dinamika...</description>
+      <ns1:content url="https://id.medanaktual.com/wp-content/uploads/2026/04/Screenshot-2026-04-14-073541.png" medium="image"/>
     </item>
     <item>
       <title>Jangan Telat! Batas Akhir Download Kartu UTBK SNBT 2026 Lengkap dengan Cara Cetak</title>
@@ -601,7 +634,8 @@
       <pubDate>Tue, 14 Apr 2026 14:33:14 +0000</pubDate>
       <category>Pendidikan</category>
       <source>id.medanaktual.com</source>
-      <ns1:content url="https://id.medanaktual.com/wp-content/uploads/2026/04/jangan-telat-batas-akhir-download-kartu-utbk-snbt-2026-lengkap-dengan-cara-cetak-420x210.webp" medium="image"/>
+      <description>Pelaksanaan Ujian Tulis Berbasis Komputer (UTBK) sebagai bagian dari Seleksi Nasional Berdasarkan Tes (SNBT) 2026 semakin dekat. Para peserta diimbau...</description>
+      <ns1:content url="https://id.medanaktual.com/wp-content/uploads/2026/04/jangan-telat-batas-akhir-download-kartu-utbk-snbt-2026-lengkap-dengan-cara-cetak.webp" medium="image"/>
     </item>
     <item>
       <title>Beasiswa D3 Unhan 2026: Syarat, Jadwal, dan Cara Pendaftaran Terbaru</title>
@@ -610,7 +644,8 @@
       <pubDate>Tue, 14 Apr 2026 13:10:52 +0000</pubDate>
       <category>Pendidikan</category>
       <source>id.medanaktual.com</source>
-      <ns1:content url="https://id.medanaktual.com/wp-content/uploads/2026/04/johoibd-420x221.jpg" medium="image"/>
+      <description>Beasiswa D3 Unhan 2026 menjadi salah satu program kuliah gratis 100% di Indonesia yang paling banyak diminati oleh lulusan SMA...</description>
+      <ns1:content url="https://id.medanaktual.com/wp-content/uploads/2026/04/johoibd.jpg" medium="image"/>
     </item>
     <item>
       <title>Rekomendasi Pondok Pesantren Di Medan Dengan Pendidikan Terbaik Untuk Anak</title>
@@ -619,7 +654,8 @@
       <pubDate>Tue, 14 Apr 2026 12:24:57 +0000</pubDate>
       <category>Pendidikan</category>
       <source>id.medanaktual.com</source>
-      <ns1:content url="https://id.medanaktual.com/wp-content/uploads/2026/04/rekomendasi-pondok-pesantren-di-medan-dengan-pendidikan-terbaik-untuk-anak-420x210.webp" medium="image"/>
+      <description>Kota Medan memiliki sejumlah pesantren dengan kualitas pendidikan yang sangat baik. Tak sedikit di antaranya yang sudah dikenal luas hingga...</description>
+      <ns1:content url="https://id.medanaktual.com/wp-content/uploads/2026/04/rekomendasi-pondok-pesantren-di-medan-dengan-pendidikan-terbaik-untuk-anak.webp" medium="image"/>
     </item>
     <item>
       <title>Rukyat dan Aspek Syariat dalam Penentuan Awal Bulan</title>
@@ -628,7 +664,18 @@
       <pubDate>Tue, 14 Apr 2026 11:51:04 +0000</pubDate>
       <category>Pendidikan</category>
       <source>id.medanaktual.com</source>
+      <description>Dalam tradisi Islam, penentuan awal bulan Hijriah memiliki dimensi syariat yang kuat. Rukyat, yaitu aktivitas mengamati hilal secara langsung, menjadi...</description>
       <ns1:content url="https://id.medanaktual.com/wp-content/uploads/2026/04/images-2026-04-13T165216.207.jpg" medium="image"/>
+    </item>
+    <item>
+      <title>Pengaruh Hilal dalam Penentuan Waktu Ibadah Haji</title>
+      <link>https://id.medanaktual.com/pengaruh-hilal-dalam-penentuan-waktu-ibadah-haji/</link>
+      <guid>https://id.medanaktual.com/pengaruh-hilal-dalam-penentuan-waktu-ibadah-haji/</guid>
+      <pubDate>Tue, 14 Apr 2026 11:46:19 +0000</pubDate>
+      <category>Pendidikan</category>
+      <source>id.medanaktual.com</source>
+      <description>Ibadah haji merupakan salah satu rukun Islam yang memiliki dimensi waktu dan tempat yang sangat ketat. Tidak seperti ibadah lain...</description>
+      <ns1:content url="https://id.medanaktual.com/wp-content/uploads/2026/04/030619100_1739592393-1739589481104_arti-hilal.jpg" medium="image"/>
     </item>
     <item>
       <title>IHSG Makin Gagah, Meroket ke Level 7.675 di Sesi Penutupan</title>
@@ -901,6 +948,42 @@
       <ns1:content url="https://cms.disway.id/uploads/large/0365cfff88c03b6918a415033d3a0bea.jpg" medium="image"/>
     </item>
     <item>
+      <title>Tersandung Dugaan Pengeroyokan, Anggota DPRD Kabupaten Bekasi Belum Ditahan dan Masih Bekerja</title>
+      <link>https://disway.id/read/941112/tersandung-dugaan-pengeroyokan-anggota-dprd-kabupaten-bekasi-belum-ditahan-dan-masih-bekerja</link>
+      <guid>https://disway.id/read/941112/tersandung-dugaan-pengeroyokan-anggota-dprd-kabupaten-bekasi-belum-ditahan-dan-masih-bekerja</guid>
+      <pubDate>Wed, 15 Apr 2026 01:01:00 +0000</pubDate>
+      <category>Keuangan</category>
+      <source>disway.id</source>
+      <ns1:content url="https://cms.disway.id/uploads/large/97aff0af90c2370bb77999b0ec85ca86.png" medium="image"/>
+    </item>
+    <item>
+      <title>Link Live Streaming Atletico Madrid vs Barcelona Leg 2 Liga Champions 2025/26, KickOFF: 02.00 WIB</title>
+      <link>https://disway.id/read/941102/link-live-streaming-atletico-madrid-vs-barcelona-leg-2-liga-champions-202526-kickoff-0200-wib</link>
+      <guid>https://disway.id/read/941102/link-live-streaming-atletico-madrid-vs-barcelona-leg-2-liga-champions-202526-kickoff-0200-wib</guid>
+      <pubDate>Wed, 15 Apr 2026 00:45:00 +0000</pubDate>
+      <category>Keuangan</category>
+      <source>disway.id</source>
+      <ns1:content url="https://cms.disway.id/uploads/large/4c575e7fe24b69849a1110d11e58ed1c.jpg" medium="image"/>
+    </item>
+    <item>
+      <title>Tokoh Jebolan FH UI Jadi Teladan dari Yakup Hasibuan hingga Najwa Shihab, Kampus Tercoreng Dugaan Pelecehan</title>
+      <link>https://disway.id/read/941116/tokoh-jebolan-fh-ui-jadi-teladan-dari-yakup-hasibuan-hingga-najwa-shihab-kampus-tercoreng-dugaan-pelecehan</link>
+      <guid>https://disway.id/read/941116/tokoh-jebolan-fh-ui-jadi-teladan-dari-yakup-hasibuan-hingga-najwa-shihab-kampus-tercoreng-dugaan-pelecehan</guid>
+      <pubDate>Wed, 15 Apr 2026 00:30:00 +0000</pubDate>
+      <category>Keuangan</category>
+      <source>disway.id</source>
+      <ns1:content url="https://cms.disway.id/uploads/large/9db242a0a5d9eeee0c8ba9391e48c6c2.jpg" medium="image"/>
+    </item>
+    <item>
+      <title>Jonatan Christie Bidik Gelar Indonesia Open 2026, Wishlist yang Harus Terwujud</title>
+      <link>https://disway.id/read/941108/jonatan-christie-bidik-gelar-indonesia-open-2026-wishlist-yang-harus-terwujud</link>
+      <guid>https://disway.id/read/941108/jonatan-christie-bidik-gelar-indonesia-open-2026-wishlist-yang-harus-terwujud</guid>
+      <pubDate>Wed, 15 Apr 2026 00:01:00 +0000</pubDate>
+      <category>Keuangan</category>
+      <source>disway.id</source>
+      <ns1:content url="https://cms.disway.id/uploads/large/2cd6840a6fc8b3943e7a5acb357b1356.jpeg" medium="image"/>
+    </item>
+    <item>
       <title>Sudah Berlaku, Samsat Cinere Depok Permudah Warga Bayar Pajak Tanpa KTP</title>
       <link>https://disway.id/read/941106/sudah-berlaku-samsat-cinere-depok-permudah-warga-bayar-pajak-tanpa-ktp</link>
       <guid>https://disway.id/read/941106/sudah-berlaku-samsat-cinere-depok-permudah-warga-bayar-pajak-tanpa-ktp</guid>
@@ -908,42 +991,6 @@
       <category>Keuangan</category>
       <source>disway.id</source>
       <ns1:content url="https://cms.disway.id/uploads/large/ba3570522a44301f3187ad4137b271de.jpg" medium="image"/>
-    </item>
-    <item>
-      <title>Dari Registrasi hingga Finish, bank bjb Kawal Sukses Semarang Mountain Race 2026</title>
-      <link>https://disway.id/read/941099/dari-registrasi-hingga-finish-bank-bjb-kawal-sukses-semarang-mountain-race-2026</link>
-      <guid>https://disway.id/read/941099/dari-registrasi-hingga-finish-bank-bjb-kawal-sukses-semarang-mountain-race-2026</guid>
-      <pubDate>Tue, 14 Apr 2026 22:51:00 +0000</pubDate>
-      <category>Keuangan</category>
-      <source>disway.id</source>
-      <ns1:content url="https://cms.disway.id/uploads/large/20a13b69a96a947ffd7b92afba0b068d.jpg" medium="image"/>
-    </item>
-    <item>
-      <title>Dari 2024, Siapa Sangka Grup Kos 16 Mahasiswa FH UI Berujung Kasus Chat Kekerasan Seksual</title>
-      <link>https://disway.id/read/941103/dari-2024-siapa-sangka-grup-kos-16-mahasiswa-fh-ui-berujung-kasus-chat-kekerasan-seksual</link>
-      <guid>https://disway.id/read/941103/dari-2024-siapa-sangka-grup-kos-16-mahasiswa-fh-ui-berujung-kasus-chat-kekerasan-seksual</guid>
-      <pubDate>Tue, 14 Apr 2026 22:50:00 +0000</pubDate>
-      <category>Keuangan</category>
-      <source>disway.id</source>
-      <ns1:content url="https://cms.disway.id/uploads/large/ec14f10ce80f7d7cf6268e47ca12d91f.png" medium="image"/>
-    </item>
-    <item>
-      <title>KPK Gercep Mengusut Korupsi Cukai, Penindakan Rokok Ilegal Jadi Mendesak</title>
-      <link>https://disway.id/read/941107/kpk-gercep-mengusut-korupsi-cukai-penindakan-rokok-ilegal-jadi-mendesak</link>
-      <guid>https://disway.id/read/941107/kpk-gercep-mengusut-korupsi-cukai-penindakan-rokok-ilegal-jadi-mendesak</guid>
-      <pubDate>Tue, 14 Apr 2026 22:41:00 +0000</pubDate>
-      <category>Keuangan</category>
-      <source>disway.id</source>
-      <ns1:content url="https://cms.disway.id/uploads/large/efdbfdddb1731f2578770ee4ab6a72f7.jpg" medium="image"/>
-    </item>
-    <item>
-      <title>Menteri Haji Tetap Bahas 'War Tiket', Pastikan Tak Hanguskan Antrean</title>
-      <link>https://disway.id/read/941082/menteri-haji-tetap-bahas-war-tiket-pastikan-tak-hanguskan-antrean</link>
-      <guid>https://disway.id/read/941082/menteri-haji-tetap-bahas-war-tiket-pastikan-tak-hanguskan-antrean</guid>
-      <pubDate>Tue, 14 Apr 2026 22:28:00 +0000</pubDate>
-      <category>Keuangan</category>
-      <source>disway.id</source>
-      <ns1:content url="https://cms.disway.id/uploads/large/c39f45aa7fc9c4c518787781523d3018.jpg" medium="image"/>
     </item>
     <item>
       <title>Kylian Mbappe Kembali Latihan, Siap Bela Real Madrid Lawan Bayern Munchen di Leg Kedua Perempat Final Liga Champions</title>
