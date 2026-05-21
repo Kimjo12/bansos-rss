@@ -5,7 +5,7 @@
     <description>RSS Feed gabungan dari berbagai sumber berita Indonesia</description>
     <link>https://github.com/Kimjo12/bansos-rss</link>
     <language>id</language>
-    <lastBuildDate>Thu, 21 May 2026 20:48:59 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 21 May 2026 22:15:23 +0000</lastBuildDate>
     <ns0:link href="https://Kimjo12.github.io/bansos-rss/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Cek Bansos PKH Tahap 2: Prosedur Pengecekan Bansos PKH Tahap 2 dengan Praktis</title>
@@ -989,6 +989,15 @@
       <ns1:content url="https://cms.disway.id/uploads/large/e434a774c7d93b78b73f6464ee691d2e.jpg" medium="image"/>
     </item>
     <item>
+      <title>Klarifikasi Bukan</title>
+      <link>https://disway.id/catatan-harian-dahlan/948117/klarifikasi-bukan</link>
+      <guid>https://disway.id/catatan-harian-dahlan/948117/klarifikasi-bukan</guid>
+      <pubDate>Fri, 22 May 2026 03:55:00 +0000</pubDate>
+      <category>Keuangan</category>
+      <source>disway.id</source>
+      <ns1:content url="https://cms.disway.id/uploads/large/acaf06ec4348df99af15234251a71157.jpeg" medium="image"/>
+    </item>
+    <item>
       <title>Wamenhaj Robek Penanda KBIHU di Tenda Arafah: Hanya PPIH yang Berhak Atur</title>
       <link>https://disway.id/read/948113/wamenhaj-robek-penanda-kbihu-di-tenda-arafah-hanya-ppih-yang-berhak-atur</link>
       <guid>https://disway.id/read/948113/wamenhaj-robek-penanda-kbihu-di-tenda-arafah-hanya-ppih-yang-berhak-atur</guid>
@@ -1023,15 +1032,6 @@
       <category>Keuangan</category>
       <source>disway.id</source>
       <ns1:content url="https://cms.disway.id/uploads/large/20b1db9ddaa6a60e75299d6152cc2d5d.png" medium="image"/>
-    </item>
-    <item>
-      <title>KNKT Ungkap Situasi Kritis Sebelum Kecelakaan Kereta di Bekasi, Taksi Green SM Gagal Pindah Transmisi P ke D</title>
-      <link>https://disway.id/read/948102/knkt-ungkap-situasi-kritis-sebelum-kecelakaan-kereta-di-bekasi-taksi-green-sm-gagal-pindah-transmisi-p-ke-d</link>
-      <guid>https://disway.id/read/948102/knkt-ungkap-situasi-kritis-sebelum-kecelakaan-kereta-di-bekasi-taksi-green-sm-gagal-pindah-transmisi-p-ke-d</guid>
-      <pubDate>Fri, 22 May 2026 00:01:00 +0000</pubDate>
-      <category>Keuangan</category>
-      <source>disway.id</source>
-      <ns1:content url="https://cms.disway.id/uploads/large/6a0c69b1ef7837064d99f46e231ec61d.jpg" medium="image"/>
     </item>
   </channel>
 </rss>
