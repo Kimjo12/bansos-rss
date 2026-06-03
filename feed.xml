@@ -5,7 +5,7 @@
     <description>RSS Feed gabungan dari berbagai sumber berita Indonesia</description>
     <link>https://github.com/Kimjo12/bansos-rss</link>
     <language>id</language>
-    <lastBuildDate>Wed, 03 Jun 2026 20:13:54 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 03 Jun 2026 23:00:12 +0000</lastBuildDate>
     <ns0:link href="https://Kimjo12.github.io/bansos-rss/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Cek Bansos PKH Tahap 2: Prosedur Pengecekan Bansos PKH Tahap 2 dengan Praktis</title>
@@ -177,6 +177,15 @@
       <category>Cek Bansos</category>
       <source>bansos.medanaktual.com</source>
       <ns1:content url="https://bansos.medanaktual.com/wp-content/uploads/2026/05/medanaktualpicture00005-45-420x236.jpg" medium="image"/>
+    </item>
+    <item>
+      <title>Punya Pengalaman 20 Tahun di Asia Pasifik, Jeffrey Woo Kini Pimpin FWD Insurance Indonesia</title>
+      <link>https://disway.id/read/950237/punya-pengalaman-20-tahun-di-asia-pasifik-jeffrey-woo-kini-pimpin-fwd-insurance-indonesia</link>
+      <guid>https://disway.id/read/950237/punya-pengalaman-20-tahun-di-asia-pasifik-jeffrey-woo-kini-pimpin-fwd-insurance-indonesia</guid>
+      <pubDate>Thu, 04 Jun 2026 04:30:00 +0000</pubDate>
+      <category>Keuangan</category>
+      <source>disway.id</source>
+      <ns1:content url="https://cms.disway.id/uploads/large/edceb2f44c2021462da2e3b89ddf9ee1.png" medium="image"/>
     </item>
     <item>
       <title>IHSG Melorot 4% Sore Ini ke Level 5.941, Latah Ikutan Loyo Bareng Rupiah</title>
@@ -440,15 +449,6 @@
       <ns1:content url="https://cms.disway.id/uploads/large/b443c997fa5a706de135cb0ac27c82b3.png" medium="image"/>
     </item>
     <item>
-      <title>Wilayah Timur Indonesia Mulai Fokus Pembayaran Digital, Bayar Pajak Kendaraan Tak Perlu Antre</title>
-      <link>https://disway.id/read/947857/wilayah-timur-indonesia-mulai-fokus-pembayaran-digital-bayar-pajak-kendaraan-tak-perlu-antre</link>
-      <guid>https://disway.id/read/947857/wilayah-timur-indonesia-mulai-fokus-pembayaran-digital-bayar-pajak-kendaraan-tak-perlu-antre</guid>
-      <pubDate>Wed, 20 May 2026 18:03:00 +0000</pubDate>
-      <category>Keuangan</category>
-      <source>disway.id</source>
-      <ns1:content url="https://cms.disway.id/uploads/large/3ddcad6466b69b66786b84a8476955cc.jpg" medium="image"/>
-    </item>
-    <item>
       <title>Tips Agatha Suci Pilih Asuransi Jiwa yang Tepat, Melek Literasi Keuangan Sejak 19 Tahun</title>
       <link>https://disway.id/read/950235/tips-agatha-suci-pilih-asuransi-jiwa-yang-tepat-melek-literasi-keuangan-sejak-19-tahun</link>
       <guid>https://disway.id/read/950235/tips-agatha-suci-pilih-asuransi-jiwa-yang-tepat-melek-literasi-keuangan-sejak-19-tahun</guid>
@@ -474,24 +474,6 @@
       <category>Keuangan</category>
       <source>disway.id</source>
       <ns1:content url="https://cms.disway.id/uploads/large/71bddad0ca6461f5d69f4bad6d3e61ff.jpg" medium="image"/>
-    </item>
-    <item>
-      <title>Saluran ASI Tersumbat atau Mastitis? Kenali Perbedaan dan Penanganannya</title>
-      <link>https://disway.id/read/950233/saluran-asi-tersumbat-atau-mastitis-kenali-perbedaan-dan-penanganannya</link>
-      <guid>https://disway.id/read/950233/saluran-asi-tersumbat-atau-mastitis-kenali-perbedaan-dan-penanganannya</guid>
-      <pubDate>Thu, 04 Jun 2026 01:01:00 +0000</pubDate>
-      <category>Keuangan</category>
-      <source>disway.id</source>
-      <ns1:content url="https://cms.disway.id/uploads/large/e50b22db957ae4c1ad4e3316f8099a1e.png" medium="image"/>
-    </item>
-    <item>
-      <title>Dugaan Praktik Nakal Dadan Hindayana Cs di Balik Dapur SPPG, Raup Miliaran per Hari dari MBG</title>
-      <link>https://disway.id/read/950231/dugaan-praktik-nakal-dadan-hindayana-cs-di-balik-dapur-sppg-raup-miliaran-per-hari-dari-mbg</link>
-      <guid>https://disway.id/read/950231/dugaan-praktik-nakal-dadan-hindayana-cs-di-balik-dapur-sppg-raup-miliaran-per-hari-dari-mbg</guid>
-      <pubDate>Thu, 04 Jun 2026 00:01:00 +0000</pubDate>
-      <category>Keuangan</category>
-      <source>disway.id</source>
-      <ns1:content url="https://cms.disway.id/uploads/large/3572049de6fcc8610cf4bda10ba7aaa1.png" medium="image"/>
     </item>
     <item>
       <title>Icip-Icip Galeri</title>
