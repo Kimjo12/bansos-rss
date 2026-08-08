@@ -5,7 +5,7 @@
     <description>RSS Feed gabungan dari berbagai sumber berita Indonesia</description>
     <link>https://github.com/Kimjo12/bansos-rss</link>
     <language>id</language>
-    <lastBuildDate>Sat, 08 Aug 2026 04:49:30 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 08 Aug 2026 05:37:20 +0000</lastBuildDate>
     <ns0:link href="https://Kimjo12.github.io/bansos-rss/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Cara Cek Status BPJS Kesehatan PBI Agustus 2026, Cukup Masukkan NIK KTP</title>
@@ -348,12 +348,22 @@
       <ns1:content url="https://id.medanaktual.com/wp-content/uploads/2026/07/ilustrasi-ekspor-mobil-350x250.webp" medium="image"/>
     </item>
     <item>
+      <title>Cara Daftar KIP Kuliah 2026, Cek Syarat, Jadwal dan Bantuan yang Didapat</title>
+      <link>https://id.medanaktual.com/cara-daftar-kip-kuliah-2026-cek-syarat-jadwal-dan-bantuan-yang-didapat/</link>
+      <guid>https://id.medanaktual.com/cara-daftar-kip-kuliah-2026-cek-syarat-jadwal-dan-bantuan-yang-didapat/</guid>
+      <pubDate>Sat, 08 Aug 2026 12:05:36 +0000</pubDate>
+      <category>Pendidikan</category>
+      <source>id.medanaktual.com</source>
+    </item>
+    <item>
       <title>Pendaftaran Beasiswa KIP Kuliah UAJY 2026 Masih Dibuka, Cek Syarat dan Cara Daftar</title>
       <link>https://id.medanaktual.com/pendaftaran-beasiswa-kip-kuliah-uajy-2026-masih-dibuka-cek-syarat-dan-cara-daftar/</link>
       <guid>https://id.medanaktual.com/pendaftaran-beasiswa-kip-kuliah-uajy-2026-masih-dibuka-cek-syarat-dan-cara-daftar/</guid>
       <pubDate>Fri, 07 Aug 2026 15:30:38 +0000</pubDate>
       <category>Pendidikan</category>
       <source>id.medanaktual.com</source>
+      <description>Universitas Atma Jaya Yogyakarta (UAJY) kembali membuka pendaftaran Beasiswa Kartu Indonesia Pintar (KIP) Kuliah 2026 bagi calon mahasiswa baru lulusan...</description>
+      <ns1:content url="https://id.medanaktual.com/wp-content/uploads/2026/08/pendaftaran-beasiswa-kip-kuliah-uajy-2026-masih-dibuka-cek-syarat-dan-cara-daftar-350x250.webp" medium="image"/>
     </item>
     <item>
       <title>Beasiswa KIP Kuliah UAD 2026 Resmi Dibuka, Gratis Kuliah hingga 8 Semester dan Biaya Hidup</title>
@@ -404,16 +414,6 @@
       <source>id.medanaktual.com</source>
       <description>Beasiswa Kader Sang Surya UMS 2026 resmi dibuka oleh Universitas Muhammadiyah Surakarta (UMS) bersama Lazismu UMS. Program beasiswa ini ditujukan...</description>
       <ns1:content url="https://id.medanaktual.com/wp-content/uploads/2026/08/Beasiswa-Kader-Sang-Surya-UMS-2026-Dibuka-Kuliah-Gratis-hingga-Lulus-Daftar-sampai-5-Agustus-350x250.jpg" medium="image"/>
-    </item>
-    <item>
-      <title>Kemendikdasmen Tetapkan Syarat PIP 2026, Begini Cara Cek Status Penerima dan Besaran Dana</title>
-      <link>https://id.medanaktual.com/kemendikdasmen-tetapkan-syarat-pip-2026-begini-cara-cek-status-penerima-dan-besaran-dana/</link>
-      <guid>https://id.medanaktual.com/kemendikdasmen-tetapkan-syarat-pip-2026-begini-cara-cek-status-penerima-dan-besaran-dana/</guid>
-      <pubDate>Mon, 03 Aug 2026 13:10:29 +0000</pubDate>
-      <category>Pendidikan</category>
-      <source>id.medanaktual.com</source>
-      <description>Program Indonesia Pintar (PIP) 2026 kembali disalurkan oleh Kementerian Pendidikan Dasar dan Menengah (Kemendikdasmen) sebagai bentuk dukungan bagi peserta didik...</description>
-      <ns1:content url="https://id.medanaktual.com/wp-content/uploads/2026/08/kemendikdasmen-tetapkan-syarat-pip-2026-begini-cara-cek-status-penerima-dan-besaran-dana-350x250.webp" medium="image"/>
     </item>
     <item>
       <title>Pengangguran Menurun, INDEF Minta Pemerintah Fokus pada Kualitas Kesempatan Kerja</title>
@@ -686,6 +686,15 @@
       <ns1:content url="https://cms.disway.id/uploads/large/e4381c3777c0580eec90ac8c19fa806b.jpg" medium="image"/>
     </item>
     <item>
+      <title>Universitas Esa Unggul Gandeng UI Perkuat Pendidikan Kedokteran Melalui Program Pengampuan</title>
+      <link>https://disway.id/read/961725/universitas-esa-unggul-gandeng-ui-perkuat-pendidikan-kedokteran-melalui-program-pengampuan</link>
+      <guid>https://disway.id/read/961725/universitas-esa-unggul-gandeng-ui-perkuat-pendidikan-kedokteran-melalui-program-pengampuan</guid>
+      <pubDate>Sat, 08 Aug 2026 11:52:00 +0000</pubDate>
+      <category>Keuangan</category>
+      <source>disway.id</source>
+      <ns1:content url="https://cms.disway.id/uploads/large/d19c4655dc9b1b7e31167e661bc07ac0.jpeg" medium="image"/>
+    </item>
+    <item>
       <title>Mudahnya Mengendarai Isuzu Traga Pick Up FD, Radius Putar Pendek dan Tenaga yang Mumpuni</title>
       <link>https://disway.id/read/961724/mudahnya-mengendarai-isuzu-traga-pick-up-fd-radius-putar-pendek-dan-tenaga-yang-mumpuni</link>
       <guid>https://disway.id/read/961724/mudahnya-mengendarai-isuzu-traga-pick-up-fd-radius-putar-pendek-dan-tenaga-yang-mumpuni</guid>
@@ -720,15 +729,6 @@
       <category>Keuangan</category>
       <source>disway.id</source>
       <ns1:content url="https://cms.disway.id/uploads/large/be634419e12272b4269c1d0f997167fe.jpeg" medium="image"/>
-    </item>
-    <item>
-      <title>Pemkab Cirebon Buka Pelatihan Bahasa dan Budaya Jepang untuk Perluas Peluang Kerja Internasional</title>
-      <link>https://disway.id/read/961718/pemkab-cirebon-buka-pelatihan-bahasa-dan-budaya-jepang-untuk-perluas-peluang-kerja-internasional</link>
-      <guid>https://disway.id/read/961718/pemkab-cirebon-buka-pelatihan-bahasa-dan-budaya-jepang-untuk-perluas-peluang-kerja-internasional</guid>
-      <pubDate>Sat, 08 Aug 2026 11:15:00 +0000</pubDate>
-      <category>Keuangan</category>
-      <source>disway.id</source>
-      <ns1:content url="https://cms.disway.id/uploads/large/83036c7587c97acf41e437dec052ccfc.jpeg" medium="image"/>
     </item>
     <item>
       <title>Olahraga·30 Jun 2026Saibari Pastikan Eliminasi Belanda Lewat Adu Penalti</title>
