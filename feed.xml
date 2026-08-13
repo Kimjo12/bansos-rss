@@ -5,8 +5,16 @@
     <description>RSS Feed gabungan dari berbagai sumber berita Indonesia</description>
     <link>https://github.com/Kimjo12/bansos-rss</link>
     <language>id</language>
-    <lastBuildDate>Thu, 13 Aug 2026 06:11:34 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 13 Aug 2026 08:14:19 +0000</lastBuildDate>
     <ns0:link href="https://Kimjo12.github.io/bansos-rss/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Cara Cek BPJS Kesehatan Aktif atau Tidak via Mobile JKN dan WhatsApp</title>
+      <link>https://id.medanaktual.com/cara-cek-bpjs-kesehatan-aktif-atau-tidak-via-mobile-jkn-dan-whatsapp/</link>
+      <guid>https://id.medanaktual.com/cara-cek-bpjs-kesehatan-aktif-atau-tidak-via-mobile-jkn-dan-whatsapp/</guid>
+      <pubDate>Thu, 13 Aug 2026 13:45:54 +0000</pubDate>
+      <category>BPJS Kesehatan</category>
+      <source>id.medanaktual.com</source>
+    </item>
     <item>
       <title>Cara Klaim BPJS Ketenagakerjaan dan Cairkan JHT Online, Bisa Lewat JMO dan Lapak Asik</title>
       <link>https://id.medanaktual.com/cara-klaim-bpjs-ketenagakerjaan-dan-cairkan-jht-online-bisa-lewat-jmo-dan-lapak-asik/</link>
@@ -14,6 +22,8 @@
       <pubDate>Sun, 09 Aug 2026 14:00:26 +0000</pubDate>
       <category>BPJS Kesehatan</category>
       <source>id.medanaktual.com</source>
+      <description>Cara klaim BPJS Ketenagakerjaan menjadi informasi penting bagi pekerja yang ingin mencairkan saldo Jaminan Hari Tua (JHT) setelah berhenti bekerja,...</description>
+      <ns1:content url="https://id.medanaktual.com/wp-content/uploads/2026/08/Cara-Klaim-BPJS-Ketenagakerjaan-dan-Cairkan-JHT-Online-Bisa-Lewat-JMO-dan-Lapak-Asik-350x250.jpg" medium="image"/>
     </item>
     <item>
       <title>Cara Cek Status BPJS Kesehatan PBI Agustus 2026, Cukup Masukkan NIK KTP</title>
@@ -64,16 +74,6 @@
       <source>id.medanaktual.com</source>
       <description>Banyak peserta BPJS Kesehatan baru menyadari status kepesertaannya tidak aktif justru saat sedang membutuhkan layanan kesehatan. Situasi seperti ini tentu...</description>
       <ns1:content url="https://id.medanaktual.com/wp-content/uploads/2026/07/Picture-2026-07-27T073055.365-350x250.jpg" medium="image"/>
-    </item>
-    <item>
-      <title>Syarat Daftar BPJS Kesehatan 2026 Lengkap, Cara Daftar Online, Dokumen, Iuran, dan Manfaatnya</title>
-      <link>https://id.medanaktual.com/syarat-daftar-bpjs-kesehatan-2026-lengkap-cara-daftar-online-dokumen-iuran-dan-manfaatnya/</link>
-      <guid>https://id.medanaktual.com/syarat-daftar-bpjs-kesehatan-2026-lengkap-cara-daftar-online-dokumen-iuran-dan-manfaatnya/</guid>
-      <pubDate>Sun, 26 Jul 2026 15:45:27 +0000</pubDate>
-      <category>BPJS Kesehatan</category>
-      <source>id.medanaktual.com</source>
-      <description>BPJS Kesehatan menjadi program jaminan kesehatan nasional yang wajib diikuti seluruh masyarakat Indonesia. Melalui program ini, peserta dapat memperoleh perlindungan...</description>
-      <ns1:content url="https://id.medanaktual.com/wp-content/uploads/2026/07/syarat-daftar-bpjs-kesehatan-2026-lengkap-cara-daftar-online-dokumen-iuran-dan-manfaatnya-350x250.webp" medium="image"/>
     </item>
     <item>
       <title>Cara Klaim JHT Setelah PHK, Syarat, dan Berapa Lama Pencairannya</title>
@@ -348,12 +348,22 @@
       <ns1:content url="https://id.medanaktual.com/wp-content/uploads/2026/07/ilustrasi-ekspor-mobil-350x250.webp" medium="image"/>
     </item>
     <item>
+      <title>Syarat KIP Kuliah 2026 Jika Tidak Terdata DTSEN, Begini Caranya</title>
+      <link>https://id.medanaktual.com/syarat-kip-kuliah-2026-jika-tidak-terdata-dtsen-begini-caranya/</link>
+      <guid>https://id.medanaktual.com/syarat-kip-kuliah-2026-jika-tidak-terdata-dtsen-begini-caranya/</guid>
+      <pubDate>Thu, 13 Aug 2026 14:13:07 +0000</pubDate>
+      <category>Pendidikan</category>
+      <source>id.medanaktual.com</source>
+    </item>
+    <item>
       <title>Cara Cek Penerima KIP Kuliah 2026 secara Online, Bisa Pakai NIK KTP</title>
       <link>https://id.medanaktual.com/cara-cek-penerima-kip-kuliah-2026-secara-online-bisa-pakai-nik-ktp/</link>
       <guid>https://id.medanaktual.com/cara-cek-penerima-kip-kuliah-2026-secara-online-bisa-pakai-nik-ktp/</guid>
       <pubDate>Wed, 12 Aug 2026 09:30:07 +0000</pubDate>
       <category>Pendidikan</category>
       <source>id.medanaktual.com</source>
+      <description>Cara cek penerima KIP Kuliah 2026 dapat dilakukan secara online melalui laman resmi Kartu Indonesia Pintar Kuliah (KIP Kuliah) Kementerian...</description>
+      <ns1:content url="https://id.medanaktual.com/wp-content/uploads/2026/08/cara-cek-penerima-kip-kuliah-2026-secara-online-bisa-pakai-nik-ktp-350x250.webp" medium="image"/>
     </item>
     <item>
       <title>Cara Cek Penerima PIP Agustus 2026 Secara Online, Cukup Pakai NISN</title>
@@ -404,16 +414,6 @@
       <source>id.medanaktual.com</source>
       <description>Program Indonesia Pintar (PIP) Agustus 2026 kembali menjadi perhatian siswa dan orang tua seiring berlangsungnya penyaluran bantuan pendidikan pemerintah. Peserta...</description>
       <ns1:content url="https://id.medanaktual.com/wp-content/uploads/2026/08/cara-cek-penerima-pip-agustus-2026-lengkap-dengan-jadwal-dan-besaran-bantuan-350x250.webp" medium="image"/>
-    </item>
-    <item>
-      <title>Cara Daftar KIP Kuliah 2026, Cek Syarat, Jadwal dan Bantuan yang Didapat</title>
-      <link>https://id.medanaktual.com/cara-daftar-kip-kuliah-2026-cek-syarat-jadwal-dan-bantuan-yang-didapat/</link>
-      <guid>https://id.medanaktual.com/cara-daftar-kip-kuliah-2026-cek-syarat-jadwal-dan-bantuan-yang-didapat/</guid>
-      <pubDate>Sat, 08 Aug 2026 12:05:36 +0000</pubDate>
-      <category>Pendidikan</category>
-      <source>id.medanaktual.com</source>
-      <description>KIP Kuliah 2026 merupakan program bantuan pendidikan pemerintah bagi calon mahasiswa berprestasi dari keluarga kurang mampu. Penerima KIP Kuliah mendapatkan...</description>
-      <ns1:content url="https://id.medanaktual.com/wp-content/uploads/2026/08/cara-daftar-kip-kuliah-2026-cek-syarat-jadwal-dan-bantuan-yang-didapat-350x250.webp" medium="image"/>
     </item>
     <item>
       <title>Purbaya Tepis Isu Pajak Kontrakan, Jangan Keburu Panik!</title>
@@ -686,49 +686,49 @@
       <ns1:content url="https://cms.disway.id/uploads/large/fdf3131ba98fe26e133f26a308454966.jpg" medium="image"/>
     </item>
     <item>
-      <title>Skema Tabel Angsuran KUR BRI 2026 Pinjaman Rp100 Juta Tenor 1-5 Tahun, Segini Cicilan Per Bulan</title>
-      <link>https://disway.id/read/962595/skema-tabel-angsuran-kur-bri-2026-pinjaman-rp100-juta-tenor-1-5-tahun-segini-cicilan-per-bulan</link>
-      <guid>https://disway.id/read/962595/skema-tabel-angsuran-kur-bri-2026-pinjaman-rp100-juta-tenor-1-5-tahun-segini-cicilan-per-bulan</guid>
-      <pubDate>Thu, 13 Aug 2026 13:00:00 +0000</pubDate>
+      <title>Epson Catat Penjualan Kumulatif EcoTank Tembus 100 Juta Unit Secara Global</title>
+      <link>https://disway.id/read/962654/epson-catat-penjualan-kumulatif-ecotank-tembus-100-juta-unit-secara-global</link>
+      <guid>https://disway.id/read/962654/epson-catat-penjualan-kumulatif-ecotank-tembus-100-juta-unit-secara-global</guid>
+      <pubDate>Thu, 13 Aug 2026 15:13:00 +0000</pubDate>
       <category>Keuangan</category>
       <source>disway.id</source>
-      <ns1:content url="https://cms.disway.id/uploads/large/69f8d0967e070821bc6b625b93e632cb.jpg" medium="image"/>
+      <ns1:content url="https://cms.disway.id/uploads/large/16391bd95f184bc4ae3a2ddde33c5f29.png" medium="image"/>
     </item>
     <item>
-      <title>Normalisasi Kali Cakung Lama Rampung 2028, Pemprov DKI Targetkan Dampak Banjir Jakut Berkurang 20 Persen</title>
-      <link>https://disway.id/read/962620/normalisasi-kali-cakung-lama-rampung-2028-pemprov-dki-targetkan-dampak-banjir-jakut-berkurang-20-persen</link>
-      <guid>https://disway.id/read/962620/normalisasi-kali-cakung-lama-rampung-2028-pemprov-dki-targetkan-dampak-banjir-jakut-berkurang-20-persen</guid>
-      <pubDate>Thu, 13 Aug 2026 12:52:00 +0000</pubDate>
+      <title>Erick Thohir Apresiasi Kepercayaan Prabowo, Kemenpora Catat Kinerja 83 Persen dan Raih WTP BPK</title>
+      <link>https://disway.id/read/962653/erick-thohir-apresiasi-kepercayaan-prabowo-kemenpora-catat-kinerja-83-persen-dan-raih-wtp-bpk</link>
+      <guid>https://disway.id/read/962653/erick-thohir-apresiasi-kepercayaan-prabowo-kemenpora-catat-kinerja-83-persen-dan-raih-wtp-bpk</guid>
+      <pubDate>Thu, 13 Aug 2026 15:12:00 +0000</pubDate>
       <category>Keuangan</category>
       <source>disway.id</source>
-      <ns1:content url="https://cms.disway.id/uploads/large/0e71a6fdf4c689bf812b71a731ac4b82.png" medium="image"/>
+      <ns1:content url="https://cms.disway.id/uploads/large/42d69ea160b71fb60baf36c12956cd72.jpeg" medium="image"/>
     </item>
     <item>
-      <title>5 Contoh Sambutan Ketua Panitia 17 Agustus untuk Malam Tirakatan, Singkat dan Penuh Pesan Nasionalisme</title>
-      <link>https://disway.id/read/962619/5-contoh-sambutan-ketua-panitia-17-agustus-untuk-malam-tirakatan-singkat-dan-penuh-pesan-nasionalisme</link>
-      <guid>https://disway.id/read/962619/5-contoh-sambutan-ketua-panitia-17-agustus-untuk-malam-tirakatan-singkat-dan-penuh-pesan-nasionalisme</guid>
-      <pubDate>Thu, 13 Aug 2026 12:46:00 +0000</pubDate>
+      <title>Pemprov DKI Jakarta Berlakukan Tarif Khusus Transportasi Umum saat HUT RI 2026 Cuma Rp8</title>
+      <link>https://disway.id/read/962652/pemprov-dki-jakarta-berlakukan-tarif-khusus-transportasi-umum-saat-hut-ri-2026-cuma-rp8</link>
+      <guid>https://disway.id/read/962652/pemprov-dki-jakarta-berlakukan-tarif-khusus-transportasi-umum-saat-hut-ri-2026-cuma-rp8</guid>
+      <pubDate>Thu, 13 Aug 2026 15:09:00 +0000</pubDate>
       <category>Keuangan</category>
       <source>disway.id</source>
-      <ns1:content url="https://cms.disway.id/uploads/large/1a8460d7f1b713f7d57012f00a74af04.jpg" medium="image"/>
+      <ns1:content url="https://cms.disway.id/uploads/large/0ce8055d95728420ca9cd3acfbf9d9f0.jpeg" medium="image"/>
     </item>
     <item>
-      <title>Satpam dan doketr RSUD TBSI Kubu Raya Kalbar Dipukuli Keluarga Pasien, Kedua Pihak Sepakat Berdamai</title>
-      <link>https://disway.id/read/962618/satpam-dan-doketr-rsud-tbsi-kubu-raya-kalbar-dipukuli-keluarga-pasien-kedua-pihak-sepakat-berdamai</link>
-      <guid>https://disway.id/read/962618/satpam-dan-doketr-rsud-tbsi-kubu-raya-kalbar-dipukuli-keluarga-pasien-kedua-pihak-sepakat-berdamai</guid>
-      <pubDate>Thu, 13 Aug 2026 12:39:00 +0000</pubDate>
+      <title>Menteri PANRB Apresiasi Layanan Omnikanal MPP Sumedang</title>
+      <link>https://disway.id/read/962648/menteri-panrb-apresiasi-layanan-omnikanal-mpp-sumedang</link>
+      <guid>https://disway.id/read/962648/menteri-panrb-apresiasi-layanan-omnikanal-mpp-sumedang</guid>
+      <pubDate>Thu, 13 Aug 2026 14:58:00 +0000</pubDate>
       <category>Keuangan</category>
       <source>disway.id</source>
-      <ns1:content url="https://cms.disway.id/uploads/large/7aedabee094d9867824d895c62bc8afb.jpg" medium="image"/>
+      <ns1:content url="https://cms.disway.id/uploads/large/528e0ce4785f328ffd4f66db549d4444.jpg" medium="image"/>
     </item>
     <item>
-      <title>Pramono Ralat Tarif Transum 17 Agustus dari Rp1 Jadi Rp8, Ikut Arahan Pusat</title>
-      <link>https://disway.id/read/962617/pramono-ralat-tarif-transum-17-agustus-dari-rp1-jadi-rp8-ikut-arahan-pusat</link>
-      <guid>https://disway.id/read/962617/pramono-ralat-tarif-transum-17-agustus-dari-rp1-jadi-rp8-ikut-arahan-pusat</guid>
-      <pubDate>Thu, 13 Aug 2026 12:18:00 +0000</pubDate>
+      <title>Kesaksian Warga Ketika Ormas Geruduk Rumah E Pelaku Penista Hafal Al-Quran Berhadiah Miras</title>
+      <link>https://disway.id/read/962646/kesaksian-warga-ketika-ormas-geruduk-rumah-e-pelaku-penista-hafal-al-quran-berhadiah-miras</link>
+      <guid>https://disway.id/read/962646/kesaksian-warga-ketika-ormas-geruduk-rumah-e-pelaku-penista-hafal-al-quran-berhadiah-miras</guid>
+      <pubDate>Thu, 13 Aug 2026 14:49:00 +0000</pubDate>
       <category>Keuangan</category>
       <source>disway.id</source>
-      <ns1:content url="https://cms.disway.id/uploads/large/2ceea1a56a2a7fe9e15d909b5b152d09.jpeg" medium="image"/>
+      <ns1:content url="https://cms.disway.id/uploads/large/1b547f91ca7cecbcdfffed68fb207fde.jpeg" medium="image"/>
     </item>
     <item>
       <title>Beautiful Beast</title>
