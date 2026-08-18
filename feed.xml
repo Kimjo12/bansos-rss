@@ -5,8 +5,16 @@
     <description>RSS Feed gabungan dari berbagai sumber berita Indonesia</description>
     <link>https://github.com/Kimjo12/bansos-rss</link>
     <language>id</language>
-    <lastBuildDate>Tue, 18 Aug 2026 05:22:15 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 18 Aug 2026 06:31:05 +0000</lastBuildDate>
     <ns0:link href="https://Kimjo12.github.io/bansos-rss/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>BPJS Kesehatan Aktif atau Tidak? Ini Cara Cek Status dan Iuran via Mobile JKN</title>
+      <link>https://id.medanaktual.com/bpjs-kesehatan-aktif-atau-tidak-ini-cara-cek-status-dan-iuran-via-mobile-jkn/</link>
+      <guid>https://id.medanaktual.com/bpjs-kesehatan-aktif-atau-tidak-ini-cara-cek-status-dan-iuran-via-mobile-jkn/</guid>
+      <pubDate>Tue, 18 Aug 2026 12:55:02 +0000</pubDate>
+      <category>BPJS Kesehatan</category>
+      <source>id.medanaktual.com</source>
+    </item>
     <item>
       <title>Cara Cek BPJS Kesehatan Aktif atau Tidak via Mobile JKN dan WhatsApp</title>
       <link>https://id.medanaktual.com/cara-cek-bpjs-kesehatan-aktif-atau-tidak-via-mobile-jkn-dan-whatsapp/</link>
@@ -14,6 +22,8 @@
       <pubDate>Thu, 13 Aug 2026 13:45:54 +0000</pubDate>
       <category>BPJS Kesehatan</category>
       <source>id.medanaktual.com</source>
+      <description>Cara cek status BPJS Kesehatan penting diketahui setiap peserta untuk memastikan kepesertaan masih aktif dan dapat digunakan saat membutuhkan layanan...</description>
+      <ns1:content url="https://id.medanaktual.com/wp-content/uploads/2026/08/cara-cek-bpjs-kesehatan-aktif-atau-tidak-via-mobile-jkn-dan-whatsapp-350x250.webp" medium="image"/>
     </item>
     <item>
       <title>Cara Klaim BPJS Ketenagakerjaan dan Cairkan JHT Online, Bisa Lewat JMO dan Lapak Asik</title>
@@ -64,16 +74,6 @@
       <source>id.medanaktual.com</source>
       <description>Cek penerima BPJS Kesehatan gratis banyak dicari masyarakat untuk mengetahui apakah mereka terdaftar sebagai peserta Penerima Bantuan Iuran Jaminan Kesehatan...</description>
       <ns1:content url="https://id.medanaktual.com/wp-content/uploads/2026/07/cara-cek-penerima-bpjs-kesehatan-gratis-2026-melalui-hp-350x250.webp" medium="image"/>
-    </item>
-    <item>
-      <title>Cara Mengaktifkan BPJS Kesehatan yang Mati karena Tunggakan, Lengkap!</title>
-      <link>https://id.medanaktual.com/cara-mengaktifkan-bpjs-kesehatan-yang-mati-karena-tunggakan-lengkap/</link>
-      <guid>https://id.medanaktual.com/cara-mengaktifkan-bpjs-kesehatan-yang-mati-karena-tunggakan-lengkap/</guid>
-      <pubDate>Mon, 27 Jul 2026 10:35:25 +0000</pubDate>
-      <category>BPJS Kesehatan</category>
-      <source>id.medanaktual.com</source>
-      <description>Banyak peserta BPJS Kesehatan baru menyadari status kepesertaannya tidak aktif justru saat sedang membutuhkan layanan kesehatan. Situasi seperti ini tentu...</description>
-      <ns1:content url="https://id.medanaktual.com/wp-content/uploads/2026/07/Picture-2026-07-27T073055.365-350x250.jpg" medium="image"/>
     </item>
     <item>
       <title>Cara Klaim JHT Setelah PHK, Syarat, dan Berapa Lama Pencairannya</title>
@@ -348,12 +348,22 @@
       <ns1:content url="https://id.medanaktual.com/wp-content/uploads/2026/07/ilustrasi-ekspor-mobil-350x250.webp" medium="image"/>
     </item>
     <item>
+      <title>Cek Desil DTSEN KIP Kuliah 2026, Begini Cara dan Ketentuannya</title>
+      <link>https://id.medanaktual.com/cek-desil-dtsen-kip-kuliah-2026-begini-cara-dan-ketentuannya/</link>
+      <guid>https://id.medanaktual.com/cek-desil-dtsen-kip-kuliah-2026-begini-cara-dan-ketentuannya/</guid>
+      <pubDate>Tue, 18 Aug 2026 13:28:06 +0000</pubDate>
+      <category>Pendidikan</category>
+      <source>id.medanaktual.com</source>
+    </item>
+    <item>
       <title>Cara Cek PIP 2026 di Sipintar Lewat HP, Lengkap Nominal Bantuannya</title>
       <link>https://id.medanaktual.com/cara-cek-pip-2026-di-sipintar-lewat-hp-lengkap-nominal-bantuannya/</link>
       <guid>https://id.medanaktual.com/cara-cek-pip-2026-di-sipintar-lewat-hp-lengkap-nominal-bantuannya/</guid>
       <pubDate>Mon, 17 Aug 2026 13:05:08 +0000</pubDate>
       <category>Pendidikan</category>
       <source>id.medanaktual.com</source>
+      <description>Program Indonesia Pintar (PIP) menjadi salah satu bantuan pendidikan pemerintah yang ditujukan untuk membantu peserta didik dari keluarga kurang mampu...</description>
+      <ns1:content url="https://id.medanaktual.com/wp-content/uploads/2026/08/cara-cek-pip-2026-di-sipintar-lewat-hp-lengkap-nominal-bantuannya-350x250.webp" medium="image"/>
     </item>
     <item>
       <title>Penghasilan Orang Tua untuk KIP Kuliah 2026, Ini Batas dan Syaratnya</title>
@@ -404,16 +414,6 @@
       <source>id.medanaktual.com</source>
       <description>Pencairan Program Indonesia Pintar (PIP) Agustus 2026 menjadi salah satu informasi yang banyak dicari oleh pelajar dan orang tua. Bagi...</description>
       <ns1:content url="https://id.medanaktual.com/wp-content/uploads/2026/08/cara-cek-penerima-pip-agustus-2026-secara-online-cukup-pakai-nisn-350x250.webp" medium="image"/>
-    </item>
-    <item>
-      <title>Cara Cek Penerima KIP Kuliah 2026 Secara Online, Simak Langkahnya</title>
-      <link>https://id.medanaktual.com/cara-cek-penerima-kip-kuliah-2026-secara-online-simak-langkahnya/</link>
-      <guid>https://id.medanaktual.com/cara-cek-penerima-kip-kuliah-2026-secara-online-simak-langkahnya/</guid>
-      <pubDate>Mon, 10 Aug 2026 15:18:32 +0000</pubDate>
-      <category>Pendidikan</category>
-      <source>id.medanaktual.com</source>
-      <description>Pendaftaran Kartu Indonesia Pintar (KIP) Kuliah 2026 dilakukan bersamaan dengan rangkaian Seleksi Nasional Penerimaan Mahasiswa Baru (SNPMB). Bagi calon mahasiswa...</description>
-      <ns1:content url="https://id.medanaktual.com/wp-content/uploads/2026/08/Cara-Cek-Penerima-KIP-Kuliah-2026-Secara-Online-Simak-Langkahnya-350x250.jpg" medium="image"/>
     </item>
     <item>
       <title>XM Luncurkan GOLD24-7, Hadirkan Trading Emas di Akhir Pekan untuk Klien</title>
@@ -686,49 +686,49 @@
       <ns1:content url="https://cms.disway.id/uploads/large/e2e688ebb2bfa3a23a5a4e70b264e291.jpeg" medium="image"/>
     </item>
     <item>
-      <title>Wamen PU: Identifikasi Kerusakan Infrastruktur Akibat Gempa NTT, Jalan dan Bangunan Terdampak</title>
-      <link>https://disway.id/read/963477/wamen-pu-identifikasi-kerusakan-infrastruktur-akibat-gempa-ntt-jalan-dan-bangunan-terdampak</link>
-      <guid>https://disway.id/read/963477/wamen-pu-identifikasi-kerusakan-infrastruktur-akibat-gempa-ntt-jalan-dan-bangunan-terdampak</guid>
-      <pubDate>Tue, 18 Aug 2026 12:14:00 +0000</pubDate>
+      <title>Jadwal Lengkap Sekolah Kedinasan 2026: Cek Formasi, Syarat, dan Tahapan Seleksi</title>
+      <link>https://disway.id/read/963501/jadwal-lengkap-sekolah-kedinasan-2026-cek-formasi-syarat-dan-tahapan-seleksi</link>
+      <guid>https://disway.id/read/963501/jadwal-lengkap-sekolah-kedinasan-2026-cek-formasi-syarat-dan-tahapan-seleksi</guid>
+      <pubDate>Tue, 18 Aug 2026 13:25:00 +0000</pubDate>
       <category>Keuangan</category>
       <source>disway.id</source>
-      <ns1:content url="https://cms.disway.id/uploads/large/d4fbbc6dbbbc9c760b9fa74390ba6d1b.jpg" medium="image"/>
+      <ns1:content url="https://cms.disway.id/uploads/large/ca64ffbd8874b31453d8974325002e50.jpeg" medium="image"/>
     </item>
     <item>
-      <title>11 HP Rp1 Jutaan Paling Worth It Pertengahan 2026, Ada yang Baterai 9.020 mAh dan Charging 100 Watt</title>
-      <link>https://disway.id/read/963475/11-hp-rp1-jutaan-paling-worth-it-pertengahan-2026-ada-yang-baterai-9020-mah-dan-charging-100-watt</link>
-      <guid>https://disway.id/read/963475/11-hp-rp1-jutaan-paling-worth-it-pertengahan-2026-ada-yang-baterai-9020-mah-dan-charging-100-watt</guid>
-      <pubDate>Tue, 18 Aug 2026 12:02:00 +0000</pubDate>
+      <title>IHSG Sesi I Menguat 1,25% ke 6.481 Meski Ada Demo di Bundaran HI, Analis Prediksi Lanjut Naik</title>
+      <link>https://disway.id/read/963499/ihsg-sesi-i-menguat-125-ke-6481-meski-ada-demo-di-bundaran-hi-analis-prediksi-lanjut-naik</link>
+      <guid>https://disway.id/read/963499/ihsg-sesi-i-menguat-125-ke-6481-meski-ada-demo-di-bundaran-hi-analis-prediksi-lanjut-naik</guid>
+      <pubDate>Tue, 18 Aug 2026 13:22:00 +0000</pubDate>
       <category>Keuangan</category>
       <source>disway.id</source>
-      <ns1:content url="https://cms.disway.id/uploads/large/b0f02a5dca9ca26f176f3f8af6dd1499.jpg" medium="image"/>
+      <ns1:content url="https://cms.disway.id/uploads/large/b4b2acddb61d9104cbe248e2ed913f92.jpg" medium="image"/>
     </item>
     <item>
-      <title>Pengumuman! BIN Buka Pendaftaran STIN 2026 untuk Lulusan SMA, Kuota 100 Orang Mulai 18-30 Agustus</title>
-      <link>https://disway.id/read/963474/pengumuman-bin-buka-pendaftaran-stin-2026-untuk-lulusan-sma-kuota-100-orang-mulai-18-30-agustus</link>
-      <guid>https://disway.id/read/963474/pengumuman-bin-buka-pendaftaran-stin-2026-untuk-lulusan-sma-kuota-100-orang-mulai-18-30-agustus</guid>
-      <pubDate>Tue, 18 Aug 2026 12:02:00 +0000</pubDate>
+      <title>Mau Daftar IPDN 2026? Cek Batas Tinggi Badan Minimal untuk Pria dan Wanita Serta Nilai Ijazahnya</title>
+      <link>https://disway.id/read/963498/mau-daftar-ipdn-2026-cek-batas-tinggi-badan-minimal-untuk-pria-dan-wanita-serta-nilai-ijazahnya</link>
+      <guid>https://disway.id/read/963498/mau-daftar-ipdn-2026-cek-batas-tinggi-badan-minimal-untuk-pria-dan-wanita-serta-nilai-ijazahnya</guid>
+      <pubDate>Tue, 18 Aug 2026 13:21:00 +0000</pubDate>
       <category>Keuangan</category>
       <source>disway.id</source>
-      <ns1:content url="https://cms.disway.id/uploads/large/574f7770f9ddd9ddd6d575fd7b87c508.jpg" medium="image"/>
+      <ns1:content url="https://cms.disway.id/uploads/large/dcc43101b72c577f8bed2a199e11b3a9.jpeg" medium="image"/>
     </item>
     <item>
-      <title>Menteri Trenggono Upacara HUT RI Bareng Nelayan di Kampung Nelayan Merah Putih Sorue Jaya</title>
-      <link>https://disway.id/read/963472/menteri-trenggono-upacara-hut-ri-bareng-nelayan-di-kampung-nelayan-merah-putih-sorue-jaya</link>
-      <guid>https://disway.id/read/963472/menteri-trenggono-upacara-hut-ri-bareng-nelayan-di-kampung-nelayan-merah-putih-sorue-jaya</guid>
-      <pubDate>Tue, 18 Aug 2026 11:48:00 +0000</pubDate>
+      <title>Situasi Terkini di Bundaran HI Jelang Aksi Demo BEM UI #MerebutKemerdekaan, TNI Polri Siaga</title>
+      <link>https://disway.id/read/963497/situasi-terkini-di-bundaran-hi-jelang-aksi-demo-bem-ui-merebutkemerdekaan-tni-polri-siaga</link>
+      <guid>https://disway.id/read/963497/situasi-terkini-di-bundaran-hi-jelang-aksi-demo-bem-ui-merebutkemerdekaan-tni-polri-siaga</guid>
+      <pubDate>Tue, 18 Aug 2026 13:18:00 +0000</pubDate>
       <category>Keuangan</category>
       <source>disway.id</source>
-      <ns1:content url="https://cms.disway.id/uploads/large/c6901ec83fd21df8aedd39f5f11ea92b.jpg" medium="image"/>
+      <ns1:content url="https://cms.disway.id/uploads/large/2f8323d2ffd12835afdb7be09be66743.jpeg" medium="image"/>
     </item>
     <item>
-      <title>HUT ke-81,Kemenhut Sebar 17.845 Bibit Gratis dari Sabang hingga Merauke</title>
-      <link>https://disway.id/read/963470/hut-ke-81kemenhut-sebar-17845-bibit-gratis-dari-sabang-hingga-merauke</link>
-      <guid>https://disway.id/read/963470/hut-ke-81kemenhut-sebar-17845-bibit-gratis-dari-sabang-hingga-merauke</guid>
-      <pubDate>Tue, 18 Aug 2026 11:41:00 +0000</pubDate>
+      <title>Cek Syarat Daftar Sekolah Tinggi Intelijen Negara 2026, Ini Jurusan yang Dibutuhkan</title>
+      <link>https://disway.id/read/963496/cek-syarat-daftar-sekolah-tinggi-intelijen-negara-2026-ini-jurusan-yang-dibutuhkan</link>
+      <guid>https://disway.id/read/963496/cek-syarat-daftar-sekolah-tinggi-intelijen-negara-2026-ini-jurusan-yang-dibutuhkan</guid>
+      <pubDate>Tue, 18 Aug 2026 13:14:00 +0000</pubDate>
       <category>Keuangan</category>
       <source>disway.id</source>
-      <ns1:content url="https://cms.disway.id/uploads/large/e32c32346f8bdf34dd913dccf0eca4e3.jpg" medium="image"/>
+      <ns1:content url="https://cms.disway.id/uploads/large/490cf2a28d91398a4cccb14d1f1a1c14.png" medium="image"/>
     </item>
     <item>
       <title>Dominasi Suasana</title>
