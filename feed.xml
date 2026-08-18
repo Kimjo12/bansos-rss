@@ -5,7 +5,7 @@
     <description>RSS Feed gabungan dari berbagai sumber berita Indonesia</description>
     <link>https://github.com/Kimjo12/bansos-rss</link>
     <language>id</language>
-    <lastBuildDate>Tue, 18 Aug 2026 20:15:30 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 18 Aug 2026 21:16:55 +0000</lastBuildDate>
     <ns0:link href="https://Kimjo12.github.io/bansos-rss/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>BPJS Kesehatan Aktif atau Tidak? Ini Cara Cek Status dan Iuran via Mobile JKN</title>
@@ -686,6 +686,15 @@
       <ns1:content url="https://cms.disway.id/uploads/large/770981e510ad30ebd14e434d4e3eab7d.jpg" medium="image"/>
     </item>
     <item>
+      <title>Prabowo Mahathir</title>
+      <link>https://disway.id/catatan-harian-dahlan/963646/prabowo-mahathir</link>
+      <guid>https://disway.id/catatan-harian-dahlan/963646/prabowo-mahathir</guid>
+      <pubDate>Wed, 19 Aug 2026 04:00:00 +0000</pubDate>
+      <category>Keuangan</category>
+      <source>disway.id</source>
+      <ns1:content url="https://cms.disway.id/uploads/large/ce0da8748e6431ae8b12c4930ec30f48.jpg" medium="image"/>
+    </item>
+    <item>
       <title>Sosok Dokter Beeleonie di Balik Ikhtiar Mendapatkan Buah Hati, Setia Dampingi Pejuang Garis Dua</title>
       <link>https://disway.id/read/963640/sosok-dokter-beeleonie-di-balik-ikhtiar-mendapatkan-buah-hati-setia-dampingi-pejuang-garis-dua</link>
       <guid>https://disway.id/read/963640/sosok-dokter-beeleonie-di-balik-ikhtiar-mendapatkan-buah-hati-setia-dampingi-pejuang-garis-dua</guid>
@@ -711,15 +720,6 @@
       <category>Keuangan</category>
       <source>disway.id</source>
       <ns1:content url="https://cms.disway.id/uploads/large/3aed0bec858fc14273711a1eff3e8580.jpeg" medium="image"/>
-    </item>
-    <item>
-      <title>Sukses, Benecol Rangkul Komunitas dan Food Creator Resmikan Deklarasi Merdeka PARPOL</title>
-      <link>https://disway.id/read/963629/sukses-benecol-rangkul-komunitas-dan-food-creator-resmikan-deklarasi-merdeka-parpol</link>
-      <guid>https://disway.id/read/963629/sukses-benecol-rangkul-komunitas-dan-food-creator-resmikan-deklarasi-merdeka-parpol</guid>
-      <pubDate>Tue, 18 Aug 2026 22:43:00 +0000</pubDate>
-      <category>Keuangan</category>
-      <source>disway.id</source>
-      <ns1:content url="https://cms.disway.id/uploads/large/bc2a207875e5d02dc7ec496b234fe4e7.jpeg" medium="image"/>
     </item>
     <item>
       <title>Dominasi Suasana</title>
