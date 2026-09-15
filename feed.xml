@@ -5,7 +5,7 @@
     <description>RSS Feed gabungan dari berbagai sumber berita Indonesia</description>
     <link>https://github.com/Kimjo12/bansos-rss</link>
     <language>id</language>
-    <lastBuildDate>Tue, 15 Sep 2026 19:27:57 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 22:40:00 +0000</lastBuildDate>
     <ns0:link href="https://Kimjo12.github.io/bansos-rss/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>IHSG Ambruk 73 Poin, Saham Rokok Ikut Berdarah Usai Purbaya Lengser</title>
@@ -278,6 +278,24 @@
       <ns1:content url="https://cms.disway.id/uploads/large/d6a1d505790236c58bf8ccd95bd2c72b.jpg" medium="image"/>
     </item>
     <item>
+      <title>Simak Informasi BMKG Prakiraan Cuaca Jakarta 16 September 2026, Apakah Turun Hujan?</title>
+      <link>https://disway.id/read/968659/simak-informasi-bmkg-prakiraan-cuaca-jakarta-16-september-2026-apakah-turun-hujan</link>
+      <guid>https://disway.id/read/968659/simak-informasi-bmkg-prakiraan-cuaca-jakarta-16-september-2026-apakah-turun-hujan</guid>
+      <pubDate>Wed, 16 Sep 2026 05:00:00 +0000</pubDate>
+      <category>Keuangan</category>
+      <source>disway.id</source>
+      <ns1:content url="https://cms.disway.id/uploads/large/77eb6e7fa90352c8b4edfc29225d02e6.jpg" medium="image"/>
+    </item>
+    <item>
+      <title>Purbaya DJuamputh</title>
+      <link>https://disway.id/catatan-harian-dahlan/968651/purbaya-djuamputh</link>
+      <guid>https://disway.id/catatan-harian-dahlan/968651/purbaya-djuamputh</guid>
+      <pubDate>Wed, 16 Sep 2026 04:00:00 +0000</pubDate>
+      <category>Keuangan</category>
+      <source>disway.id</source>
+      <ns1:content url="https://cms.disway.id/uploads/large/cb3592751c6f26ae6318b17e5b7b759c.jpeg" medium="image"/>
+    </item>
+    <item>
       <title>Iklan Seksi Sydney Sweeney Bikin Atlet Perempuan Murka hingga Singgung Perjuangan, Keringat, dan Air Mata</title>
       <link>https://disway.id/read/968658/iklan-seksi-sydney-sweeney-bikin-atlet-perempuan-murka-hingga-singgung-perjuangan-keringat-dan-air-mata</link>
       <guid>https://disway.id/read/968658/iklan-seksi-sydney-sweeney-bikin-atlet-perempuan-murka-hingga-singgung-perjuangan-keringat-dan-air-mata</guid>
@@ -303,24 +321,6 @@
       <category>Keuangan</category>
       <source>disway.id</source>
       <ns1:content url="https://cms.disway.id/uploads/large/d668c4447242d8bfc462ca874291b4d8.png" medium="image"/>
-    </item>
-    <item>
-      <title>Perkuat Keamanan Vault Berstandar Global, Pegadaian Raih Sertifikasi ISO 9001:2015</title>
-      <link>https://disway.id/read/968655/perkuat-keamanan-vault-berstandar-global-pegadaian-raih-sertifikasi-iso-90012015</link>
-      <guid>https://disway.id/read/968655/perkuat-keamanan-vault-berstandar-global-pegadaian-raih-sertifikasi-iso-90012015</guid>
-      <pubDate>Tue, 15 Sep 2026 23:26:00 +0000</pubDate>
-      <category>Keuangan</category>
-      <source>disway.id</source>
-      <ns1:content url="https://cms.disway.id/uploads/large/74686eb96ad4c12f95b95c7f1c5750dc.jpeg" medium="image"/>
-    </item>
-    <item>
-      <title>Perkara terkait Asabri dan Jiwasraya Segera Bawa Febrie ke Penuntutan, Ada Dugaan Pemerasan</title>
-      <link>https://disway.id/read/968653/perkara-terkait-asabri-dan-jiwasraya-segera-bawa-febrie-ke-penuntutan-ada-dugaan-pemerasan</link>
-      <guid>https://disway.id/read/968653/perkara-terkait-asabri-dan-jiwasraya-segera-bawa-febrie-ke-penuntutan-ada-dugaan-pemerasan</guid>
-      <pubDate>Tue, 15 Sep 2026 23:07:00 +0000</pubDate>
-      <category>Keuangan</category>
-      <source>disway.id</source>
-      <ns1:content url="https://cms.disway.id/uploads/large/9f987034c0dc840d6c45d2ddcd8c2282.jpeg" medium="image"/>
     </item>
   </channel>
 </rss>
