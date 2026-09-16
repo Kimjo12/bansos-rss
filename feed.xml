@@ -5,7 +5,7 @@
     <description>RSS Feed gabungan dari berbagai sumber berita Indonesia</description>
     <link>https://github.com/Kimjo12/bansos-rss</link>
     <language>id</language>
-    <lastBuildDate>Wed, 16 Sep 2026 19:19:37 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 22:35:53 +0000</lastBuildDate>
     <ns0:link href="https://Kimjo12.github.io/bansos-rss/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>IHSG Balik Ambruk Setelah Sempat Menguat, Rating INA Justru Dipertahankan Fitch</title>
@@ -278,6 +278,15 @@
       <ns1:content url="https://cms.disway.id/uploads/large/37f61d1d03c8d3d96c615fd8216208e4.jpeg" medium="image"/>
     </item>
     <item>
+      <title>William Paputungan</title>
+      <link>https://disway.id/catatan-harian-dahlan/968831/william-paputungan</link>
+      <guid>https://disway.id/catatan-harian-dahlan/968831/william-paputungan</guid>
+      <pubDate>Thu, 17 Sep 2026 04:00:00 +0000</pubDate>
+      <category>Keuangan</category>
+      <source>disway.id</source>
+      <ns1:content url="https://cms.disway.id/uploads/large/80c80f7a511275cd103f183002503080.jpeg" medium="image"/>
+    </item>
+    <item>
       <title>654 Dapur MBG Kategori Kritis Terancam Tutup Permanen, BGN Beri Waktu 7 Hari</title>
       <link>https://disway.id/read/968845/654-dapur-mbg-kategori-kritis-terancam-tutup-permanen-bgn-beri-waktu-7-hari</link>
       <guid>https://disway.id/read/968845/654-dapur-mbg-kategori-kritis-terancam-tutup-permanen-bgn-beri-waktu-7-hari</guid>
@@ -312,15 +321,6 @@
       <category>Keuangan</category>
       <source>disway.id</source>
       <ns1:content url="https://cms.disway.id/uploads/large/2ed500266678eb35bb98465e411c852e.png" medium="image"/>
-    </item>
-    <item>
-      <title>Sosok Aris Sanda Tewas Ditembak KKB di Gunung Boy, Sopir Asal Toraja Dipaksa Dukung Papua Merdeka</title>
-      <link>https://disway.id/read/968838/sosok-aris-sanda-tewas-ditembak-kkb-di-gunung-boy-sopir-asal-toraja-dipaksa-dukung-papua-merdeka</link>
-      <guid>https://disway.id/read/968838/sosok-aris-sanda-tewas-ditembak-kkb-di-gunung-boy-sopir-asal-toraja-dipaksa-dukung-papua-merdeka</guid>
-      <pubDate>Wed, 16 Sep 2026 23:09:00 +0000</pubDate>
-      <category>Keuangan</category>
-      <source>disway.id</source>
-      <ns1:content url="https://cms.disway.id/uploads/large/2424af0637300ea8cd4e202519c81d72.jpeg" medium="image"/>
     </item>
     <item>
       <title>Purbaya DJuamputh</title>
