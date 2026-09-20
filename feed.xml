@@ -5,7 +5,7 @@
     <description>RSS Feed gabungan dari berbagai sumber berita Indonesia</description>
     <link>https://github.com/Kimjo12/bansos-rss</link>
     <language>id</language>
-    <lastBuildDate>Sun, 20 Sep 2026 20:07:11 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 20 Sep 2026 22:51:55 +0000</lastBuildDate>
     <ns0:link href="https://Kimjo12.github.io/bansos-rss/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>91% Nasabah blu Didominasi Gen Z dan Milenial, Transaksi Valas Melonjak 435%</title>
@@ -278,6 +278,15 @@
       <ns1:content url="https://cms.disway.id/uploads/large/d6a1d505790236c58bf8ccd95bd2c72b.jpg" medium="image"/>
     </item>
     <item>
+      <title>Chelsea Kebobolan 15 Gol, Maxence Lacroix Mulai Jadi Masalah bagi Xabi Alonso</title>
+      <link>https://disway.id/read/969490/chelsea-kebobolan-15-gol-maxence-lacroix-mulai-jadi-masalah-bagi-xabi-alonso</link>
+      <guid>https://disway.id/read/969490/chelsea-kebobolan-15-gol-maxence-lacroix-mulai-jadi-masalah-bagi-xabi-alonso</guid>
+      <pubDate>Mon, 21 Sep 2026 05:49:00 +0000</pubDate>
+      <category>Keuangan</category>
+      <source>disway.id</source>
+      <ns1:content url="https://cms.disway.id/uploads/large/f840880e6e1fed8349d9a8492f7c6d3d.png" medium="image"/>
+    </item>
+    <item>
       <title>Menteri Ara Temukan Rumah Tak Layak Huni di Petamburan, Ada Warga Berpenghasilan Rp500 Ribu</title>
       <link>https://disway.id/read/969465/menteri-ara-temukan-rumah-tak-layak-huni-di-petamburan-ada-warga-berpenghasilan-rp500-ribu</link>
       <guid>https://disway.id/read/969465/menteri-ara-temukan-rumah-tak-layak-huni-di-petamburan-ada-warga-berpenghasilan-rp500-ribu</guid>
@@ -305,24 +314,6 @@
       <ns1:content url="https://cms.disway.id/uploads/large/3546689a3df55c4fb993f21a41c63b7c.jpeg" medium="image"/>
     </item>
     <item>
-      <title>Hadiri Sidang Pleno U20 di New York, Pramono Ajak Mitra Berinvestasi di Jakarta</title>
-      <link>https://disway.id/read/969445/hadiri-sidang-pleno-u20-di-new-york-pramono-ajak-mitra-berinvestasi-di-jakarta</link>
-      <guid>https://disway.id/read/969445/hadiri-sidang-pleno-u20-di-new-york-pramono-ajak-mitra-berinvestasi-di-jakarta</guid>
-      <pubDate>Sun, 20 Sep 2026 20:58:00 +0000</pubDate>
-      <category>Keuangan</category>
-      <source>disway.id</source>
-      <ns1:content url="https://cms.disway.id/uploads/large/906605f39d504e6a2b90485c7bf17383.jpeg" medium="image"/>
-    </item>
-    <item>
-      <title>Electrifying Agriculture PLN Bantu Jaga Produktivitas Petani di Musim Kemarau</title>
-      <link>https://disway.id/read/969452/electrifying-agriculture-pln-bantu-jaga-produktivitas-petani-di-musim-kemarau</link>
-      <guid>https://disway.id/read/969452/electrifying-agriculture-pln-bantu-jaga-produktivitas-petani-di-musim-kemarau</guid>
-      <pubDate>Sun, 20 Sep 2026 20:33:00 +0000</pubDate>
-      <category>Keuangan</category>
-      <source>disway.id</source>
-      <ns1:content url="https://cms.disway.id/uploads/large/86f96ffc688e6718d1509f87c18fd8bb.jpeg" medium="image"/>
-    </item>
-    <item>
       <title>Anggota Istimewa</title>
       <link>https://disway.id/catatan-harian-dahlan/969232/anggota-istimewa</link>
       <guid>https://disway.id/catatan-harian-dahlan/969232/anggota-istimewa</guid>
@@ -339,15 +330,6 @@
       <category>Keuangan</category>
       <source>disway.id</source>
       <ns1:content url="https://cms.disway.id/uploads/large/80c80f7a511275cd103f183002503080.jpeg" medium="image"/>
-    </item>
-    <item>
-      <title>Purbaya DJuamputh</title>
-      <link>https://disway.id/catatan-harian-dahlan/968651/purbaya-djuamputh</link>
-      <guid>https://disway.id/catatan-harian-dahlan/968651/purbaya-djuamputh</guid>
-      <pubDate>Wed, 16 Sep 2026 04:00:00 +0000</pubDate>
-      <category>Keuangan</category>
-      <source>disway.id</source>
-      <ns1:content url="https://cms.disway.id/uploads/large/cb3592751c6f26ae6318b17e5b7b759c.jpeg" medium="image"/>
     </item>
   </channel>
 </rss>
