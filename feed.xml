@@ -5,7 +5,7 @@
     <description>RSS Feed gabungan dari berbagai sumber berita Indonesia</description>
     <link>https://github.com/Kimjo12/bansos-rss</link>
     <language>id</language>
-    <lastBuildDate>Mon, 21 Sep 2026 17:37:22 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 21 Sep 2026 21:32:24 +0000</lastBuildDate>
     <ns0:link href="https://Kimjo12.github.io/bansos-rss/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Kelola Dana Haji Rp184 Triliun, BPKH Prioritaskan Keamanan dan Likuiditas</title>
@@ -314,15 +314,6 @@
       <ns1:content url="https://cms.disway.id/uploads/large/40745935d973db48d81734163759f1c6.jpg" medium="image"/>
     </item>
     <item>
-      <title>Jelang FIFA ASEAN Cup 2026: Dean James Bersemangat Comeback ke Timnas Indonesia</title>
-      <link>https://disway.id/read/969679/jelang-fifa-asean-cup-2026-dean-james-bersemangat-comeback-ke-timnas-indonesia</link>
-      <guid>https://disway.id/read/969679/jelang-fifa-asean-cup-2026-dean-james-bersemangat-comeback-ke-timnas-indonesia</guid>
-      <pubDate>Mon, 21 Sep 2026 22:33:00 +0000</pubDate>
-      <category>Keuangan</category>
-      <source>disway.id</source>
-      <ns1:content url="https://cms.disway.id/uploads/large/94e1a958bb63e1e918ee1fbcda178226.jpeg" medium="image"/>
-    </item>
-    <item>
       <title>Anggota Istimewa</title>
       <link>https://disway.id/catatan-harian-dahlan/969232/anggota-istimewa</link>
       <guid>https://disway.id/catatan-harian-dahlan/969232/anggota-istimewa</guid>
@@ -330,15 +321,6 @@
       <category>Keuangan</category>
       <source>disway.id</source>
       <ns1:content url="https://cms.disway.id/uploads/large/6bf899c8fda05e3ff6fcfcdbe2658607.jpg" medium="image"/>
-    </item>
-    <item>
-      <title>William Paputungan</title>
-      <link>https://disway.id/catatan-harian-dahlan/968831/william-paputungan</link>
-      <guid>https://disway.id/catatan-harian-dahlan/968831/william-paputungan</guid>
-      <pubDate>Thu, 17 Sep 2026 04:00:00 +0000</pubDate>
-      <category>Keuangan</category>
-      <source>disway.id</source>
-      <ns1:content url="https://cms.disway.id/uploads/large/80c80f7a511275cd103f183002503080.jpeg" medium="image"/>
     </item>
   </channel>
 </rss>
