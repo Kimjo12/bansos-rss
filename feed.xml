@@ -5,7 +5,7 @@
     <description>RSS Feed gabungan dari berbagai sumber berita Indonesia</description>
     <link>https://github.com/Kimjo12/bansos-rss</link>
     <language>id</language>
-    <lastBuildDate>Wed, 23 Sep 2026 18:08:10 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 23 Sep 2026 21:56:32 +0000</lastBuildDate>
     <ns0:link href="https://Kimjo12.github.io/bansos-rss/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Viral Uang Rupiah Bertanda Tangan Purbaya, Bank Indonesia Buka Suara</title>
@@ -312,24 +312,6 @@
       <category>Keuangan</category>
       <source>disway.id</source>
       <ns1:content url="https://cms.disway.id/uploads/large/714115619f9030a819db0bc14f53794d.jpeg" medium="image"/>
-    </item>
-    <item>
-      <title>Soal RUU Perlindungan Ketenagakerjaan, DPR Tampung Aspirasi Pengemudi Ojol</title>
-      <link>https://disway.id/read/970036/soal-ruu-perlindungan-ketenagakerjaan-dpr-tampung-aspirasi-pengemudi-ojol</link>
-      <guid>https://disway.id/read/970036/soal-ruu-perlindungan-ketenagakerjaan-dpr-tampung-aspirasi-pengemudi-ojol</guid>
-      <pubDate>Wed, 23 Sep 2026 22:15:00 +0000</pubDate>
-      <category>Keuangan</category>
-      <source>disway.id</source>
-      <ns1:content url="https://cms.disway.id/uploads/large/53fb363bb0c5e1460a88335d5dd7cb38.jpg" medium="image"/>
-    </item>
-    <item>
-      <title>Anggota Istimewa</title>
-      <link>https://disway.id/catatan-harian-dahlan/969232/anggota-istimewa</link>
-      <guid>https://disway.id/catatan-harian-dahlan/969232/anggota-istimewa</guid>
-      <pubDate>Sat, 19 Sep 2026 04:00:00 +0000</pubDate>
-      <category>Keuangan</category>
-      <source>disway.id</source>
-      <ns1:content url="https://cms.disway.id/uploads/large/6bf899c8fda05e3ff6fcfcdbe2658607.jpg" medium="image"/>
     </item>
   </channel>
 </rss>
