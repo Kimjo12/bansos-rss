@@ -5,7 +5,7 @@
     <description>RSS Feed gabungan dari berbagai sumber berita Indonesia</description>
     <link>https://github.com/Kimjo12/bansos-rss</link>
     <language>id</language>
-    <lastBuildDate>Fri, 25 Sep 2026 20:58:05 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 25 Sep 2026 23:52:08 +0000</lastBuildDate>
     <ns0:link href="https://Kimjo12.github.io/bansos-rss/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Cara Beli Saham AMD di Indonesia</title>
@@ -312,15 +312,6 @@
       <category>Keuangan</category>
       <source>disway.id</source>
       <ns1:content url="https://cms.disway.id/uploads/large/894f86dd4c5205978920f4656885a2f2.png" medium="image"/>
-    </item>
-    <item>
-      <title>Lirik Lagu maha benar - Salma Salsabil Lengkap Makna, Bicara Lingkungan Toxic</title>
-      <link>https://disway.id/read/970435/lirik-lagu-maha-benar-salma-salsabil-lengkap-makna-bicara-lingkungan-toxic</link>
-      <guid>https://disway.id/read/970435/lirik-lagu-maha-benar-salma-salsabil-lengkap-makna-bicara-lingkungan-toxic</guid>
-      <pubDate>Fri, 25 Sep 2026 22:32:00 +0000</pubDate>
-      <category>Keuangan</category>
-      <source>disway.id</source>
-      <ns1:content url="https://cms.disway.id/uploads/large/f73a4cb4b2f7409c09e4ebcd0252966e.png" medium="image"/>
     </item>
   </channel>
 </rss>
